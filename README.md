@@ -3,8 +3,7 @@
 The official repository for the EuroCrops dataset.
 ***
 ## Participating countries
-
-![Screenshot from 2022-03-10 14-18-09](https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png)
+<p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
 
 ## Vector data folder structure
 ```
