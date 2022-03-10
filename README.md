@@ -1,4 +1,9 @@
 # EuroCrops
+***
+The official repository for the EuroCrops dataset.
+***
+
+## Vector data folder structure
 ```
 ├── AT
 │   └── 
