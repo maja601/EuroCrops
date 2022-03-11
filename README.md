@@ -25,9 +25,10 @@ The official repository for the EuroCrops dataset.
 10. [Latvia](#latvia)
 11. [Netherlands](#netherlands)
 12. [Portugal](#portugal)
-13. [Sweden](#sweden)
-14. [Slovenia](#slovenia)
-15. [Slovakia](#slovakia)
+13. [Romania](#romania)
+14. [Sweden](#sweden)
+15. [Slovenia](#slovenia)
+16. [Slovakia](#slovakia)
 
 ### Austria <a name="austria"></a>
 | Original attribute table column name |           |
@@ -130,6 +131,8 @@ The official repository for the EuroCrops dataset.
 ### Netherlands <a name="netherlands"></a>
 > TODO
 ### Portugal <a name="portugal"></a>
+> TODO
+### Romania <a name="romania"></a>
 > TODO
 ### Sweden <a name="sweden"></a>
 > TODO
