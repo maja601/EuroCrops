@@ -1,8 +1,16 @@
 # EuroCrops
 ***
 The official repository for the EuroCrops dataset.
+
+
+
+## Content
+
+1. [Participating countries](#participating_countries)
+2. [Vector data folder structure](#folder_structure)
+
 ***
-## Participating countries
+## Participating countries<a name="participating_countries"></a>
 <p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
 
 1. [Austria](#austria)
@@ -22,11 +30,89 @@ The official repository for the EuroCrops dataset.
 15. [Slovakia](#slovakia)
 
 ### Austria <a name="austria"></a>
-> TODO
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+| fid                                  |           |
+| FS_KENNUNG                           |           |
+| **SNAR_BEZEICHNUNG**                 | crop name |
+| SL_FLAECHE_BRUTTO_HA                 |           |
+| GEO_ID                               |           |
+| INSPIRE_ID                           |           |
+| GML_ID                               |           |
+| GML_ID                               |           |
+| SNAR_CODE                            |           |
+| GEO_PART_KEY                         |           |
+| LOG_PKEY                             |           |
+| GEOM_DATE_CREATED                    |           |
+| FART_ID                              |           |
+| GEO_TYPE                             |           |
+| GML_GEOM                             |           |
+| GML_LENGTH                           |           |
+
+
+
 ### Belgium <a name="belgium"></a>
-> TODO
+#### Flanders
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+|  GRAF_OPP | |
+|  REF_ID | |
+|  GWSCOD_V | pre crop code |
+|  GWSNAM_V | pre crop name |
+|  **GWSCOD_H** | crop code |
+|  **GWSNAM_H** | crop name |
+|  GWSGRP_H | |
+|  GWSGRPH_LB | |
+|  GWSCOD_N | first post crop code |
+|  CWSNAM_N | first post crop name|
+|  GWSCOD_N2 | second post crop code |
+|  GWSNAM_N2 | second post crop name |
+|  GESP_PM | |
+|  GESP_PM_LB | |
+|  ERO_NAM | |
+|  STAT_BGV | |
+|  LANDBSTR | |
+|  STAT_AAR | |
+|  PCT_EKBG | |
+|  PRC_GEM | |
+|  PRC_NIS | |
+|  X_REF | |
+|  Y_REF | |
+|  WGS84_LG | |
+|  WGS84_BG | |
+
+#### Wallonia
+
 ### Germany <a name="germany"></a>
-> TODO
+#### Lower Saxony
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+| FLIK | |
+| SCHLAGNR | |
+| TEILSCHLAG | |
+| **KULTURCODE** | crop code |
+| ANTRAGSJAH | |
+
+
+#### North Rhine Westphalia
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+| ID | |
+| INSPIRE_ID | |
+| FLIK | |
+| AREA_H | |
+| **CODE** | crop code |
+| **CODE_TXT** | crop name |
+| USE_CODE | |
+| USE_TEXT | |
+| D_PG | |
+| CROPDIV | |
+| EFA | |
+| ELER | |
+| WJ | |
+| DAT_BEARB | |
+
+
 ### Denmark <a name="denmark"></a>
 > TODO
 ### Estonia <a name="estonia"></a>
@@ -53,7 +139,7 @@ The official repository for the EuroCrops dataset.
 > TODO
 
 
-## Vector data folder structure
+## Vector data folder structure <a name="folder_structure"></a>
 ```
 ├── AT
 │   └── 
