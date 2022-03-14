@@ -16,6 +16,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Background <a name="background"></a>
 ![g1924](https://user-images.githubusercontent.com/22978370/158154235-06794acb-d163-447e-80ca-16e9cd60f11c.png)
 
+**Disclaimer**: The *Nomenclature of Territorial Units for Statistics 3 (NUTS3)* region is just an approximate assignment of a crop parcel to a region.
+It might happen that a parcel is not correctly allocated to the right region or country.
+The NUTS3 attribute is only meant to be an aid for a meaningful spatial division of the dataset into training, validation and test sets.
+
 ## Participating countries <a name="participating_countries"></a>
 <p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
 
