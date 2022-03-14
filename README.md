@@ -19,6 +19,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Participating countries <a name="participating_countries"></a>
 <p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
 
+Find detailed information for all countries of the European Union in our [Wiki](https://github.com/maja601/EuroCrops/wiki), especially the countries represented in EuroCrops:
 - [Austria](https://github.com/maja601/EuroCrops/wiki/Austria)
 - [Belgium](https://github.com/maja601/EuroCrops/wiki/Belgium)
 - [Germany](https://github.com/maja601/EuroCrops/wiki/Germany)
