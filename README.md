@@ -12,8 +12,7 @@ The official repository for the EuroCrops dataset.
 
 ***
 ## Background <a name="background"></a>
-![image10](https://user-images.githubusercontent.com/22978370/158153910-ee60fc14-10ee-4ab8-9228-2e5765c1dd52.png)
-
+![g1924](https://user-images.githubusercontent.com/22978370/158154235-06794acb-d163-447e-80ca-16e9cd60f11c.png)
 
 ## Participating countries <a name="participating_countries"></a>
 <p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
