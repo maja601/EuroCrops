@@ -6,11 +6,16 @@ The official repository for the EuroCrops dataset.
 
 ## Content
 
-1. [Participating countries](#participating_countries)
-2. [Vector data folder structure](#folder_structure)
+1. [Background](#background)
+2. [Participating countries](#participating_countries)
+3. [Vector data folder structure](#folder_structure)
 
 ***
-## Participating countries<a name="participating_countries"></a>
+## Background <a name="background"></a>
+![image10](https://user-images.githubusercontent.com/22978370/158153910-ee60fc14-10ee-4ab8-9228-2e5765c1dd52.png)
+
+
+## Participating countries <a name="participating_countries"></a>
 <p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
 
 - [Austria](https://github.com/maja601/EuroCrops/wiki/Austria)
