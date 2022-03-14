@@ -13,22 +13,22 @@ The official repository for the EuroCrops dataset.
 ## Participating countries<a name="participating_countries"></a>
 <p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
 
-1. [Austria](https://github.com/maja601/EuroCrops/wiki/Austria)
-2. [Belgium](https://github.com/maja601/EuroCrops/wiki/Belgium)
-3. [Germany](https://github.com/maja601/EuroCrops/wiki/Germany)
-4. [Denmark](https://github.com/maja601/EuroCrops/wiki/Denmark)
-5. [Estonia](https://github.com/maja601/EuroCrops/wiki/Estonia)
-6. [Spain](https://github.com/maja601/EuroCrops/wiki/Spain)
-7. [France](https://github.com/maja601/EuroCrops/wiki/France)
-8. [Croatia](https://github.com/maja601/EuroCrops/wiki/Croatia)
-9. [Lithuania](https://github.com/maja601/EuroCrops/wiki/Lithuania)
-10. [Latvia](https://github.com/maja601/EuroCrops/wiki/Latvia)
-11. [Netherlands](https://github.com/maja601/EuroCrops/wiki/Netherlands)
-12. [Portugal](https://github.com/maja601/EuroCrops/wiki/Portugal)
-13. [Romania](https://github.com/maja601/EuroCrops/wiki/Romania)
-14. [Sweden](https://github.com/maja601/EuroCrops/wiki/Sweden)
-15. [Slovenia](https://github.com/maja601/EuroCrops/wiki/Slovenia)
-16. [Slovakia](https://github.com/maja601/EuroCrops/wiki/Slovakia)
+- [Austria](https://github.com/maja601/EuroCrops/wiki/Austria)
+- [Belgium](https://github.com/maja601/EuroCrops/wiki/Belgium)
+- [Germany](https://github.com/maja601/EuroCrops/wiki/Germany)
+- [Denmark](https://github.com/maja601/EuroCrops/wiki/Denmark)
+- [Estonia](https://github.com/maja601/EuroCrops/wiki/Estonia)
+- [Spain](https://github.com/maja601/EuroCrops/wiki/Spain)
+- [France](https://github.com/maja601/EuroCrops/wiki/France)
+- [Croatia](https://github.com/maja601/EuroCrops/wiki/Croatia)
+- [Lithuania](https://github.com/maja601/EuroCrops/wiki/Lithuania)
+- [Latvia](https://github.com/maja601/EuroCrops/wiki/Latvia)
+- [Netherlands](https://github.com/maja601/EuroCrops/wiki/Netherlands)
+- [Portugal](https://github.com/maja601/EuroCrops/wiki/Portugal)
+- [Romania](https://github.com/maja601/EuroCrops/wiki/Romania)
+- [Sweden](https://github.com/maja601/EuroCrops/wiki/Sweden)
+- [Slovenia](https://github.com/maja601/EuroCrops/wiki/Slovenia)
+- [Slovakia](https://github.com/maja601/EuroCrops/wiki/Slovakia)
 
 
 ## Vector data folder structure <a name="folder_structure"></a>
