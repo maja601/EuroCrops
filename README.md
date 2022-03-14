@@ -2,7 +2,8 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 EuroCrops is a dataset collection combining all publicly available self-declared crop reporting datasets from countries of the European Union.
-The project is funded by the German Space Agency at DLR on behalf of the Federal Ministry for Economic Affairs and Climate Action (BMWK). 
+The project is funded by the German Space Agency at DLR on behalf of the Federal Ministry for Economic Affairs and Climate Action (BMWK).
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 ***
 ## Content
@@ -71,9 +72,6 @@ The project is funded by the German Space Agency at DLR on behalf of the Federal
 └── SK
     └──
 ```
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
