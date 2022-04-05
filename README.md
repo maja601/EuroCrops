@@ -1,4 +1,4 @@
-![EuroCrops_Bratislava](https://user-images.githubusercontent.com/22978370/161756895-a6a9dced-4695-4a61-aad2-d13a99cbe7b3.gif)
+![03_bratislava4_sw_border_parcels](https://user-images.githubusercontent.com/22978370/161757196-c0316b58-6ee8-48a3-a604-4d9aafc3adb4.png)
 _Border Region Austria - Slovakia around Bratislava_
 # EuroCrops
 [![CC BY 4.0][cc-by-shield]][cc-by]
