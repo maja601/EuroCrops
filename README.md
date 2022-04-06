@@ -13,6 +13,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 1. [Background](#background)
 2. [Participating countries](#participating_countries)
 3. [Vector data folder structure](#folder_structure)
+4. [Attribute table structure](#a_table_structure)
 
 ***
 ## Background <a name="background"></a>
@@ -81,6 +82,11 @@ Find detailed information for all countries of the European Union in our [Wiki](
 └── SK
     └──
 ```
+
+
+## Attribute table structure <a name="a_table_structure"></a>
+
+
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
