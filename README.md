@@ -60,10 +60,10 @@ Find detailed information for all countries of the European Union in our [Wiki](
 ├── DK
 │   └── .*
 ├── EE
-│   └── NA
-│       └── .*
+│   └── 
 ├── ES
-│   └── ES_NA_2020_EC21.*
+│   └── NA
+│       └── ES_NA_2020_EC21.*
 ├── FR
 │   └── 
 ├── HR
