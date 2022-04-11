@@ -54,31 +54,34 @@ Find detailed information for all countries of the European Union in our [Wiki](
 │       └── FLANDERS_2019_EuroCrops.*
 ├── DE
 │   ├── LS
-│   |   └── DE_LS_EuroCrops.*
+│   |   └── .*
 │   └── NRW
-│       └── DE_NRW_EuroCrops.*
+│       └── .*
 ├── DK
-│   └── DK_2019_EuroCrops.*
+│   └── .*
 ├── EE
-│   └── EE_2021_EuroCrops.*
+│   └── NA
+│       └── .*
+├── ES
+│   └── ES_NA_2020_EC21.*
 ├── FR
 │   └── 
 ├── HR
-│   └── HR_2020_EuroCrops.*
+│   └── HR_2020_EC21.*
 ├── LT
-│   └── LT_2021_EuroCrops.*
+│   └── LT_2021_EC.*
 ├── LV
-│   └── LV_2021_EuroCrops.*
+│   └── LV_2021_EC21.*
 ├── NL
 │   └── 
 ├── PT
-│   └── PT_2021_EuroCrops.*
+│   └── .*
 ├── RO
-│   └── RO_ny_EuroCrops.*
+│   └── RO_ny_EC21.*
 ├── SE
-│   └── SE_2021_EuroCrops.*
+│   └── SE_2021_EC21.*
 ├── SI
-│   └── SI_2021_EuroCrops.*
+│   └── SK_2021_EC21.*
 └── SK
     └──
 ```
