@@ -48,13 +48,13 @@ Find detailed information for all countries of the European Union in our [Wiki](
 ## Vector data folder structure <a name="folder_structure"></a>
 ```
 ├── AT
-│   └── 
+│   └── AT_2021_EC21.*
 ├── BE
 │   └── FL
 │       └── .*
 ├── DE
 │   ├── LS
-│   |   └── .*
+│   |   └── DE_LS_2021_EC21.*
 │   └── NRW
 │       └── DE_NRW_2021_EC21.*
 ├── DK
