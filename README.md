@@ -51,7 +51,7 @@ Find detailed information for all countries of the European Union in our [Wiki](
 │   └── 
 ├── BE
 │   └── FL
-│       └── FLANDERS_2019_EuroCrops.*
+│       └── .*
 ├── DE
 │   ├── LS
 │   |   └── .*
@@ -81,9 +81,9 @@ Find detailed information for all countries of the European Union in our [Wiki](
 ├── SE
 │   └── SE_2021_EC21.*
 ├── SI
-│   └── SK_2021_EC21.*
+│   └── SI_2021_EC21.*
 └── SK
-    └──
+    └── SK_2021_EC21.*
 ```
 
 
