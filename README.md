@@ -65,7 +65,7 @@ Find detailed information for all countries of the European Union in our [Wiki](
 │   └── NA
 │       └── ES_NA_2020_EC21.*
 ├── FR
-│   └── 
+│   └── FR_2018_EC21.*
 ├── HR
 │   └── HR_2020_EC21.*
 ├── LT
