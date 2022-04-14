@@ -87,8 +87,6 @@ Find detailed information for all countries of the European Union in our [Wiki](
 ```
 
 
-## Attribute table structure <a name="a_table_structure"></a>
-
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
