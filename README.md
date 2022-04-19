@@ -60,7 +60,7 @@ Find detailed information for all countries of the European Union in our [Wiki](
 ├── DK
 │   └── DK_2019_EC21.*
 ├── EE
-│   └── 
+│   └── EE_2021_EC21.*
 ├── ES
 │   └── NA
 │       └── ES_NA_2020_EC21.*
@@ -73,9 +73,9 @@ Find detailed information for all countries of the European Union in our [Wiki](
 ├── LV
 │   └── LV_2021_EC21.*
 ├── NL
-│   └── 
+│   └── NL_2021_EC21.*
 ├── PT
-│   └── .*
+│   └── PT_2021_EC21.*
 ├── RO
 │   └── RO_ny_EC21.*
 ├── SE
