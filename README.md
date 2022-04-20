@@ -12,8 +12,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 1. [Background](#background)
 2. [Participating countries](#participating_countries)
-3. [Vector data folder structure](#folder_structure)
-4. [Attribute table structure](#a_table_structure)
+3. [GitHub project structure](#github_structure)
+4. [Vector data folder structure](#folder_structure)
+
 
 ***
 ## Background <a name="background"></a>
@@ -44,6 +45,14 @@ Find detailed information for all countries of the European Union in our [Wiki](
 - [Slovenia](https://github.com/maja601/EuroCrops/wiki/Slovenia)
 - [Slovakia](https://github.com/maja601/EuroCrops/wiki/Slovakia)
 
+## GitHub project structure <a name="github_structure"></a>
+```
+├── csvs
+│   ├── country_mappings
+│       └── [CSV mapping files for all participating countries]
+└── hcat_core
+    └── HCAT.csv
+```
 
 ## Vector data folder structure <a name="folder_structure"></a>
 ```
