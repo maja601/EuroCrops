@@ -7,6 +7,8 @@ EuroCrops is a dataset collection combining all publicly available self-declared
 The project is funded by the German Space Agency at DLR on behalf of the Federal Ministry for Economic Affairs and Climate Action (BMWK).
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
+Right now EuroCrops only includes vector data, but stay tuned for a version that includes satellite imagery!
+
 ***
 ## Content
 
