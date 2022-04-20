@@ -15,7 +15,7 @@ Right now EuroCrops only includes vector data, but stay tuned for a version that
 1. [Background](#background)
 2. [Participating countries](#participating_countries)
 3. [GitHub project structure](#github_structure)
-4. [Vector data folder structure](#folder_structure)
+4. [Vector data download](#vectordata)
 
 
 ***
@@ -56,7 +56,8 @@ Find detailed information for all countries of the European Union in our [Wiki](
     └── HCAT.csv
 ```
 
-## Vector data folder structure <a name="folder_structure"></a>
+## Vector data download<a name="vectordata"></a>
+The shapefiles of the countries are available via [Sync&Share](https://syncandshare.lrz.de/getlink/fiAD95cTrXbnKMrdZYrFFcN8/). They might be still some changes with the data in this folder, such as adding the NUTS3 region identifier to the parchels. Version-controlled and citable editions will be made available in near future over [mediaTUM](https://mediatum.ub.tum.de/).
 ```
 ├── AT
 │   └── AT_2021_EC21.*
