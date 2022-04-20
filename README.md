@@ -106,11 +106,11 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 
 ```
 @misc{Schneider2021EuroCrops21,
-  author =        {Schneider, Maja and Schmitz, Felix and Schelte, Tobias and Dutta, Sreejit and K{\"o}rner, Marco},
-  title =         {EuroCrops},
-  year =          {2021},
-  type         = {Dataset},
-  url          = {https://github.com/maja601/EuroCrops}
+  author    = {Schneider, Maja and Schmitz, Felix and Schelte, Tobias and Dutta, Sreejit and K{\"o}rner, Marco},
+  title     = {EuroCrops},
+  year      = {2021},
+  type      = {Dataset},
+  url       = {https://github.com/maja601/EuroCrops}
 }
 ```
 
@@ -118,16 +118,16 @@ Additional references:
 
 ```
 @InProceedings{Schneider2021EPE,
-  author     = {Schneider, Maja and Broszeit, Amelie and K{\"o}rner, Marco},
-  booktitle  = {Proceedings of the Conference on Big Data from Space (BiDS)},
-  title      = {{EuroCrops}: A Pan-European Dataset for Time Series Crop Type Classification},
-  editor     = {Soille, Pierre and Loekken, Sveinung and Albani, Sergio},
-  publisher  = {Publications Office of the European Union},
-  date       = {2021-05-18},
-  doi        = {10.2760/125905},
-  eprint      = {2106.08151},
-  eprintclass = {eess.IV,cs.CV,cs.LG},
-  eprinttype  = {arxiv}
+  author        = {Schneider, Maja and Broszeit, Amelie and K{\"o}rner, Marco},
+  booktitle     = {Proceedings of the Conference on Big Data from Space (BiDS)},
+  title         = {{EuroCrops}: A Pan-European Dataset for Time Series Crop Type Classification},
+  editor        = {Soille, Pierre and Loekken, Sveinung and Albani, Sergio},
+  publisher     = {Publications Office of the European Union},
+  date          = {2021-05-18},
+  doi           = {10.2760/125905},
+  eprint        = {2106.08151},
+  eprintclass   = {eess.IV,cs.CV,cs.LG},
+  eprinttype    = {arxiv}
 }
 ```
 
