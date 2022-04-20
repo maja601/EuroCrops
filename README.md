@@ -16,6 +16,7 @@ Right now EuroCrops only includes vector data, but stay tuned for a version that
 2. [Participating countries](#participating_countries)
 3. [GitHub project structure](#github_structure)
 4. [Vector data download](#vectordata)
+5. [Reference](#reference)
 
 
 ***
@@ -98,7 +99,7 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
     └── SK_2021_EC21.*
 ```
 
-
+## Reference<a name="reference"></a>
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
