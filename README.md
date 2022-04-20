@@ -105,7 +105,7 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 **Disclaimer**: The official reference will follow soon. Please also reference the countries' dependent source in case you're using their data.
 
 ```
-@misc{Schneider2021EuroCrops21,
+@Misc{Schneider2021EuroCrops21,
   author    = {Schneider, Maja and Schmitz, Felix and Schelte, Tobias and Dutta, Sreejit and K{\"o}rner, Marco},
   title     = {EuroCrops},
   year      = {2021},
