@@ -108,7 +108,9 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 @misc{Schneider2021EuroCrops21,
   author =        {Schneider, Maja and Schmitz, Felix and Schelte, Tobias and Dutta, Sreejit and K{\"o}rner, Marco},
   title =         {EuroCrops},
-  year =          {2021}
+  year =          {2021},
+  type         = {Dataset},
+  url          = {https://github.com/maja601/EuroCrops}
 }
 ```
 
