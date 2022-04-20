@@ -1,5 +1,6 @@
 ![03_bratislava4_sw_border_parcels](https://user-images.githubusercontent.com/22978370/161757196-c0316b58-6ee8-48a3-a604-4d9aafc3adb4.png)
 _Border Region Austria - Slovakia around Bratislava_
+
 # EuroCrops
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -100,6 +101,48 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 ```
 
 ## Reference<a name="reference"></a>
+
+**Disclaimer**: The official reference will follow soon. Please also reference the countries' dependent source in case you're using their data.
+
+```
+@misc{Schneider2021EuroCrops21,
+  author =        {Schneider, Maja and Schmitz, Felix and Schelte, Tobias and Dutta, Sreejit and K{\"o}rner, Marco},
+  title =         {EuroCrops},
+  year =          {2021}
+}
+```
+
+Additional references:
+
+```
+@InProceedings{Schneider2021EPE,
+  author     = {Schneider, Maja and Broszeit, Amelie and K{\"o}rner, Marco},
+  booktitle  = {Proceedings of the Conference on Big Data from Space (BiDS)},
+  title      = {{EuroCrops}: A Pan-European Dataset for Time Series Crop Type Classification},
+  editor     = {Soille, Pierre and Loekken, Sveinung and Albani, Sergio},
+  publisher  = {Publications Office of the European Union},
+  date       = {2021-05-18},
+  doi        = {10.2760/125905},
+  eprint      = {2106.08151},
+  eprintclass = {eess.IV,cs.CV,cs.LG},
+  eprinttype  = {arxiv},
+  eventtitle = {From Insights to Foresight},
+  keywords   = {own, reviewed_full},
+}
+```
+
+```
+@Misc{Schneider2021TEC,
+  author       = {Schneider, Maja and K{\"o}rner, Marco},
+  date         = {2021-06-15},
+  title        = {{TinyEuroCrops}},
+  doi          = {10.14459/2021MP1615987},
+  organization = {Technical University of Munich (TUM)},
+  type         = {Dataset},
+  url          = {https://mediatum.ub.tum.de/1615987},
+}
+```
+
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
