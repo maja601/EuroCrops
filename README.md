@@ -125,9 +125,7 @@ Additional references:
   doi        = {10.2760/125905},
   eprint      = {2106.08151},
   eprintclass = {eess.IV,cs.CV,cs.LG},
-  eprinttype  = {arxiv},
-  eventtitle = {From Insights to Foresight},
-  keywords   = {own, reviewed_full},
+  eprinttype  = {arxiv}
 }
 ```
 
@@ -139,7 +137,7 @@ Additional references:
   doi          = {10.14459/2021MP1615987},
   organization = {Technical University of Munich (TUM)},
   type         = {Dataset},
-  url          = {https://mediatum.ub.tum.de/1615987},
+  url          = {https://mediatum.ub.tum.de/1615987}
 }
 ```
 
