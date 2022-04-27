@@ -10,6 +10,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 Right now EuroCrops only includes vector data, but stay tuned for a version that includes satellite imagery!
 
+**For any questions, please refer to our [FAQs](https://github.com/maja601/EuroCrops/wiki/FAQs) or use the Discussions/Issues to reach out to us.**
+
 ***
 ## Content
 
