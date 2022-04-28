@@ -61,7 +61,8 @@ Find detailed information for all countries of the European Union in our [Wiki](
 ```
 
 ## Vector data download<a name="vectordata"></a>
-The shapefiles of the countries are available via [Sync&Share](https://syncandshare.lrz.de/getlink/fiAD95cTrXbnKMrdZYrFFcN8/). They might be still some changes with the data in this folder, such as adding the NUTS3 region identifier to the parchels. Version-controlled and citable editions will be made available in near future over [mediaTUM](https://mediatum.ub.tum.de/).
+The shapefiles of the countries are available via [Sync&Share](https://syncandshare.lrz.de/getlink/fiAD95cTrXbnKMrdZYrFFcN8/). They might be still some changes with the data in this folder, such as adding the NUTS3 region identifier to the parchels. Version-controlled and citable editions will be made available in near future over [mediaTUM](https://mediatum.ub.tum.de/). Please also make sure to download the data for the countries individually, as there might be some loss otherwise.
+
 ```
 ├── AT
 │   └── AT_2021_EC21.*
