@@ -13,7 +13,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 10,Vinterbyg,Winter barley,winter_barley,3301010401
 251,"Permanent græs, lavt udbytte",Permanent grass low yield,pasture_meadow_grassland_grass,3302000000
 583,Juletræer og pyntegrønt på landbrugsjord,Christmas trees and ornamental greenery on agricultural land,tree_wood_forest,3306000000
-3,Vårhavre,Spring oats,summer_oats,3301010503
+3,Vårhavre,Spring oats,spring_oats,3301010502
 318,"MVJ ej udtagning, ej landbrugsareal",AECM no set aside not farmland area,not_known_and_other,3399000000
 250,"Permanent græs, meget lavt udbytte",Permanent grass very low yield,pasture_meadow_grassland_grass,3302000000
 268,"Græs under 50% kløver/lucerne, lavt udbytte (omdrift)",Grass below 50% clover / alfalfa low yield (rotation),pasture_meadow_grassland_grass,3302000000
