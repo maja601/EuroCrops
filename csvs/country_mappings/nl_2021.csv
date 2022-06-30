@@ -1,7 +1,7 @@
 original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 265,"Grasland, blijvend",Grassland permanent,pasture_meadow_grassland_grass,3302000000
 266,"Grasland, tijdelijk",Grassland temporary,pasture_meadow_grassland_grass,3302000000
-259,"Maïs, snij-",maize cut,grain_maize_corn_popcorn,3301010600
+259,"Maïs, snij-",maize cut,green_silo_maize,3301090400
 331,"Grasland, natuurlijk. Hoofdfunctie landbouw.",Grassland natural. Main function agriculture.,pasture_meadow_grassland_grass,3302000000
 233,"Tarwe, winter-",wheat winter,winter_common_soft_wheat,3301010101
 2014,"Aardappelen, consumptie",Potatoes consumption,potatoes,3301030000
