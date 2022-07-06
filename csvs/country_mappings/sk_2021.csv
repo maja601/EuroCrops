@@ -1,6 +1,6 @@
 original_name,translated_name,HCAT2_name,HCAT2_code
 Trvalý trávny porast,Permanent grassland,pasture_meadow_grassland_grass,3302000000
-Pšenica ozimná,Winter wheat,winter_durum_hard_wheat,3301010201
+Pšenica ozimná,Winter wheat,winter_common_soft_wheat,3301010101
 Mezofilné  trvalé trávne porasty (typ B),Mesophilic permanent grassland (type B),pasture_meadow_grassland_grass,3302000000
 Kukurica,Sweet corn,grain_maize_corn_popcorn,3301010600
 Pôda ležiaca úhorom,Fallow land,fallow_land_not_crop,3301110000
