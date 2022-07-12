@@ -16,10 +16,11 @@ Right now EuroCrops only includes vector data, but stay tuned for a version that
 ## Content
 
 1. [Background](#background)
-2. [Participating countries](#participating_countries)
-3. [GitHub project structure](#github_structure)
-4. [Vector data download](#vectordata)
-5. [Reference](#reference)
+2. [Hamonisation with HCAT](#harmonsiation)
+3. [Participating countries](#participating_countries)
+4. [GitHub project structure](#github_structure)
+5. [Vector data download](#vectordata)
+6. [Reference](#reference)
 
 
 ***
@@ -29,6 +30,15 @@ Right now EuroCrops only includes vector data, but stay tuned for a version that
 **Disclaimer**: The *Nomenclature of Territorial Units for Statistics 3 (NUTS3)* region, which we added by hand, is just an approximate assignment of a crop parcel to a region.
 It might happen that a parcel is not correctly allocated to the right region or country.
 The NUTS3 attribute is only meant to be an aid for a meaningful spatial division of the dataset into training, validation and test sets.
+
+## Hamonisation with HCAT <a name="harmonsiation"></a>
+The raw data obtained from the countries does not come in a unified, machine-readable taxonomy. We, therefore, developed a new **Hierarchical Crop and Agriculture Taxonomy (HCAT)** that harmonises all declared crops across the European Union. In the shapefiles you'll find this as additional attributes:
+
+| Attribute Name | Explanation                                                 |
+| -------------- | ----------------------------------------------------------- |
+| EC_trans_n     | The original crop name translated into English              |
+| EC_hcat_n      | The machine-readable HCAT name of the crop                  |
+| EC_hcat_c      | The 10-digit HCAT code indicating the hierarchy of the crop |
 
 ## Participating countries <a name="participating_countries"></a>
 <p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
