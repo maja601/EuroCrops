@@ -19,8 +19,9 @@ Right now EuroCrops only includes vector data, but stay tuned for a version that
 2. [Hamonisation with HCAT](#harmonsiation)
 3. [Participating countries](#participating_countries)
 4. [GitHub project structure](#github_structure)
-5. [Vector data download](#vectordata)
-6. [Reference](#reference)
+5. [Vector data download via zenodo](#vectordata_zenodo)
+6. [Vector data download via Sync&Share (old)](#vectordata)
+7. [Reference](#reference)
 
 
 ***
@@ -70,7 +71,14 @@ Find detailed information for all countries of the European Union in our [Wiki](
     └── HCAT.csv
 ```
 
-## Vector data download<a name="vectordata"></a>
+
+
+## Vector data download via zenodo<a name="vectordata_zenodo"></a>
+
+The vector data is now available via [zenodo](https://zenodo.org/record/6868143)!
+
+## Vector data download via Sync&Share (old)<a name="vectordata"></a>
+
 The shapefiles of the countries are available via [Sync&Share](https://syncandshare.lrz.de/getlink/fiAD95cTrXbnKMrdZYrFFcN8/). They might be still some changes with the data in this folder, such as adding the NUTS3 region identifier to the parchels. Version-controlled and citable editions will be made available in near future over [mediaTUM](https://mediatum.ub.tum.de/). Please also make sure to download the data for the countries individually, as there might be some loss otherwise.
 
 ```
@@ -118,12 +126,13 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 **Disclaimer**: The official reference will follow soon. Please also reference the countries' dependent source in case you're using their data.
 
 ```
-@Misc{Schneider2021EuroCrops21,
-  author    = {Schneider, Maja and Schmitz, Felix and Schelte, Tobias and Dutta, Sreejit and K{\"o}rner, Marco},
-  title     = {EuroCrops},
-  year      = {2021},
-  type      = {Dataset},
-  url       = {https://github.com/maja601/EuroCrops}
+@Misc{schneider2022eurocrops21,
+ author		= {Schneider, Maja and Körner, Marco},
+ title		= {EuroCrops},
+ DOI		= {10.5281/zenodo.6866846},
+ type      = {Dataset},
+ publisher	= {Zenodo},
+ year={2022}
 }
 ```
 
