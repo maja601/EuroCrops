@@ -75,7 +75,7 @@ Find detailed information for all countries of the European Union in our [Wiki](
 
 ## Vector data download via zenodo<a name="vectordata_zenodo"></a>
 
-The vector data is now available via [zenodo](https://zenodo.org/record/6868143)!
+The vector data is now available via [zenodo](https://zenodo.org/record/6866846)!
 
 ## Vector data download via Sync&Share (old)<a name="vectordata"></a>
 
@@ -130,9 +130,9 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
  author		= {Schneider, Maja and Körner, Marco},
  title		= {EuroCrops},
  DOI		= {10.5281/zenodo.6866846},
- type      = {Dataset},
+ type       = {Dataset},
  publisher	= {Zenodo},
- year={2022}
+ year       = {2022}
 }
 ```
 
