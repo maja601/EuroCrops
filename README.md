@@ -127,11 +127,11 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 
 ```
 @Misc{schneider2022eurocrops21,
- author		= {Schneider, Maja and Körner, Marco},
- title		= {EuroCrops},
- DOI		= {10.5281/zenodo.6866846},
+ author     = {Schneider, Maja and K{\"o}rner, Marco},
+ title      = {EuroCrops},
+ DOI        = {10.5281/zenodo.6866846},
  type       = {Dataset},
- publisher	= {Zenodo},
+ publisher  = {Zenodo},
  year       = {2022}
 }
 ```
