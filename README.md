@@ -139,6 +139,27 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 Additional references:
 
 ```
+@Article{Schneider2022Challenges,
+  title     = {Challenges and Opportunities of Large Transnational Datasets: A Case Study on European Administrative Crop Data},
+  author    = {Schneider, Maja and Marchington, Christian and K{\"o}rner, Marco},
+  journal   = {arXiv preprint arXiv:2210.07178}
+  note      = {Accepted at Thirty-sixth Conference on Neural Information Processing Systems. Workshop on Broadening Research Collaborations 2022},
+  year      = {2022}
+}
+```
+
+```
+@InProceedings{Schneider2022Harnessing,
+  title         = {Harnessing Administrative Data Inventories to Create a Reliable Transnational Reference Database for Crop Type Monitoring},
+  author        = {Schneider, Maja and K{\"o}rner, Marco},
+  booktitle     = {IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages         = {5385--5388},
+  year          = {2022},
+  organization  = {IEEE}
+}
+```
+
+```
 @InProceedings{Schneider2021EPE,
   author        = {Schneider, Maja and Broszeit, Amelie and K{\"o}rner, Marco},
   booktitle     = {Proceedings of the Conference on Big Data from Space (BiDS)},
