@@ -7,10 +7,10 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2014,"Aardappelen, consumptie",Potatoes consumption,potatoes,3301030000
 256,"Bieten, suiker-",beets sugar,sugar_beet,3301290700
 2015,"Aardappelen, poot NAK",Potatoes leg NAK,potatoes,3301030000
-236,"Gerst, zomer-",barley summer,summer_barley,3301010403
+236,"Gerst, zomer-",barley summer,spring_barley,3301010402
 2017,"Aardappelen, zetmeel ",Potatoes starch,potatoes,3301030000
 335,Natuurterreinen (incl. heide),Natural areas (incl. heath),not_known_and_other,3399000000
-234,"Tarwe, zomer-",wheat summer,summer_common_soft_wheat,3301010103
+234,"Tarwe, zomer-",wheat summer,spring_common_soft_wheat,3301010102
 316,"Maïs, korrel-",corn grain,grain_maize_corn_popcorn,3301010600
 1926,Agrarisch natuurmengsel,Agricultural nature mixture,not_known_and_other,3399000000
 332,"Grasland, natuurlijk. Hoofdfunctie natuur.",Grassland of course. Main function nature.,pasture_meadow_grassland_grass,3302000000
@@ -18,18 +18,18 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 1098,Peren. Aangeplant voorafgaande aan lopende seizoen.,pears. Planted prior to current season.,pears,3303011200
 3804,"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit een ander gewas dan gras. (EA: onbeheerd)",Border adjacent to arable land consisting mainly of a crop other than grass. (EA: unattended),other_arable_land_crops,3301990000
 372,"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit tijdelijk gras",Edge adjacent to arable land consisting mainly of temporary grass,temporary_grass,3301090100
-1936,"Bos, blijvend, met herplantplicht",Forest permanent with replanting obligation,tree_wood_forest,3306000000
+1936,"Bos, blijvend, met herplantplicht",Forest permanent with replanting obligation,other_tree_wood_forest,3306990000
 1004,"Tulp, bloembollen en -knollen",Tulip flower bulbs and tubers,tulips,3301084800
 1096,Appelen. Aangeplant voorafgaande aan lopende seizoen.,apples. Planted prior to current season.,apples,3303010200
 235,"Gerst, winter-",barley winter,winter_barley,3301010401
 343,"Sloot, grenzend aan beheerde akkerrand",Ditch adjacent to managed field edge,not_known_and_other,3399000000
 317,"Maïs, corncob mix",Corn corncob mix,grain_maize_corn_popcorn,3301010600
-1071,"Laanbomen/parkbomen, opzetters, open grond,",Avenue trees/park trees erectors open ground,tree_wood_forest,3306000000
+1071,"Laanbomen/parkbomen, opzetters, open grond,",Avenue trees/park trees erectors open ground,other_tree_wood_forest,3306990000
 3803,"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit een ander gewas dan gras. (EA: beheer)",Border adjacent to arable land consisting mainly of a crop other than grass. (EA: management),other_arable_land_crops,3301990000
 258,Luzerne,Lucerne,alfalfa_lucerne,3301090301
 383,Graszaad,grass seed,temporary_grass,3301090100
-1067,"Bos- en haagplanten, open grond,",Forest and hedge plants open ground,tree_wood_forest,3306000000
-863,Bos zonder herplantplicht,Forest without obligation to replant,tree_wood_forest,3306000000
+1067,"Bos- en haagplanten, open grond,",Forest and hedge plants open ground,other_tree_wood_forest,3306990000
+863,Bos zonder herplantplicht,Forest without obligation to replant,other_tree_wood_forest,3306990000
 2710,"Asperges, oppervlakte die productie oplevert",Asparagus area yielding production,aspargus,3301200000
 1074,"Sierconiferen, open grond,",Ornamental conifers open ground,flowers_ornamental_plants,3301080000
 1075,"Sierheesters en klimplanten, open grond,",Ornamental shrubs and creepers open ground,flowers_ornamental_plants,3301080000
@@ -37,21 +37,21 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 1933,Uien poot en plant tweedejaars,Onions leg and plant second year,onions,3301220400
 1002,"Lelie, bloembollen en -knollen",Lily flower bulbs and tubers,lilies,3301082400
 427,"Overige groenbemesters, niet-vlinderbloemige-",Other green manures non-butterfly-,other_arable_land_crops,3301990000
-237,Rogge (geen snijrogge),Rye (not cut rye),rye,3301010300
+237,Rogge (geen snijrogge),Rye (not cut rye),unspecified_season_rye,3301010399
 991,"Overige bloemen, overige bloemkwekerijgewassen",Other flowers other flower nursery crops,nurseries_nursery,3303070000
 333,"Rand, grenzend aan blijvend grasland of een blijvende teelt, hoofdzakelijk bestaand uit blijvend gras",Border adjacent to permanent grassland or a permanent crop consisting mainly of permanent grass,pasture_meadow_grassland_grass,3302000000
 257,"Bieten, voeder-",beets,beetroot_beets,3301290200
 1089,"Sierheesters en klimplanten, pot- en containerveld,",Ornamental shrubs and climbing plants pot and container field,flowers_ornamental_plants,3301080000
-1072,"Laanbomen/parkbomen, spillen, open grond,",avenue trees/park trees spindles open ground,tree_wood_forest,3306000000
+1072,"Laanbomen/parkbomen, spillen, open grond,",avenue trees/park trees spindles open ground,other_tree_wood_forest,3306990000
 2016,"Aardappelen, poot TBM",Potatoes leg TBM,potatoes,3301030000
-670,Japanse haver,Japanese oats,oats,3301010500
+670,Japanse haver,Japanese oats,unspecified_season_oats,3301010599
 511,Cichorei,Chicory,chicory_chicories,3301310200
 1080,"Vaste planten, open grond,",Perennials open ground,permanent_crops_perennial,3303000000
 2652,Overige granen,Other grains,grain_maize_corn_popcorn,3301010600
-796,Kerstbomen,Christmas trees,tree_wood_forest,3306000000
+796,Kerstbomen,Christmas trees,other_tree_wood_forest,3306990000
 334,"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit blijvend gras",Edge adjacent to arable land consisting mainly of permanent grass,pasture_meadow_grassland_grass,3302000000
 3506,Engels raaigras,perennial ryegrass,lolium_ryegrass,3301090205
-238,Haver,Oats,oats,3301010500
+238,Haver,Oats,unspecified_season_oats,3301010599
 799,"Klaver, rode",clover red,clover,3301090303
 1025,"Pioenroos, overige bloemkwekerijgewassen",Peony other flower nursery crops,peony_peonies,3301083400
 2735,"Pompoen, productie",Pumpkin production,pumpkin_squash_gourd,3301140400
@@ -63,7 +63,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2793,"Overige niet genoemde groenten, productie",Other vegetables not mentioned production,fresh_vegetables,3301070000
 2328,"Kersen, zoet",Cherries sweet,cherry_cherries,3303010400
 2787,"Witlofwortel, productie",Chicory root production,chicory_chicories,3301310200
-314,Triticale,Triticale,triticale,3301010800
+314,Triticale,Triticale,unspecified_season_triticale,3301010899
 1003,"Narcis, bloembollen en -knollen",Daffodil flower bulbs and tubers,narcissus_daffodil,3301083200
 1921,Graszoden,Grass turf,pasture_meadow_grassland_grass,3302000000
 1068,"Buxus, open grond,",boxwood open ground,shrubberries_shrubs,3303080000
@@ -88,9 +88,9 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 515,Zonnebloemen,sunflowers,sunflower,3301060500
 311,"Bonen, veld- (onder andere duiven-, paarden-, wierbonen) ",Beans field (including pigeon-,beans,3301020100
 657,Drachtplanten,Perennial plants,permanent_crops_perennial,3303000000
-1070,"Laanbomen/parkbomen, onderstammen, open grond,",Avenue trees/park trees,tree_wood_forest,3306000000
+1070,"Laanbomen/parkbomen, onderstammen, open grond,",Avenue trees/park trees,other_tree_wood_forest,3306990000
 944,"Hennep, vezel-",hemp,hemp_cannabis,3301061000
-1076,"Trek- en besheesters, open grond,",Draft and berry shrubs,berries_berry_species,3303020000
+1076,"Trek- en besheesters, open grond,",Draft and berry shrubs,unspecified_berries_berry_species,3303029800
 2706,"Aardbeien op stellingen, productie",Strawberries on racks production,strawberries,3301130000
 2767,"Sla, ijsberg-, productie",Lettuce iceberg production,iceberg,3301310400
 3801,"Tijdelijk onbeteelde grond, i.v.m. publieke werken",Temporarily uncultivated land due to public works,unmaintained,3308000000
@@ -107,10 +107,10 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 1095,Appelen. Aangeplant lopende seizoen.,Apples. Planted current season.,apples,3303010200
 2025,"Aardappelen, bestrijdingsmaatregel AM",Potatoes AM . control measure,potatoes,3301030000
 1922,"Koolzaad, winter (incl. boterzaad)",Rapeseed winter (incl. butter seed),winter_rapeseed_rape,3301060401
-426,"Overige groenbemesters, vlinderbloemige- ",Other green manures leguminous plants,legumes_harvested_green,3301090300
-1079,"Vruchtbomen, overig, open grond,",Fruit trees other open ground,orchards_fruits,3303010000
-1081,"Bos- en haagplanten, pot- en containerveld,",Forest and hedge plants pot and container field,tree_wood_forest,3306000000
-3519,Soedangras/Sorghum,Sudan grass/Sorghum,millet_sorghum,3301010900
+426,"Overige groenbemesters, vlinderbloemige- ",Other green manures leguminous plants,unspecified_legumes_harvested_green,3301090398
+1079,"Vruchtbomen, overig, open grond,",Fruit trees other open ground,unspecified_orchards_fruits,3303019800
+1081,"Bos- en haagplanten, pot- en containerveld,",Forest and hedge plants pot and container field,other_tree_wood_forest,3306990000
+3519,Soedangras/Sorghum,Sudan grass/Sorghum,unspecified_season_millet_sorghum,3301010999
 2741,"Kroten/rode bieten, productie",Beets/red beets production,beetroot_beets,3301290200
 1935,Maiskolvesilage,Corn silage,green_silo_maize,3301090400
 247,Blauwmaanzaad,Blue moonseed,moonseed,3301083100
@@ -122,21 +122,21 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2711,"Asperges, oppervlakte die nog geen productie oplevert",Asparagus area that does not yet yield production,aspargus,3301200000
 1099,Wijndruiven,Wine grapes,vineyards_wine_vine_rebland_grapes,3303060000
 1054,"Pioenroos, vermeerdering",Peony propagation,peony_peonies,3301083400
-2771,"Sla; overig, productie",Salad; other production,salads_lettuce_leaf_vegetables,3301310000
+2771,"Sla; overig, productie",Salad; other production,other_salads_lettuce_leaf_vegetables,3301319900
 428,Gele mosterd,Yellow mustard,mustard,3301210100
 1073,"Rozenstruiken (incl, zaailingen en onderstammen), open grond,",Rose bushes (incl seedlings and rootstocks) open ground,roses,3301083600
 997,"Dahlia, bloembollen en - knollen",Dahlia,dahlia,3301081200
-1077,"Vruchtbomen, moerbomen, open grond,",Fruit trees nut trees open ground,orchards_fruits,3303010000
+1077,"Vruchtbomen, moerbomen, open grond,",Fruit trees nut trees open ground,unspecified_orchards_fruits,3303019800
 2326,Frambozen,Raspberries,raspberry_raspberries,3303021000
-1078,"Vruchtbomen, onderstammen, open grond,",Fruit trees rootstocks open ground,orchards_fruits,3303010000
+1078,"Vruchtbomen, onderstammen, open grond,",Fruit trees rootstocks open ground,unspecified_orchards_fruits,3303019800
 2763,Schorseneren; productie,salsify; production,salsify,3301083900
-2775,"Spitskool, productie",pointed cabbage production,brassica_oleracea_cabbage,3301210200
+2775,"Spitskool, productie",pointed cabbage production,other_brassica_oleracea_cabbage,3301210299
 2645,Notenbomen,walnut trees,walnuts,3303030600
-2743,"Kruiden, productie",Herbs production,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-1923,"Koolzaad, zomer (incl. boterzaad)",Rapeseed summer (incl. butter seed),summer_rapeseed_rape,3301060403
-1085,"Laanbomen/parkbomen, opzetters, pot- en containerveld,",Avenue trees/park trees erectors pot and container fields,tree_wood_forest,3306000000
-1874,"Overig kleinfruit (zoals kruisbessen, kiwi's)",Other small fruit (such as gooseberries kiwis),orchards_fruits,3303010000
-1093,"Vruchtbomen, overig, pot- en containerveld,",Fruit trees other pot and container field,orchards_fruits,3303010000
+2743,"Kruiden, productie",Herbs production,unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298
+1923,"Koolzaad, zomer (incl. boterzaad)",Rapeseed summer (incl. butter seed),spring_rapeseed_rape,3301060402
+1085,"Laanbomen/parkbomen, opzetters, pot- en containerveld,",Avenue trees/park trees erectors pot and container fields,other_tree_wood_forest,3306990000
+1874,"Overig kleinfruit (zoals kruisbessen, kiwi's)",Other small fruit (such as gooseberries kiwis),unspecified_orchards_fruits,3303019800
+1093,"Vruchtbomen, overig, pot- en containerveld,",Fruit trees other pot and container field,unspecified_orchards_fruits,3303019800
 2794,"Overige niet genoemde groenten, zaden en opkweekmateriaal",Other vegetables seeds and propagation material not mentioned,fresh_vegetables,3301070000
 2774,"Spinazie, zaden en opkweekmateriaal",Spinach seeds and propagation material,spinach,3301310800
 1872,"Kersen, zuur (opbrengst bestemd voor verwerkende industrie)",Cherries sour (yield intended for processing industry),cherry_cherries,3303010400
@@ -176,15 +176,15 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 663,"Lupinen, niet bittere",Lupins not bitter,sweet_lupins,3301020700
 2802,"Prei, zomer, zaden en opkweekmateriaal",Leek summer seeds and propagation material,leek,3301220300
 964,"Dahlia, overige bloemkwekerijgewassen",Dahlia other flower nursery crops,dahlia,3301081200
-1086,"Laanbomen/parkbomen, spillen, pot- en containerveld,",Avenue trees/park trees spindles pot and container fields,tree_wood_forest,3306000000
+1086,"Laanbomen/parkbomen, spillen, pot- en containerveld,",Avenue trees/park trees spindles pot and container fields,other_tree_wood_forest,3306990000
 1015,"Blauw druifje, bloembollen en -knollen",Grape hyacinth flower bulbs and tubers,flowers_ornamental_plants,3301080000
 992,"Overige bloemen, droogbloemen",Other flowers dried flowers,flowers_ornamental_plants,3301080000
 2721,"Chinese kool, productie",Chinese cabbage production,chinese_cabbage,3301210205
-662,Bos (SBL-regeling) ,Forest (SBL scheme),tree_wood_forest,3306000000
+662,Bos (SBL-regeling) ,Forest (SBL scheme),other_tree_wood_forest,3306990000
 967,"Gladiool, overige bloemkwekerijgewassen",Gladiolus other flower nursery crops,gladiolus_gladioli,3301082000
-2791,"Overige niet genoemde bladgewassen, productie",Other leaf crops not mentioned production,salads_lettuce_leaf_vegetables,3301310000
-794,Woudbomen met korte omlooptijd (excl. Wilgenhakhout),Short rotation forest trees (excl. willow coppice),tree_wood_forest,3306000000
-2765,"Selderij, bleek- en groen-, productie",Celery bleach and green production,celery,3301250000
+2791,"Overige niet genoemde bladgewassen, productie",Other leaf crops not mentioned production,other_salads_lettuce_leaf_vegetables,3301319900
+794,Woudbomen met korte omlooptijd (excl. Wilgenhakhout),Short rotation forest trees (excl. willow coppice),other_tree_wood_forest,3306990000
+2765,"Selderij, bleek- en groen-, productie",Celery bleach and green production,leaf_celery,3301250200
 2704,"Aardbeien op stellingen, vermeerdering",Strawberries on racks propagation,strawberries,3301130000
 2707,"Aardbeien op stellingen, zaden en opkweekmateriaal",Strawberries on racks seeds and propagation material,strawberries,3301130000
 2781,"Stoksnijbonen en stokslabonen, productie",French French beans and French green beans production,beans,3301020100
@@ -194,7 +194,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 1021,Knoflook,Garlic,garlic,3301220200
 3523,Veldbeemdgras,Field meadow grass,pasture_meadow_grassland_grass,3302000000
 338,"Rand, liggend op bouwland en direct grenzend aan bos. Geen landbouwproductie.",Edge lying on arable land and directly adjacent to forest. No agricultural production.,arable_land_seed_seedlings,3301100000
-1940,Voedselbos,food forest,tree_wood_forest,3306000000
+1940,Voedselbos,food forest,other_tree_wood_forest,3306990000
 2756,"Rabarber, zaden en opkweekmateriaal",Rhubarb seeds and propagation material,rhubarb,3301230000
 1037,"Peterselie, productie",Parsley production,parsly,3301061227
 1036,Wortelpeterselie,carrot parsley,carrots_daucus,3301290300
@@ -204,38 +204,38 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 3513,Westerwolds raaigras,Westerwolds ryegrass,lolium_ryegrass,3301090205
 1039,"Chrysant, overige bloemkwekerijgewassen",Chrysanthemum other flower nursery crops,chrysanthemum,3301080900
 3524,"Klaver, witte",clover white,clover,3301090303
-2792,"Overige niet genoemde bladgewassen, zaden en opkweekmateriaal",Other not mentioned leaf crops seeds and propagation material,salads_lettuce_leaf_vegetables,3301310000
-864,Bos (set aside regeling),Forest (set aside arrangement),tree_wood_forest,3306000000
+2792,"Overige niet genoemde bladgewassen, zaden en opkweekmateriaal",Other not mentioned leaf crops seeds and propagation material,other_salads_lettuce_leaf_vegetables,3301319900
+864,Bos (set aside regeling),Forest (set aside arrangement),other_tree_wood_forest,3306990000
 3808,Roodzwenkgras,red fescue,festuca_fescue,3301090203
 1019,"Valeriaan, productie",Valerian production,valerian,3301061238
-2744,"Kruiden, zaden en opkweekmateriaal",Herbs seeds and propagation material,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+2744,"Kruiden, zaden en opkweekmateriaal",Herbs seeds and propagation material,unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298
 2737,"Koolraap, productie",Kohlrabi production,kohlrabi,3301210209
 2705,"Aardbeien op stellingen, wachtbed",Strawberries on racks waiting bed,strawberries,3301130000
 1069,"Ericaceae (Zoals erica, calluna, rododendron, azalea), open grond,",Ericaceae (Like erica calluna rhododendron azalea) open ground,ericaceae_heather,3301061216
 3522,Timothee,Timothy,timothy,3301090209
 1087,"Rozenstruiken (incl, zaailingen en onderstammen), pot- en containerveld,",Rose bushes (incl seedlings and rootstocks) pot and container field,roses,3301083600
 1007,"Amaryllis, bloembollen en -knollen",Amaryllis flower bulbs and tubers,flowers_ornamental_plants,3301080000
-1100,"Overige pit- en steenvruchten (zoals perziken, tafeldruiven)",Other pome and stone fruits (such as peaches table grapes),orchards_fruits,3303010000
+1100,"Overige pit- en steenvruchten (zoals perziken, tafeldruiven)",Other pome and stone fruits (such as peaches table grapes),unspecified_orchards_fruits,3303019800
 1022,Quinoa,Quinoa,quinoa,3301150300
 2788,"Witlofwortel, zaden en opkweekmateriaal",Chicory root seeds and propagation material,chicory_chicories,3301310200
 1090,"Trek- en besheesters, pot- en containerveld,",Tensile and berry shrubs pot and container field,shrubberries_shrubs,3303080000
 3502,Bladkool,cabbage leaf,brassica_oleracea_cabbage,3301210200
 653,Teunisbloem,evening primrose,primrose,3301083400
 666,"Vlas, olie-. Lijnzaad niet van vezelvlas",Flax oil. Linseed not from fiber flax,flax_linseed_oil,3301060702
-2769,"Sla; radicchio rosso, productie",Salad; radicchio rosso production,salads_lettuce_leaf_vegetables,3301310000
+2769,"Sla; radicchio rosso, productie",Salad; radicchio rosso production,other_salads_lettuce_leaf_vegetables,3301319900
 2739,"Koolrabi, productie",Kohlrabi production,kohlrabi,3301210209
 1048,"Echinacea (zonnehoed), productie",Echinacea (coneflower) production,echinacea_sun_hat,3301081500
-2772,"Sla; overig, zaden en opkweekmateriaal",Salad; other seeds and propagation material,salads_lettuce_leaf_vegetables,3301310000
+2772,"Sla; overig, zaden en opkweekmateriaal",Salad; other seeds and propagation material,other_salads_lettuce_leaf_vegetables,3301319900
 2745,"Paksoi, productie",Bok choy production,bok_choy_pak_choi,3301210201
 671,Raketblad (aaltjesvanggewas),Rocket leaf (nematode catch crop),rocket_arugula,3301310600
 2790,"Witte kool, zaden en opkweekmateriaal",White cabbage seeds and propagation material,white_cabbage,3301210212
 1047,Cranberry,cranberry,cranberry,3303020500
 982,"Narcis, overige bloemkwekerijgewassen",Narcissus other flower nursery crops,narcissus_daffodil,3301083200
 2742,"Kroten/rode bieten, zaden en opkweekmateriaal",Beets/red beets seeds and propagation material,beetroot_beets,3301290200
-1084,"Laanbomen/parkbomen, onderstammen, pot- en containerveld,",Avenue trees/park trees rootstocks pot and container fields,tree_wood_forest,3306000000
+1084,"Laanbomen/parkbomen, onderstammen, pot- en containerveld,",Avenue trees/park trees rootstocks pot and container fields,other_tree_wood_forest,3306990000
 1010,"Sierui, overige bloemkwekerijgewassen",Ornamental onions other flower nursery crops,flowers_ornamental_plants,3301080000
 2780,"Stamsperziebonen (=stamslabonen), zaden en opkweekmateriaal",Main green beans (= main green beans) seeds and propagation material,beans,3301020100
-2747,"Peulen, productie","Pulses, production",legumes_dried_pulses_protein_crops,3301020000
+2747,"Peulen, productie","Pulses, production",unspecified_legumes_dried_pulses_protein_crops,3301029800
 2736,"Pompoen, zaden en opkweekmateriaal",Pumpkin seeds and propagation material,pumpkin_squash_gourd,3301140400
 1044,Papaver,Poppy,poppy,3301060600
 2798,"Bloemkool, zomer, zaden en opkweekmateriaal",Cauliflower summer seeds and growing material,cauliflower,3301210204
@@ -262,7 +262,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 3805,"Rietzwenkgras, industriegras",Reed fescue industrial grass,festuca_fescue,3301090203
 3500,"Klaver, Alexandrijnse",Clover Alexandrian,clover,3301090303
 800,Rolklaver,scroll clover,clover,3301090303
-1092,"Vruchtbomen, onderstammen, pot- en containerveld,",Fruit trees rootstocks pot and container fields,orchards_fruits,3303010000
+1092,"Vruchtbomen, onderstammen, pot- en containerveld,",Fruit trees rootstocks pot and container fields,unspecified_orchards_fruits,3303019800
 3509,Festulolium,Festulolium,festulolium,3301090204
 2720,"Brocolli, zaden en opkweekmateriaal",Brocolli seeds and growing material,broccoli,3301210202
 2726,"Knolselderij, zaden en opkweekmateriaal",Celeriac seeds and propagation material,celeriac,3301250100
@@ -271,35 +271,35 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 246,Karwijzaad (oogst dit jaar),Caraway seed (harvest this year),caraway,3301061211
 2751,"Pronkbonen, productie",Runner beans production,beans,3301020100
 3505,Deder,Camelina sativa,brassicaceae_cruciferae,3301210000
-2748,"Peulen, zaden en opkweekmateriaal","Pulses, seeds and propagation material",legumes_dried_pulses_protein_crops,3301020000
+2748,"Peulen, zaden en opkweekmateriaal","Pulses, seeds and propagation material",unspecified_legumes_dried_pulses_protein_crops,3301029800
 2778,"Spruitkool/spruitjes, zaden en opkweekmateriaal",Brussels sprouts/brussels sprouts seeds and propagation material,brussels_sprouts,3301210203
 2718,"Bospeen, zaden en opkweekmateriaal",Carrots seeds and propagation material,carrots_daucus,3301290300
 6522,Riet,reed,poaceae_grasses,3301090200
 2762,"Savooiekool, zaden en opkweekmateriaal",Savoy cabbage seeds and propagation material,savoy_cabbage,3301210211
-2766,"Selderij, bleek- en groen-, zaden en opkweekmateriaal",Celery bleach and greens seeds and propagation material,celery,3301250000
+2766,"Selderij, bleek- en groen-, zaden en opkweekmateriaal",Celery bleach and greens seeds and propagation material,leaf_celery,3301250200
 2758,"Radijs, zaden en opkweekmateriaal",Radish seeds and propagation material,radish,3301290600
 3515,"Klaver, Perzische",Clover Persian,clover,3301090303
 2732,"Augurk, zaden en opkweekmateriaal",Pickle seeds and propagation material,cucumber_pickle,3301140100
 2776,"Spitskool, zaden en opkweekmateriaal",Pointed cabbage seeds and propagation material,brassica_oleracea_cabbage,3301210200
 802,"Wikke, bonte",Vetch variegated,vetches,3301090305
 1033,Igniscum Candy,Igniscum Candy,igniscum_candy,3304020100
-664,Raapzaad,Rapeseed,rapeseed_rape,3301060400
+664,Raapzaad,Rapeseed,unspecified_season_rapeseed_rape,3301060499
 3521,Stoppelknollen,Stubble Tubers,turnips,3301290800
 968,"Gladiool, droogbloemen",Gladiolus dried flowers,gladiolus_gladioli,3301082000
 1050,Leeuwenbekjes,Snapdragons,snapdragons,3301084400
 656,Zonnekroon,Sunflower,sunflower,3301060500
-1091,"Vruchtbomen, moerbomen, pot- en containerveld,",Fruit trees nut trees pot and container field,orchards_fruits,3303010000
+1091,"Vruchtbomen, moerbomen, pot- en containerveld,",Fruit trees nut trees pot and container field,unspecified_orchards_fruits,3303019800
 970,"Hyacint, overige bloemkwekerijgewassen",Hyacinth other flower nursery crops,flowers_ornamental_plants,3301080000
 2764,"Schorseneren, zaden en opkweekmateriaal",Salsify seeds and propagation material,salsify,3301083900
 976,"Krokus, overige bloemkwekerijgewassen",Crocus other flower nursery crops,saffron_crocus_sativus,3301061232
 3517,Sarepta mosterd/Caliente,Sarepta mustard/Caliente,mustard,3301210100
 988,"Zantedeschia, overige bloemkwekerijgewassen",Zantedeschia other flower nursery crops,flowers_ornamental_plants,3301080000
-1053,"Palmen, pot- en containervelden",Palms pot and container fields,tree_wood_forest,3306000000
+1053,"Palmen, pot- en containervelden",Palms pot and container fields,other_tree_wood_forest,3306990000
 381,Teff,teff,teff,3301010904
 654,Brandnetel,Nettle,nettles,3301061225
 637,Vrouwenmantel,lady's mantle,alchemilla_ladys_mantle,3301061202
 804,Klaverzaad,clover seed,clover,3301090303
-2770,"Sla; radicchio rosso, zaden en opkweekmateriaal",Salad; radicchio rosso seeds and propagation material,salads_lettuce_leaf_vegetables,3301310000
+2770,"Sla; radicchio rosso, zaden en opkweekmateriaal",Salad; radicchio rosso seeds and propagation material,other_salads_lettuce_leaf_vegetables,3301319900
 2796,"Bloemkool, winter, zaden en opkweekmateriaal",Cauliflower winter seeds and propagation material,cauliflower,3301210204
 965,"Dahlia, droogbloemen",Dahlia dried flowers,dahlia,3301081200
 2722,"Chinese kool, zaden en opkweekmateriaal",Chinese cabbage seeds and propagation material,chinese_cabbage,3301210205
