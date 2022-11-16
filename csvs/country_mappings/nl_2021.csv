@@ -7,10 +7,10 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2014,"Aardappelen, consumptie",Potatoes consumption,potatoes,3301030000
 256,"Bieten, suiker-",beets sugar,sugar_beet,3301290700
 2015,"Aardappelen, poot NAK",Potatoes leg NAK,potatoes,3301030000
-236,"Gerst, zomer-",barley summer,summer_barley,3301010403
+236,"Gerst, zomer-",barley summer,spring_barley,3301010402
 2017,"Aardappelen, zetmeel ",Potatoes starch,potatoes,3301030000
 335,Natuurterreinen (incl. heide),Natural areas (incl. heath),not_known_and_other,3399000000
-234,"Tarwe, zomer-",wheat summer,summer_common_soft_wheat,3301010103
+234,"Tarwe, zomer-",wheat summer,spring_common_soft_wheat,3301010102
 316,"Maïs, korrel-",corn grain,grain_maize_corn_popcorn,3301010600
 1926,Agrarisch natuurmengsel,Agricultural nature mixture,not_known_and_other,3399000000
 332,"Grasland, natuurlijk. Hoofdfunctie natuur.",Grassland of course. Main function nature.,pasture_meadow_grassland_grass,3302000000
@@ -133,7 +133,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2775,"Spitskool, productie",pointed cabbage production,brassica_oleracea_cabbage,3301210200
 2645,Notenbomen,walnut trees,walnuts,3303030600
 2743,"Kruiden, productie",Herbs production,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-1923,"Koolzaad, zomer (incl. boterzaad)",Rapeseed summer (incl. butter seed),summer_rapeseed_rape,3301060403
+1923,"Koolzaad, zomer (incl. boterzaad)",Rapeseed summer (incl. butter seed),spring_rapeseed_rape,3301060402
 1085,"Laanbomen/parkbomen, opzetters, pot- en containerveld,",Avenue trees/park trees erectors pot and container fields,tree_wood_forest,3306000000
 1874,"Overig kleinfruit (zoals kruisbessen, kiwi's)",Other small fruit (such as gooseberries kiwis),orchards_fruits,3303010000
 1093,"Vruchtbomen, overig, pot- en containerveld,",Fruit trees other pot and container field,orchards_fruits,3303010000
