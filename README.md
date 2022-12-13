@@ -79,7 +79,7 @@ The vector data is now available via [zenodo](https://zenodo.org/record/6866846)
 
 ## Vector data download via Sync&Share (only [Version 1](https://zenodo.org/record/6866847))<a name="vectordata"></a>
 
-The shapefiles of the countries are available via [Sync&Share](https://syncandshare.lrz.de/getlink/fiAD95cTrXbnKMrdZYrFFcN8/). They might be still some changes with the data in this folder, such as adding the NUTS3 region identifier to the parchels. Version-controlled and citable editions will be made available in near future over [mediaTUM](https://mediatum.ub.tum.de/). Please also make sure to download the data for the countries individually, as there might be some loss otherwise.
+The shapefiles of the countries are available via [Sync&Share](https://syncandshare.lrz.de/getlink/fiAD95cTrXbnKMrdZYrFFcN8/). Please also make sure to download the data for the countries individually, as there might be some loss otherwise.
 
 ```
 ├── AT
