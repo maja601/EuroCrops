@@ -46,7 +46,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2016,"Aardappelen, poot TBM",Potatoes leg TBM,potatoes,3301030000
 670,Japanse haver,Japanese oats,unspecified_season_oats,3301010599
 511,Cichorei,Chicory,chicory_chicories,3301310200
-1080,"Vaste planten, open grond,",Perennials open ground,permanent_crops_perennial,3303000000
+1080,"Vaste planten, open grond,",Perennials open ground,unspecified_permanent_crops,3303120000
 2652,Overige granen,Other grains,grain_maize_corn_popcorn,3301010600
 796,Kerstbomen,Christmas trees,other_tree_wood_forest,3306990000
 334,"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit blijvend gras",Edge adjacent to arable land consisting mainly of permanent grass,pasture_meadow_grassland_grass,3302000000
@@ -68,7 +68,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 1921,Graszoden,Grass turf,pasture_meadow_grassland_grass,3302000000
 1068,"Buxus, open grond,",boxwood open ground,shrubberries_shrubs,3303080000
 2797,"Bloemkool, zomer, productie",Cauliflower summer production,cauliflower,3301210204
-1094,"Vaste planten, pot- en containerteelt,",Perennials pot and container cultivation,permanent_crops_perennial,3303000000
+1094,"Vaste planten, pot- en containerteelt,",Perennials pot and container cultivation,unspecified_permanent_crops,3303120000
 2773,"Spinazie, productie",Spinach production,spinach,3301310800
 1932,Uien poot en plant eerstejaars,Onions leg and plant first year,onions,3301220400
 2789,"Witte kool, productie",White cabbage production,white_cabbage,3301210212
@@ -87,7 +87,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 814,"Maïs, suiker-",corn sugar,grain_maize_corn_popcorn,3301010600
 515,Zonnebloemen,sunflowers,sunflower,3301060500
 311,"Bonen, veld- (onder andere duiven-, paarden-, wierbonen) ",Beans field (including pigeon-,beans,3301020100
-657,Drachtplanten,Perennial plants,permanent_crops_perennial,3303000000
+657,Drachtplanten,Perennial plants,unspecified_permanent_crops,3303120000
 1070,"Laanbomen/parkbomen, onderstammen, open grond,",Avenue trees/park trees,other_tree_wood_forest,3306990000
 944,"Hennep, vezel-",hemp,hemp_cannabis,3301061000
 1076,"Trek- en besheesters, open grond,",Draft and berry shrubs,unspecified_berries_berry_species,3303029800
@@ -244,7 +244,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2784,"Waspeen, zaden en opkweekmateriaal","Carrot, seeds and propagating material",carrots_daucus,3301290300
 973,"Iris, overige bloemkwekerijgewassen",Iris other flower nursery crops,iris,3301082200
 3055,Lisdodde,bulrush,bulrush,3301080600
-1949,Aardperen,Topinambur,topinambur_jerusalem_artichoke,3301180000
+1949,Aardperen,Topinambur,topinambur_jerusalem_artichoke,3301290900
 375,Hop,Hop,hops,3301060200
 803,"Wikke, voeder-",vetch feed,vetches,3301090305
 655,Zwarte mosterd,black mustard,mustard,3301210100
