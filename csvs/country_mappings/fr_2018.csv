@@ -1,7 +1,7 @@
 original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 PPH,Prairie permanente - herbe prédominante (ressources fourragères ligneuses absentes ou peu présentes),Permanent pasture - predominantly grass (woody fodder resources absent or scarce),pasture_meadow_grassland_grass,3302000000
 BTH,Blé tendre d’hiver,Soft winter wheat,winter_common_soft_wheat,3301010101
-PTR,Autre prairie temporaire de 5 ans ou moins,Other temporary grassland 5 years or less,pasture_meadow_grassland_grass,3302000000
+PTR,Autre prairie temporaire de 5 ans ou moins,Other temporary grassland 5 years or less,temporary_grass,3301090100
 PRL,Prairie en rotation longue (6 ans ou plus),Long rotation meadow (6 years or more),pasture_meadow_grassland_grass,3302000000
 VRC,Vigne : raisins de cuve,Vine: wine grapes,vineyards_wine_vine_rebland_grapes,3303060000
 MIS,Maïs,Maize,grain_maize_corn_popcorn,3301010600
@@ -150,7 +150,7 @@ PH8,Pois fourrager d’hiver implanté pour la récolte 2018,Winter fodder pea p
 PP8,Pois fourrager de printemps implanté pour la récolte 2018,Spring Fodder Pea planted for the 2018 harvest,peas,3301020600
 LDP,Lupin doux de printemps semé avant le 31/05,Sweet spring lupine sown before 31 May,sweet_lupins,3301020700
 CRD,Coriandre,Coriander,coriander,3301061215
-TOP,Topinambour,Jerusalem artichoke,topinambur_jerusalem_artichoke,3301180000
+TOP,Topinambour,Jerusalem artichoke,topinambur_jerusalem_artichoke,3301290900
 MPP,Mélange de protéagineux (pois et/ou lupin et/ou féverole) prépondérants semés avant le 31/05 et de céréales,Protein crop mixture (pea and/or lupin and/or faba bean),other_dry_pulses,3301029900
 CML,Cameline,Camelina,camelina,3301061500
 FNO,Fenouil,Fennel,fennel,3301170000
