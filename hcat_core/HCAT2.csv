@@ -207,6 +207,8 @@ tulips,3301084900
 viola,3301085000
 violets_pansies,3301085100
 zinnias,3301085200
+unspecified_flowers_ornamental_plants,3301089800
+other_flowers_ornamental_plants,3301089900
 plants_harvested_green,3301090000
 temporary_grass,3301090100
 poaceae_grasses,3301090200
@@ -245,7 +247,6 @@ buckwheat,3301150200
 quinoa,3301150300
 soy_soybeans,3301160000
 fennel,3301170000
-topinambur_jerusalem_artichoke,3301180000
 sage_chia,3301190000
 aspargus,3301200000
 brassicaceae_cruciferae,3301210000
@@ -291,6 +292,8 @@ parsnips,3301290500
 radish,3301290600
 sugar_beet,3301290700
 turnips,3301290800
+topinambur_jerusalem_artichoke,3301290900
+unspecified_root_vegetables, 3301299800
 capsicum,3301300000
 bell_pepper_paprika,3301300100
 chili_pepper,3301300200
@@ -386,6 +389,7 @@ eucalyptus,3306050000
 oak,3306060000
 populus,3306070000
 willows_osiers,3306080000
+unspecified_tree_wood_forest,3306980000
 other_tree_wood_forest,3306990000
 peat_turf,3307000000
 unmaintained,3308000000
