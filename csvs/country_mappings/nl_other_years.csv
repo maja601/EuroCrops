@@ -1,0 +1,96 @@
+original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+172,Tuinbouwzaden,Horticultural Seeds,other_arable_land_crops,3301990000
+175,Bloemkwekerijgewassen (inclusief bloemzaden),Flower nursery crops (including flower seeds),unspecified_flowers_ornamental_plants,3301089800
+176,Bloembollen en - knollen,Flower bulbs and tubers,unspecified_flowers_ornamental_plants,3301089800
+212,Fruit,Fruit,unspecified_orchards_fruits,3303019800
+229,Boomkwekerij en vaste planten,Tree nursery and perennials,unspecified_tree_wood_forest,3306980000
+239,"Erwten, groene, droog te oogsten (geen conserven)","Peas, green, dry harvest (no canned)",other_arable_land_crops,3301990000
+240,Schokkers,Shockers,other_arable_land_crops,3301990000
+243,"Bonen, veld-(oa duive-, paarde-, wierbonen)(droog te oogsten","Beans, field (including pigeon, horse, weed beans) (can be harvested dry",peas,3301020600
+249,"Vlas, vezel- (niet voor zaaizaad)","Flax, fiber (not for seed)",flax_linen,3301060701
+294,"Boomkwekerijgewassen en vaste planten, pot- en containerveld","Nursery crops and perennials, pot and container field",not_known_and_other,3399000000
+336,"Grasland, natuurlijk. Areaal met een natuurbeheertype dat overwegend voor landbouwactiviteiten-GLB wordt gebruikt","Grassland, of course. Area with a nature management type mainly used for agricultural activities-CAP",temporary_grass,3301090100
+345,"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit een ander gewas dan gras","Border, adjacent to arable land, consisting mainly of a crop other than grass",other_arable_land_crops,3301990000
+513,Kanariezaad,canary seed,other_arable_land_crops,3301990000
+658,Graansorgho,grain sorghum,unspecified_season_millet_sorghum,3301010999
+659,Boekweit,Buckwheat,other_arable_land_crops,3301990000
+660,Gierst,Millet,other_arable_land_crops,3301990000
+661,Overige granen,Other grains,other_arable_land_crops,3301990000
+669,Zwaardherik (aaltjesvanggewas),Arugula (nematode-catching crop),other_salads_lettuce_leaf_vegetables,3301319900
+672,Groenten open grond (inclusief groentezaden),Vegetables open ground (including vegetable seeds),not_known_and_other,3399000000
+859,"Aardappelen, zetmeel geleverd aan buitenland","Potatoes, starch delivered abroad",potatoes,3301030000
+980,"Lelie, droogbloemen","Lily, dried flowers",lilies,3301082500
+983,"Narcis, droogbloemen","Narcissus, dried flowers",narcissus_daffodil,3301083300
+986,"Tulp, droogbloemen","Tulip, dried flowers",tulips,3301084900
+995,"Amaryllis, droogbloemen","Amaryllis, dried flowers",other_flowers_ornamental_plants,3301089900
+1000,"Iris, bloembollen en -knollen","Iris, flower bulbs and tubers",iris,3301082300
+1018,"Kuifhyacint, bloembollen en -knollen","Crested hyacinth, bulbs and tubers",other_flowers_ornamental_plants,3301089900
+1027,"Pioenroos, bloembollen en -knollen","Peony, flower bulbs and tubers",peony_peonies,3301083400
+1038,"Peterselie, zaden en opkweekmateriaal","Parsley, seeds and growing material",parsly,3301061227
+1040,"Chrysant, droogbloemen","Chrysanthemum, dried flowers",chrysanthemum,3301080900
+1043,"Angelica, zaden en opkweekmateriaal","Angelica, seeds and propagation material",angelica,3301061204
+1049,"Echinacea (zonnehoed), zaden en opkweekmateriaal","Echinacea (coneflower), seeds and propagation material",echinacea_sun_hat,3301081500
+1055,"Chrysant, vermeerdering","Chrysanthemum, propagation",chrysanthemum,3301080900
+1570,Klaverzaad,clover seed,clover,3301090303
+1574,Definitief aan de landbouw onttrokken cultuurgrond,Agricultural land permanently withdrawn from agriculture,other_arable_land_crops,3301990000
+1575,Faunaranden,Fauna Edges,other_tree_wood_forest,3306990000
+1697,Hazelnoten,hazelnuts,hazelnuts_hazel,3303030200
+1698,Walnoten,walnuts,walnuts,3303030600
+1909,"Aardappelen, consumptie- op kleigrond","Potatoes, consumption on clay soil",potatoes,3301030000
+1910,"Aardappelen, consumptie- op zand-/veengrond","Potatoes, consumption on sandy/peat soil",potatoes,3301030000
+1911,"Aardappelen, cons. op kleigrond (vroeg, loofver voor 15-07)","Potatoes, cons. on clay soil (early, leaves before 15-07)",potatoes,3301030000
+1912,"Aardappelen, cons. op zand/veen (vroeg, loofver voor 15-07)","Potatoes, cons. on sand/peat (early, leaves before 15-07)",potatoes,3301030000
+1914,"Graszaad, overig","Grass seed, other",temporary_grass,3301090100
+1915,"Graszaad, rietzwenkgras","Grass seed, reed fescue",temporary_grass,3301090100
+1916,"Graszaad, veldbeemd","Grass seed, meadowsweet",temporary_grass,3301090100
+1917,"Graszaad, roodzwenkgras, 1e jaar","Grass seed, red fescue, 1st year",temporary_grass,3301090100
+1918,"Graszaad, roodzwenkgras, overjarig","Grass seed, red fescue, perennial",temporary_grass,3301090100
+1919,"Graszaad, westerwolds","Grass seed, westerwolds",temporary_grass,3301090100
+1920,"Graszaad, Italiaans","Grass Seed, Italian",temporary_grass,3301090100
+1925,Overige akkerbouwgewassen,Other arable crops,not_known_and_other,3399000000
+1928,"Aardappelrassen, poot- op kleigrond","Potato varieties, seed on clay soil",potatoes,3301030000
+1929,"Aardappelrassen, poot- op zand-/veengrond","Potato varieties, seed on sandy/peat soil",potatoes,3301030000
+1930,"Tagetes (zand, loss) (geen groene braak)","Tagetes (sand, loess) (no green fallow)",other_arable_land_crops,3301990000
+1931,"Uien, poot- en plant- (incl. sjalotten)","Onions, plant and plant (incl. shallots)",onions,3301220400
+1950,Onbekend/gewas niet opgegeven,Unknown/crop not specified,other_arable_land_crops,3301990000
+1959,Dummycode voor dummypercelen,Dummy code for dummy plots,not_known_and_other,3399000000
+2026,Braak met bos (SBL-regeling na 28 juni 1995),"Clearing the forest (SBL scheme after June 28, 1995)",not_known_and_other,3399000000
+2027,Bos (SBL-regeling),Forest (SBL scheme),unspecified_tree_wood_forest,3306980000
+2029,"Braak, natuur-","vomiting, natural",fallow_land_not_crop,3301110000
+2030,"Graszaad, Engels raai 1e jaar","Grass seed, English row 1st year",temporary_grass,3301090100
+2031,"Graszaad, Engels raai overjarig","Grass seed, perennial perennial",temporary_grass,3301090100
+2033,"Onbeteelde grond, tijdelijk","Uncultivated land, temporary",other_arable_land_crops,3301990000
+2297,Woudbomen met korte omlooptijd,Short rotation forest trees,unspecified_tree_wood_forest,3306980000
+2298,"Groenbemesters, vlinderbloemige","Green manures, leguminous plants",other_arable_land_crops,3301990000
+2299,"Groenbemesters, niet-vlinderbloemige","Green manures, non-butterfly flowered",other_arable_land_crops,3301990000
+2301,Natuurlijk grasland met hoofdfunctie landbouw,Natural grassland with main function agriculture,temporary_grass,3301090100
+2302,Natuurlijk grasland (begraasd) met beperkte landbouwact.,Natural grassland (grazed) with limited agricultural act.,temporary_grass,3301090100
+2303,Overige natuurterreinen,Other nature areas,not_known_and_other,3399000000
+2304,"Heide, begraasd","heath, grazed",temporary_grass,3301090100
+2636,Overig landschapselement,Other landscape element,other_arable_land_crops,3301990000
+2650,Erwten inclusief schokkers (droog te oogsten),Peas including shockers (harvest dry),other_arable_land_crops,3301990000
+2651,"Bieten, voeder- (inclusief aardperen)","Beets, fodder (including Jerusalem artichokes)",unspecified_root_vegetables,3301299800
+2653,Graszaad (inclusief klaverzaad),Grass seed (including clover seed),temporary_grass,3301090100
+2713,"Bloemkool, productie","Cauliflower, production",cauliflower,3301210204
+2714,"Bloemkool, zaden en opkweekmateriaal","Cauliflower, seeds and growing material",cauliflower,3301210204
+2733,"Meloen, productie","Melon, production",melon,3301140300
+2734,"Meloen, zaden en opkweekmateriaal","Melon, seeds and propagation material",melon,3301140300
+2738,"Koolraap, zaden en opkweekmateriaal","Kohlrabi, seeds and propagation material",kohlrabi,3301210209
+2740,"Koolrabi, zaden en opkweekmateriaal","Kohlrabi, seeds and propagation material",kohlrabi,3301210209
+2746,"Paksoi, zaden en opkweekmateriaal","Pak choi, seeds and propagation material",bok_choy_pak_choi,3301210201
+2749,"Prei, productie","Leek, production",leek,3301220300
+2750,"Prei, zaden en opkweekmateriaal","Leek, seeds and propagation material",leek,3301220300
+2951,"Aardappelen, consumptie op klei/lssgrond","Potatoes, consumption on clay/lss soil",potatoes,3301030000
+3501,Beemdlangbloem,meadow long flower,temporary_grass,3301090100
+3516,Rietzwenkgras,reed fescue,clover,3301090303
+3718,"Grasland, natuurlijk","Grassland, of course",temporary_grass,3301090100
+3719,Heide,heath,other_arable_land_crops,3301990000
+3720,"Faunaranden, grasland","Fauna margins, grassland",temporary_grass,3301090100
+3721,"Faunaranden, bouwland","Fauna margins, arable land",other_arable_land_crops,3301990000
+3730,"Aardappelen, poot op klei/lssgrond (NAK)","Potatoes, seed on clay/lss soil (NAK)",potatoes,3301030000
+3731,"Aardappelen, poot op zand/veengrond (NAK)","Potatoes, seed on sand/peat soil (NAK)",potatoes,3301030000
+3732,"Aardappelen, zetmeel (incl. TBM-pootgoed)","Potatoes, starch (incl. TBM seed potatoes)",potatoes,3301030000
+3792,"Aardappelen, consumptie op zand/veengrond","potatoes, starch",potatoes,3301030000
+3806,"Boomkwekerijgewassen en vaste planten, open grond","Nursery crops and perennials, open ground",unspecified_permanent_crops,3303120000
+6632,Zoete aardappelen,Sweet potatoes,sweet_potatoes,3301040000
+6636,Naakte haver,Naked oats,unspecified_season_oats,3301010599
