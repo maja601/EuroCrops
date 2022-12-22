@@ -139,11 +139,10 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 Additional references:
 
 ```
-@Article{Schneider2022Challenges,
+@InProceedings{Schneider2022Challenges,
   title     = {Challenges and Opportunities of Large Transnational Datasets: A Case Study on European Administrative Crop Data},
   author    = {Schneider, Maja and Marchington, Christian and K{\"o}rner, Marco},
-  journal   = {arXiv preprint arXiv:2210.07178}
-  note      = {Accepted at Thirty-sixth Conference on Neural Information Processing Systems. Workshop on Broadening Research Collaborations 2022},
+  booktitle = {Workshop on Broadening Research Collaborations in ML (NeurIPS 2022)},
   year      = {2022}
 }
 ```
