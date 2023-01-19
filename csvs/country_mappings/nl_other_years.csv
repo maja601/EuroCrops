@@ -87,6 +87,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 3719,Heide,heath,other_arable_land_crops,3301990000
 3720,"Faunaranden, grasland","Fauna margins, grassland",temporary_grass,3301090100
 3721,"Faunaranden, bouwland","Fauna margins, arable land",other_arable_land_crops,3301990000
+3722,"Overige natuurterreinen","Other natural areas",not_known_and_other,3399000000
 3730,"Aardappelen, poot op klei/lssgrond (NAK)","Potatoes, seed on clay/lss soil (NAK)",potatoes,3301030000
 3731,"Aardappelen, poot op zand/veengrond (NAK)","Potatoes, seed on sand/peat soil (NAK)",potatoes,3301030000
 3732,"Aardappelen, zetmeel (incl. TBM-pootgoed)","Potatoes, starch (incl. TBM seed potatoes)",potatoes,3301030000
