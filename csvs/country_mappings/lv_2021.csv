@@ -1,8 +1,8 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 710,Ilggadīgie zālāji,Permanent grasslands,pasture_meadow_grassland_grass,3302000000
 112,"Kvieši, ziemas",Wheat winter,winter_common_soft_wheat,3301010101
 720,Aramzemē sētu stiebrzāļu vai lopbarības zālaugu maisījums,Mixture of grasses or fodder grasses sown on arable land,pasture_meadow_grassland_grass,3302000000
-111,"Kvieši, vasaras",Wheat summer,summer_common_soft_wheat,3301010103
+111,"Kvieši, vasaras",Wheat summer,spring_common_soft_wheat,3301010102
 140,Auzas,Oats,oats,3301010500
 811,"Dažādi kultūraugi nelielā aramzemes platībā vai vairāki kultūraugi, audzēti vienlaidu laukā, ja katrs no kultūraugiem attiecīgajā laukā aizņem mazāk par 0,3 ha, vai platības, ko izmanto ziedu audzēšanai","Different crops on a small area of arable land or several crops grown in a continuous field, where each of the crops occupies less than 0.3 ha in the field concerned, or areas used for the production of flowers",other_arable_land_crops,3301990000
 610,Papuve,Idle land,fallow_land_not_crop,3301110000
@@ -27,7 +27,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 729,Amoliņš,Sweet clover,clover,3301090303
 871,"Dārzeņi, ja vienlaidu platībā augošas BSA atbalsttiesīgās dārzeņu kultūraugu sugas katra aizņem mazāk par 0,3 ha un kopējā saimniecības aramzemes platība nav lielāka par 10 ha",Vegetables if the BSA eligible vegetable crop species growing in a continuous area each occupy less than 0.3 ha and the total arable land area of ??the holding does not exceed 10 ha,fresh_vegetables,3301070000
 715,Facēlija,Phacelia,phacelia,3301061400
-113,Kvieši vasaras ar stiebrzāļu vai tauriņziežu pasēju,Wheat in summer with grass or legume sowing,summer_common_soft_wheat,3301010103
+113,Kvieši vasaras ar stiebrzāļu vai tauriņziežu pasēju,Wheat in summer with grass or legume sowing,spring_common_soft_wheat,3301010102
 926,Zemenes,Strawberry,strawberries,3301130000
 133,Mieži vasaras ar stiebrzāļu vai tauriņziežu pasēju,Barley summer with grass or legume sowing,summer_barley,3301010403
 620,"LIZ, par kuru kārtējā gadā nevar saņemt atbalstu",UAA for which no support is available in the current year,currants,3303020600
@@ -107,7 +107,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 931,Dārza pīlādži,Garden rowans or garden mountain-ashes,rowan_rowanberries,3303021300
 733,"Hibrīdā airene, sēklas ieguvei",Hybrid rye for seed production,rye,3301010300
 330,"Lini, eļļas",Flax oils,flax_linseed_oil,3301060702
-869,Sparģeļi,Asparagus,aspargus,3301200000
+869,Sparģeļi,Asparagus,asparagus,3301200000
 152,Tritikāle vasaras ar stiebrzāļu vai tauriņziežu pasēju,Summer triticale with grass or legume paste,summer_triticale,3301010803
 115,"Speltas kvieši, vasaras",Spelt summer,summer_spelt,3301011003
 927,Ērkšķogas,Gooseberries,gooseberry_gooseberries_cranberries,3303020700

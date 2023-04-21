@@ -1,4 +1,4 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 1,Vårbyg,Spring barley,spring_barley,3301010402
 11,Vinterhvede,Winter wheat,winter_common_soft_wheat,3301010101
 252,"Permanent græs, normalt udbytte",Permanent grass standard yield,pasture_meadow_grassland_grass,3302000000
@@ -110,7 +110,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 503,En- og to-årige planter,Annual and biennial plants,other_arable_land_crops,3301990000
 420,Salat (friland),Salad (outdoor),salads_lettuce_leaf_vegetables,3301310000
 17,Blanding af efterårssåede arter,Mixture of autumn sown species,other_arable_land_crops,3301990000
-401,Asparges,Asparagus,aspargus,3301200000
+401,Asparges,Asparagus,asparagus,3301200000
 328,MFO-bræmme med blomsterblanding,EFA-field margins with flower mix,flowers_ornamental_plants,3301080000
 423,Sukkermajs,Sweet corn,grain_maize_corn_popcorn,3301010600
 603,MFO - Poppel,EFA - Poplar,populus,3306070000

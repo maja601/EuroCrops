@@ -1,4 +1,4 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 201,Silomais,Silage maize,green_silo_maize,3301090400
 321,Wintergerst,winter barley,winter_barley,3301010401
 13,Niet nader omschreven gebouw,Building not specified,not_known_and_other,3399000000
@@ -49,7 +49,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 9581,Laanbomen,avenue trees,tree_wood_forest,3306000000
 832,Tuin- en veldbonen (Vicia faba) - industrie,Broad and field beans (Vicia faba) - industry,beans,3301020100
 831,Erwten (andere dan droog geoogst) - industrie,Peas (other than dry harvested) - industry,legumes_harvested_green,3301090300
-312,Zomertarwe,summer wheat,summer_common_soft_wheat,3301010103
+312,Zomertarwe,summer wheat,spring_common_soft_wheat,3301010102
 8519,Spinazie - industrie,Spinach - industry,spinach,3301310800
 9561,Witloofwortel,Chicory root,chicory_chicories,3301310200
 15,Gebouw i.k.v. verbreding,Building i.c.v. widening,not_known_and_other,3399000000
@@ -63,7 +63,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 9714,Andere meerjarige fruitteelten,Other perennial fruit crops,orchards_fruits,3303010000
 895,Bomen in groep,Group trees,tree_wood_forest,3306000000
 331,Winterrogge,winter rye,winter_rye,3301010301
-9511,Asperges - vers,Asparagus - fresh,aspargus,3301200000
+9511,Asperges - vers,Asparagus - fresh,asparagus,3301200000
 745,Mengsel van gras en vlinderbloemigen (andere dan grasklaver of grasluzerne),Mixture of grass and leguminous plants (other than grass clover or grass alfalfa),pasture_meadow_grassland_grass,3302000000
 9825,Heide in natuurbeheer,Heath in nature management,pasture_meadow_grassland_grass,3302000000
 9570,Azalea,Azalea,azaleas,3303080100
@@ -206,7 +206,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 9555,Aubergines - vers,Eggplants - fresh,aubergine_eggplant,3301260000
 9587,Snijbloemen andere dan rozen >= 5 jaar,Cut flowers other than roses >= 5 years,flowers_ornamental_plants,3301080000
 859,Peterselie - industrie,Parsley - industry,parsly,3301061227
-8511,Asperges - industrie,Asparagus - industry,aspargus,3301200000
+8511,Asperges - industrie,Asparagus - industry,asparagus,3301200000
 332,Zomerrogge,summer rye,summer_rye,3301010303
 605,Zaaizaad groenten,Seed vegetables,fresh_vegetables,3301070000
 872,Andere hennep dan vezelhennep (niet voor menselijke consumptie),Hemp other than fiber hemp (not for human consumption),hemp_cannabis,3301061000

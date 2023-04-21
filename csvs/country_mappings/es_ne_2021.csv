@@ -1,4 +1,4 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 TA,TIERRA ARABLE,ARABLE LAND,arable_crops,3301000000
 PR,PASTO ARBUSTIVO,SHRUBRY PASTURE,pasture_meadow_grassland_grass,3302000000
 FO,FORESTAL,FOREST,tree_wood_forest,3306000000

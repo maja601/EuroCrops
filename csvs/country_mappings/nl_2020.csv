@@ -1,4 +1,4 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 265,"Grasland, blijvend",Grassland permanent,pasture_meadow_grassland_grass,3302000000
 266,"Grasland, tijdelijk",Grassland temporary,pasture_meadow_grassland_grass,3302000000
 259,"Maïs, snij-",maize cut,green_silo_maize,3301090400
@@ -30,7 +30,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 383,Graszaad,grass seed,temporary_grass,3301090100
 1067,"Bos- en haagplanten, open grond,",Forest and hedge plants open ground,other_tree_wood_forest,3306990000
 863,Bos zonder herplantplicht,Forest without obligation to replant,other_tree_wood_forest,3306990000
-2710,"Asperges, oppervlakte die productie oplevert",Asparagus area yielding production,aspargus,3301200000
+2710,"Asperges, oppervlakte die productie oplevert",Asparagus area yielding production,asparagus,3301200000
 1074,"Sierconiferen, open grond,",Ornamental conifers open ground,flowers_ornamental_plants,3301080000
 1075,"Sierheesters en klimplanten, open grond,",Ornamental shrubs and creepers open ground,flowers_ornamental_plants,3301080000
 2785,"Winterpeen, productie",Carrot production,carrots_daucus,3301290300
@@ -119,7 +119,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 346,Tagetes erecta (Afrikaantje),Tagetes erecta (marigold),calendula_marigold,3301061210
 3512,Italiaans raaigras,Italian ryegrass,lolium_ryegrass,3301090205
 370,"Rand, grenzend aan blijvend grasland of een blijvende teelt, hoofdzakelijk bestaand uit tijdelijk gras",Border adjacent to permanent pasture or a permanent crop consisting mainly of temporary grass,temporary_grass,3301090100
-2711,"Asperges, oppervlakte die nog geen productie oplevert",Asparagus area that does not yet yield production,aspargus,3301200000
+2711,"Asperges, oppervlakte die nog geen productie oplevert",Asparagus area that does not yet yield production,asparagus,3301200000
 1099,Wijndruiven,Wine grapes,vineyards_wine_vine_rebland_grapes,3303060000
 1054,"Pioenroos, vermeerdering",Peony propagation,peony_peonies,3301083400
 2771,"Sla; overig, productie",Salad; other production,other_salads_lettuce_leaf_vegetables,3301319900
@@ -162,7 +162,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2795,"Bloemkool, winter, productie",Cauliflower winter production,cauliflower,3301210204
 2327,Bramen,blackberries,blackberry,3303020200
 2708,"Andijvie, productie",Endive production,endive,3301310300
-2712,"Asperges, zaden en opkweekmateriaal",Asparagus seeds and propagation material,aspargus,3301200000
+2712,"Asperges, zaden en opkweekmateriaal",Asparagus seeds and propagation material,asparagus,3301200000
 1012,"Sierui, bloembollen en -knollen",Ornamental onions flower bulbs and tubers,flowers_ornamental_plants,3301080000
 263,"Uien, zilver-",onions silver,onions,3301220400
 2701,"Aardbeien open grond, wachtbed",Strawberry open ground waiting bed,strawberries,3301130000
@@ -220,7 +220,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 2788,"Witlofwortel, zaden en opkweekmateriaal",Chicory root seeds and propagation material,chicory_chicories,3301310200
 1090,"Trek- en besheesters, pot- en containerveld,",Tensile and berry shrubs pot and container field,shrubberries_shrubs,3303080000
 3502,Bladkool,cabbage leaf,brassica_oleracea_cabbage,3301210200
-653,Teunisbloem,evening primrose,primrose,3301083400
+653,Teunisbloem,evening primrose,primrose,3301083500
 666,"Vlas, olie-. Lijnzaad niet van vezelvlas",Flax oil. Linseed not from fiber flax,flax_linseed_oil,3301060702
 2769,"Sla; radicchio rosso, productie",Salad; radicchio rosso production,other_salads_lettuce_leaf_vegetables,3301319900
 2739,"Koolrabi, productie",Kohlrabi production,kohlrabi,3301210209

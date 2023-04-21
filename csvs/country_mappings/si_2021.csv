@@ -1,4 +1,4 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 000,Not known,Not known,not_known_and_other,3399000000
 001,Triticum aestivum L.,Common wheat spring,spring_common_soft_wheat,3301010102
 002,rž (jara),Rye (spring),spring_rye,3301010302
@@ -124,7 +124,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 698,Castanea sativa,Sweet chestnut,sweet_chestnuts,3303030500
 699,Mixed fruit plants,Mixed fruit plants,orchards_fruits,3303010000
 702,Nurseries,Nurseries,nurseries_nursery,3303070000
-703,Asparagus officinalis,Garden asparagus,aspargus,3301200000
+703,Asparagus officinalis,Garden asparagus,asparagus,3301200000
 704,Vine nurseries,Vine nurseries,nurseries_nursery,3303070000
 705,"Mixed permanent crops on field under 0,1 ha size",Mixed permanent crops on field under 01 ha size,other_permanent_crops_plantations,3303990000
 706,Vines for other uses than for wine or fruits,Vines for other uses than for wine or fruits,vineyards_wine_vine_rebland_grapes,3303060000

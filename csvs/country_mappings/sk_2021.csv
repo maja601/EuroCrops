@@ -1,4 +1,4 @@
-original_name,translated_name,HCAT2_name,HCAT2_code
+original_name,translated_name,HCAT3_name,HCAT3_code
 Trvalý trávny porast,Permanent grassland,pasture_meadow_grassland_grass,3302000000
 Pšenica ozimná,Winter wheat,winter_common_soft_wheat,3301010101
 Mezofilné  trvalé trávne porasty (typ B),Mesophilic permanent grassland (type B),pasture_meadow_grassland_grass,3302000000
@@ -111,7 +111,7 @@ Ostatné aromatické byliny,Other aromatic herbs,aromatic_medicinal_culinary_pla
 Višňa,Cherry,cherry_cherries,3303010400
 Rakytník rešetliakovitý,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800
 Zeler voňavý buľvový,Fragrant celery,celery,3301250000
-Špargľa,Asparagus,aspargus,3301200000
+Špargľa,Asparagus,asparagus,3301200000
 Vŕba košikárska,Basket willow,willows_osiers,3306080000
 Ďatelina alexandrijská,Alexandrian clover,clover,3301090303
 Reďkev siata pravá (reďkovka),Radish sown (radish),radish,3301290600

@@ -1,4 +1,4 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 459,Grünland (Dauergrünland),Grassland (permanent grassland),pasture_meadow_grassland_grass,3302000000
 411,Silomais (als Hauptfutter),Silage maize (as staple feed),green_silo_maize,3301090400
 115,Winterweichweizen,Winter soft wheat,winter_common_soft_wheat,3301010101
@@ -24,7 +24,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 220,Acker-/Puff-/Pferdebohne,Field / broad / horse bean,beans,3301020100
 924,Vertragsnaturs. ohne DZ,Contract nature conservation without direct payment,not_known_and_other,3399000000
 583,Naturschutz (1307/2013-32-2bi),Nature conservation (1307 / 2013-32-2bi),not_known_and_other,3399000000
-860,Spargel,asparagus,aspargus,3301200000
+860,Spargel,asparagus,asparagus,3301200000
 114,Winter-Dinkel,Winter spelt,winter_spelt,3301011001
 210,Erbsen zur Körnergewinnung,Peas for grain production,peas,3301020600
 838,Baumschulen (ohne Beerenobst),Tree nurseries (excluding soft fruit),nurseries_nursery,3303070000
@@ -35,7 +35,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 592,DGL aus Erzeugung genommen,Permanent grass land suspendet from production,pasture_meadow_grassland_grass,3302000000
 51,Mischkulturen in Reihenanbau,Mixed crops in rows,other_arable_land_crops,3301990000
 825,"Kernobst z.B. Äpfel, Birnen",Pome fruit e.g. apples,orchards_fruits,3303010000
-116,Sommerweichweizen,Summer soft wheat,summer_common_soft_wheat,3301010103
+116,Sommerweichweizen,Summer soft wheat,spring_common_soft_wheat,3301010102
 423,Luzerne,alfalfa,alfalfa_lucerne,3301090301
 112,Winterhartweizen/Durum,Winter hard wheat / durum,winter_durum_hard_wheat,3301010201
 613,Gemüsekohl (auch Zierkohl),Vegetable cabbage (also ornamental cabbage),fresh_vegetables,3301070000

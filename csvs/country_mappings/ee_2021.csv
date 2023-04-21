@@ -1,4 +1,4 @@
-original_name,translated_name,HCAT2_name,HCAT2_code
+original_name,translated_name,HCAT3_name,HCAT3_code
 rohttaimed,grasses,pasture_meadow_grassland_grass,3302000000
 talinisu allakülvita,Winter wheat,winter_common_soft_wheat,3301010101
 liblikõieliste ja kõrreliste segu (30-80% liblikõielisi),mixture of legumes and grasses (30-80% legumes),legumes_harvested_green,3301090300
@@ -160,7 +160,7 @@ harilik ussikeel (100% ussikeelt),Viper's bugloss (100%),flowers_ornamental_plan
 aeduba,kidney bean,beans,3301020100
 "vürtsköömen, harilik",Common cumin,black_cumin,3301061208
 lillkapsas,Cauliflower,cauliflower,3301210204
-spargel,asparagus,aspargus,3301200000
+spargel,asparagus,asparagus,3301200000
 paju,willow,willows_osiers,3306080000
 muu teravili liblikõieliste allakülviga,Other cereals with legumes,other_cereals,3301019900
 aedpetersell,garden parsley,parsly,3301061227
@@ -233,7 +233,7 @@ lehtsalat,lettuce,salads_lettuce_leaf_vegetables,3301310000
 redis,radish,radish,3301290600
 harilik sarapuu,common hazel,hazelnuts_hazel,3303030200
 "põldhernes ""Mehis"" tugikultuuriga (vähemalt 70% põldhernes ""Mehis"")","Field pea ""Mehis"" (at least 70%) with support crop",peas,3301020600
-"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common asparagus (asparagus 50-80% other grasses 20-50%),aspargus,3301200000
+"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common asparagus (asparagus 50-80% other grasses 20-50%),asparagus,3301200000
 "kikkaputk, harilik",Garden angelica,angelica,3301061204
 valge sõstar,White currant,currants,3303020600
 varsseller,celery,celery,3301250000

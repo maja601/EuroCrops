@@ -1,4 +1,4 @@
-original_code,original_name,translated_name,HCAT2_name,HCAT2_code
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 452,Mähweiden,Mowing pastures,pasture_meadow_grassland_grass,3302000000
 411,Silomais (als Hauptfutter),Silage maize (as staple feed),green_silo_maize,3301090400
 115,Winterweichweizen,Winter soft wheat,winter_common_soft_wheat,3301010101
@@ -37,7 +37,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 918,Mehrjährige Blühstreifen oder Blühflächen (nur für Flächen mit AUM-BS 2 zu verwenden),Perennial flower strips or flower areas (only to be used for areas with AUM-BS 2),flowers_ornamental_plants,3301080000
 480,Streuobstfläche mit Grünlandnutzung,Orchards with grassland use,orchards_fruits,3303010000
 592,Dauergrünland aus der Erzeugung genommen iSd. Art. 4 Abs. 1 Buchst. c) ii) VO 1307/2013,Permanent grassland withdrawn from production within the meaning of Art. 4 para. 1 letter c) ii) Regulation 1307/2013,pasture_meadow_grassland_grass,3302000000
-860,Spargel,asparagus,aspargus,3301200000
+860,Spargel,asparagus,asparagus,3301200000
 990,Alle anderen Flächen (keine LF),All other surfaces (no LF),not_known_and_other,3399000000
 220,Ackerbohne/Puffbohne/Pferdebohne/Dicke Bohne,Field bean / broad bean / horse bean / broad bean,beans,3301020100
 606,Pflanzkartoffeln,Seed potatoes,potatoes,3301030000
@@ -46,7 +46,7 @@ original_code,original_name,translated_name,HCAT2_name,HCAT2_code
 827,"Beerenobst, z.B. Johannis-, Stachel-, Himbeeren",Berries,berries_berry_species,3303020000
 915,sonstige Blühstreifen oder Blühflächen,other flower strips or flower areas,flowers_ornamental_plants,3301080000
 707,Erdbeeren,Strawberries,strawberries,3301130000
-116,Sommerweichweizen,summer wheat,summer_common_soft_wheat,3301010103
+116,Sommerweichweizen,summer wheat,spring_common_soft_wheat,3301010102
 912,Grassamenvermehrung,Grass seed propagation,pasture_meadow_grassland_grass,3302000000
 941,Gründüngung im Hauptfruchtanbau,Green manure in main crop cultivation,not_known_and_other,3399000000
 983,Weihnachtsbäume,Christmas trees,tree_wood_forest,3306000000
