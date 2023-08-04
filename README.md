@@ -2,7 +2,7 @@
 _Border Region Austria - Slovakia around Bratislava_
 
 # EuroCrops
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 EuroCrops is a dataset collection combining all publicly available self-declared crop reporting datasets from countries of the European Union.
 The project is funded by the German Space Agency at DLR on behalf of the Federal Ministry for Economic Affairs and Climate Action (BMWK).
