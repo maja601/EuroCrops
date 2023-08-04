@@ -42,7 +42,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 9829,Natuurlijk grasland zonder minimumactiviteit,Natural grassland with no minimum activity,pasture_meadow_grassland_grass,3302000000
 9823,Weiland met niet-oogstbare bomen (> 100 bomen per ha),Pasture with non-harvestable trees (> 100 trees per ha),tree_wood_forest,3306000000
 8514,Ajuinen (niet-vroege) - industrie,Onions (non-early) - industry,onions,3301220400
-322,Zomergerst,summer barley,summer_barley,3301010403
+322,Zomergerst,summer barley,spring_barley,3301010402
 9811,Cichorei (inuline),Chicory (inulin),chicory_chicories,3301310200
 8538,Prei - industrie,Leek - industry,leek,3301220300
 89,Braakliggend land met minimale activiteit met EAG,Derelict land with minimal activity with EAG,unmaintained,3308000000
@@ -83,7 +83,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 8910,Bebossing loofbomen-ecologisch,Afforestation deciduous trees-ecological,afforestation_reforestation,3306010000
 52,Tuin- en veldbonen (niet voor menselijke consumptie),Broad and field beans (not for human consumption),beans,3301020100
 9827,Weiland met oogstbare hoogstam bomen (> 100 bomen/ha),Pasture with harvestable standard trees (> 100 trees/ha),tree_wood_forest,3306000000
-342,Zomerhaver,summer oats,summer_oats,3301010503
+342,Zomerhaver,summer oats,spring_oats,3301010502
 9557,Andere alternatieve slasoorten - vers,Other alternative lettuce varieties - fresh,salads_lettuce_leaf_vegetables,3301310000
 955,Graszoden,Grass Turf,sod_turf,3301090207
 9717,Frambozen,raspberries,raspberry_raspberries,3303021000
@@ -92,7 +92,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 9718,Rode bessen,Redcurrant,redcurrant,3303021100
 8411,Snijbonen - industrie,String beans - industry,beans,3301020100
 9727,Meerjarige fruitteelten (zure kers),Perennial fruit crops (sour cherry),cherry_cherries,3303010400
-646,Tagetes (Afrikaantje),Tagetes (marigold),tagetes,3301090200
+646,Tagetes (Afrikaantje),Tagetes (marigold),tagetes,3301084700
 9518,Kropsla - vers,head lettuce - fresh,salads_lettuce_leaf_vegetables,3301310000
 8563,Ajuinen (vroege) - industrie,Onions (early) - industry,onions,3301220400
 9512,Spruitkool - vers,Brussels sprouts - fresh,brussels_sprouts,3301210203
@@ -207,7 +207,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 9587,Snijbloemen andere dan rozen >= 5 jaar,Cut flowers other than roses >= 5 years,flowers_ornamental_plants,3301080000
 859,Peterselie - industrie,Parsley - industry,parsly,3301061227
 8511,Asperges - industrie,Asparagus - industry,asparagus,3301200000
-332,Zomerrogge,summer rye,summer_rye,3301010303
+332,Zomerrogge,summer rye,spring_rye,3301010302
 605,Zaaizaad groenten,Seed vegetables,fresh_vegetables,3301070000
 872,Andere hennep dan vezelhennep (niet voor menselijke consumptie),Hemp other than fiber hemp (not for human consumption),hemp_cannabis,3301061000
 865,Bieslook - industrie,Chives - industry,chives,3301220100

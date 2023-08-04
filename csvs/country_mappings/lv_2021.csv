@@ -6,7 +6,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 140,Auzas,Oats,oats,3301010500
 811,"Dažādi kultūraugi nelielā aramzemes platībā vai vairāki kultūraugi, audzēti vienlaidu laukā, ja katrs no kultūraugiem attiecīgajā laukā aizņem mazāk par 0,3 ha, vai platības, ko izmanto ziedu audzēšanai","Different crops on a small area of arable land or several crops grown in a continuous field, where each of the crops occupies less than 0.3 ha in the field concerned, or areas used for the production of flowers",other_arable_land_crops,3301990000
 610,Papuve,Idle land,fallow_land_not_crop,3301110000
-131,"Mieži, vasaras",Barley summer,summer_barley,3301010403
+131,"Mieži, vasaras",Barley summer,spring_barley,3301010402
 212,"Rapsis, ziemas",Rape winter,winter_rapeseed_rape,3301060401
 820,"Kartupeļi, kas citur nav minēti",Potatoes not elsewhere specified or included,potatoes,3301030000
 121,Rudzi,Rye,rye,3301010300
@@ -29,7 +29,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 715,Facēlija,Phacelia,phacelia,3301061400
 113,Kvieši vasaras ar stiebrzāļu vai tauriņziežu pasēju,Wheat in summer with grass or legume sowing,spring_common_soft_wheat,3301010102
 926,Zemenes,Strawberry,strawberries,3301130000
-133,Mieži vasaras ar stiebrzāļu vai tauriņziežu pasēju,Barley summer with grass or legume sowing,summer_barley,3301010403
+133,Mieži vasaras ar stiebrzāļu vai tauriņziežu pasēju,Barley summer with grass or legume sowing,spring_barley,3301010402
 620,"LIZ, par kuru kārtējā gadā nevar saņemt atbalstu",UAA for which no support is available in the current year,currants,3303020600
 919,Smiltsērkšķis,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800
 922,Upenes,Blackcurrant,blackcurrant_cassis,3303020300
@@ -66,7 +66,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 932,Saldie un skābie ķirši,Sweet and sour cherries,cherry_cherries,3303010400
 116,"Speltas kvieši, ziemas","Spelt wheat, winter",winter_spelt,3301011001
 831,"Lopbarības bietes, cukurbietes",Fodder beet sugar beet,mangelwurzel_fodder_beet,3301290400
-150,"Tritikāle, vasaras",Triticale summer,summer_triticale,3301010803
+150,"Tritikāle, vasaras",Triticale summer,spring_triticale,3301010802
 213,"Ripsis, vasaras","Rapeseed, summer",summer_rapeseed_rape,3301060403
 874,Parastās dilles,Common dill,anethum_dill,3301061203
 844,"Galda bietes, mangolds (lapu bietes)",Table beets chard (leaf beets),beetroot_beets,3301290200
@@ -108,8 +108,8 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 733,"Hibrīdā airene, sēklas ieguvei",Hybrid rye for seed production,rye,3301010300
 330,"Lini, eļļas",Flax oils,flax_linseed_oil,3301060702
 869,Sparģeļi,Asparagus,asparagus,3301200000
-152,Tritikāle vasaras ar stiebrzāļu vai tauriņziežu pasēju,Summer triticale with grass or legume paste,summer_triticale,3301010803
-115,"Speltas kvieši, vasaras",Spelt summer,summer_spelt,3301011003
+152,Tritikāle vasaras ar stiebrzāļu vai tauriņziežu pasēju,Summer triticale with grass or legume paste,spring_triticale,3301010802
+115,"Speltas kvieši, vasaras",Spelt summer,spring_spelt,3301011002
 927,Ērkšķogas,Gooseberries,gooseberry_gooseberries_cranberries,3303020700
 884,Ārstniecības gurķene,Borage,borage,3301061209
 929,Kazenes,Blackberries,blackberry,3303020200

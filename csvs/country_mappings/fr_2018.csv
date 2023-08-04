@@ -32,7 +32,7 @@ MCR,Mélange de céréales,Mix of cereals,unspecified_season_unspecified_cereals
 LU8,Luzerne implantée pour la récolte 2018,Alfalfa planted for the 2018 harvest,alfalfa_lucerne,3301090301
 FLA,Autre légume ou fruit annuel,Other vegetables or annual fruits,fresh_vegetables,3301070000
 BFS,Bande admissible le long d’une forêt sans production,Eligible strip along a forest without production,not_known_and_other,3399000000
-NOX,Noix,Walnuts,walnuts,3303030000
+NOX,Noix,Walnuts,walnuts,3303030600
 LU7,Luzerne implantée pour la récolte 2017,Alfalfa planted for the 2017 harvest,alfalfa_lucerne,3301090301
 BFP,Bande admissible le long d’une forêt avec production,Permissible strip along a forest with production,not_known_and_other,3399000000
 SOG,Sorgho,Sorghum,millet_sorghum,3301010900
@@ -280,3 +280,4 @@ CPS,Autre céréale de printemps de genre Secale,Other spring cereal of the genu
 SE7,Serradelle implantée pour la récolte 2017,Serradelle planted for the 2017 harvest,serradella,3301084200
 MIN,Minette,Yellow clover,clover,3301090303
 CRN,Cornille,Cowpea,peas,3301020600
+CSE,Chanvre sans étiquette conforme,Hemp without conforming label,hemp_cannabis,3301061000

@@ -17,8 +17,8 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 56,ÖVF-Streifen AL,Ecological Preferance Area strips AL,not_known_and_other,3399000000
 480,Streuobst mit DGL-Nutzung,Orchards with Permanent grassland use,orchards_fruits,3303010000
 422,Kleegras,Clover grass,clover,3301090303
-143,Sommerhafer,Summer oats,summer_oats,3301010503
-132,Sommergerste,Summer barley,summer_barley,3301010403
+143,Sommerhafer,Summer oats,spring_oats,3301010502
+132,Sommergerste,Summer barley,spring_barley,3301010402
 599,Brachefläche Vertragsnaturs.,Fallow land of contract nature conservation,fallow_land_not_crop,3301110000
 910,Wildacker auf lw. Fläche,Wild field on agricultural area,other_arable_land_crops,3301990000
 220,Acker-/Puff-/Pferdebohne,Field / broad / horse bean,beans,3301020100
@@ -65,10 +65,10 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 630,"Gartenkürbis (Zucchini, Zier.)",Pumpkin (Zucchini,zucchini_courgette,3301140600
 638,Spinat,spinach,spinach,3301310800
 972,NFF: Dauergrünlandnutzung,NFF: permanent grassland use,pasture_meadow_grassland_grass,3302000000
-157,Sommertriticale,Summer triticale,summer_triticale,3301010803
+157,Sommertriticale,Summer triticale,spring_triticale,3301010802
 320,Sonnenblumen,sunflowers,sunflower,3301060500
 914,Versuchsflächen (nur DZ-fähig),Trial areas (only direct payment possible),not_known_and_other,3399000000
-144,Sommermenggetreide,Summer mixed grain,summer_unspecified_cereals,3301011503
+144,Sommermenggetreide,Summer mixed grain,spring_unspecified_cereals,3301011502
 702,Rollrasen,Turf,sod_turf,3301090207
 850,Sonstige Dauerkulturen,Other permanent crops,other_permanent_crops_plantations,3303990000
 421,verschiedene Klee Sorten,different types of clover,clover,3301090303
@@ -76,7 +76,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 802,"Silphium (Durchwachs., Becher)",Silphium (through-growth,silphium_rosinweeds,3301084400
 330,Sojabohnen,Soybeans,soy_soybeans,3301160000
 576,SchutzstreifenErosion(nur AUM),Protective strip erosion (only AUM),not_known_and_other,3399000000
-122,Sommerroggen,Summer rye,summer_rye,3301010303
+122,Sommerroggen,Summer rye,spring_rye,3301010302
 641,Sellerie (Knoll/Bleich/Stang),Celery (tuber / pale / stick),celery,3301250000
 125,Wintermenggetreide,Winter mixed grain,winter_unspecified_cereals,3301011501
 172,Zuckermais,Sweet corn,grain_maize_corn_popcorn,3301010600
@@ -96,12 +96,12 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 627,Salatgurke (auch Einlegegurke),Cucumber (also pickled cucumber),cucumber_pickle,3301140100
 312,Sommerraps,Summer rape,summer_rapeseed_rape,3301060403
 739,Tagetes,Tagetes,tagetes,3301084700
-113,Sommerhartweizen/Durum,Summer durum wheat / durum,summer_durum_hard_wheat,3301010203
+113,Sommerhartweizen/Durum,Summer durum wheat / durum,spring_durum_hard_wheat,3301010202
 777,Phacelia,Phacelia,phacelia,3301061400
 750,Dahlien (Garten-Dahlie),Dahlias (garden dahlia),dahlia,3301081200
 803,"Sudangras, Zuckerhirse",Sudan grass,poaceae_grasses,3301090200
 745,Gladiolen (Gartengladiole),Gladioli (garden gladiolus),gladiolus_gladioli,3301082100
-120,Sommer-Dinkel,Summer spelt,summer_spelt,3301011003
+120,Sommer-Dinkel,Summer spelt,spring_spelt,3301011002
 651,"Anethum (Dill, Gurkenkraut)",Anethum (dill,anethum_dill,3301061203
 616,"Senfrauke (Garten-S., Rucola)",Arugula,rocket_arugula,3301310600
 118,Winter-Emmer/ -Einkorn,Winter emmer / Einkorn,winter_emmer,3301011201
@@ -144,7 +144,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 661,Rosmarin,rosemary,rosemary,3301061230
 393,Leindotter,Camelina,camelina,3301061500
 796,"Fetthenne, Mauerpfeffer",stonecrop,stonecrop,3301084600
-119,Sommer-Emmer/ -Einkorn,Summer emmer / Einkorn,summer_emmer,3301011203
+119,Sommer-Emmer/ -Einkorn,Summer emmer / Einkorn,spring_emmer,3301011202
 668,Lavendel,lavender,lavender_lavandula,3301061219
 726,Lilien (Türkenbund),Lilies (turkish union),lilies,3301082500
 786,Fingerhut,thimble,thimbles,3301084800
@@ -171,7 +171,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 631,Melone (Citrullus) (Wasserm.),Melon (Citrullus) (Waterm.),melon,3301140300
 429,Esparsette,Esparsette,esparsette_onobrychis,3301020300
 778,Alpendistel,Alpine thistle,marian_thistles,3301061300
-316,Sommerrübsen (auch Rübsamen),Summer turnip rape (also rapeseed),summer_rapeseed_rape,3301060403
+316,Sommerrübsen (auch Rübsamen),Summer turnip rape (also rapeseed),spring_rapeseed_rape,3301060402
 675,"Sonnenhut (Schmalbl., Purpur)",Sun hat (narrow purple),echinacea_sun_hat,3301081500
 431,Steinklee,Sweet clover,clover,3301090303
 782,Glockenblumen (Campanula),Bluebells (campanula),bluebells,3301080500
