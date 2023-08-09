@@ -1,239 +1,239 @@
-original_name,translated_name,HCAT3_name,HCAT3_code
-rohttaimed,grasses,pasture_meadow_grassland_grass,3302000000
-talinisu allakülvita,Winter wheat,winter_common_soft_wheat,3301010101
-liblikõieliste ja kõrreliste segu (30-80% liblikõielisi),mixture of legumes and grasses (30-80% legumes),legumes_harvested_green,3301090300
-suvioder allakülvita,sprint barley,spring_barley,3301010402
-kõrreliste rohumaa (vähemalt 80% kõrrelisi),grassland (at least 80% grasses),pasture_meadow_grassland_grass,3302000000
-taliraps allakülvita,Winter oilseed rape,winter_rapeseed_rape,3301060401
-suvinisu allakülvita,spring wheat,spring_common_soft_wheat,3301010102
-kaer allakülvita,oats sown,oats,3301010500
-"põldhernes, v.a ""Mehis"" (100% põldhernest)",Field pea (100%),peas,3301020600
-punane ristik (100% ristikut),red clover (100% clover),clover,3301090303
-"kartul v.a ""Ando""","Potato (excl. ""Ando"")",potatoes,3301030000
-muu heintaimede segu,Other mix of grasses,pasture_meadow_grassland_grass,3302000000
-kaer liblikõieliste allakülviga,Oats undersown with legumes,oats,3301010500
-talioder allakülvita,Winter barley,winter_barley,3301010401
-"põlduba, v.a ""Jõgeva""","Broad bean (excl. """"Jgeva"""") ",beans,3301020100
-köögivili väikestel pindadel,Fresh vegetables grown in small area (open field),fresh_vegetables,3301070000
-"punane ristik (ristikut 50-80%, teisi heintaimi 20-50%)",red clover (clover 50-80% other grasses 20-50%),clover,3301090303
-Karjatamine väljaspool põllumaj. maad,Rough grazings,pasture_meadow_grassland_grass,3302000000
-mustkesa,Fallow land (bare land),fallow_land_not_crop,3301110000
-suviraps allakülvita,Spring oilseed rape,spring_rapeseed_rape,3301060402
-"rukis, v.a sangaste rukis, allakülvita",Rye,rye,3301010300
-"punane ristik (vähemalt 80% ristikut, kuni 20% heintaimi)",Red clover (at least 80% clover up to 20% grasses),clover,3301090303
-tatar allakülvita,buckwheat,buckwheat,3301150200
-suvioder liblikõieliste allakülviga,Spring barley undersown with legumes,spring_barley,3301010402
-aedmaasikad avamaal või madala katte all,Strawberries (open field or under low cover),strawberries,3301130000
-talirüps allakülvita,Winter turnip rape,winter_rapeseed_rape,3301060401
-mais,Grain maize,grain_maize_corn_popcorn,3301010600
-viljapuu- ja marjaaiad väikestel pindadel,Fruits and berries in small area,orchards_fruits,3303010000
-sööti jäetud maa,Fallow land,fallow_land_not_crop,3301110000
-"harilik lutsern (lutserni 50-80%, teisi heintaimi 20-50%)",alfalfa (alfalfa 50-80% other grasses 20-50%),alfalfa_lucerne,3301090301
-suvinisu liblikõieliste allakülviga,Spring wheat undersown with legumes,spring_common_soft_wheat,3301010102
-talitritikale allakülvita,Winter triticale,winter_triticale,3301010801
-"kanep, Finola",Hemp Finola,finola,3301061001
-liblikõieliste ja muude põllumajanduskultuuride segu (30-80% liblikõielisi),Mix of legumes and other crops (30-80% legumes),legumes_dried_pulses_protein_crops,3301020000
-harilik lutsern (100% lutserni),Lucerne (100%),alfalfa_lucerne,3301090301
-õunapuu,apple tree,apples,3303010200
-valge mesikas (100% mesikat),White melilot (100%),melilot,3301090304
-talinisu liblikõieliste allakülviga,Winter wheat undersown with legumes,winter_common_soft_wheat,3301010101
-astelpaju,Sea-buckthorn,hippophae_sea_buckthorns_seaberry,3303020800
-vaarikas,raspberry,raspberry_raspberries,3303021000
-must sõstar,black currant,blackcurrant_cassis,3303020300
-"N siduv heint. ja kõrreliste segu (N siduvaid heintaimi üle 50%, kõrrelisi heintaimi alla 50%)",Mix of nitrogen-binding grasses and graminoids (over 50% nitrogen-binding grasses less than 50% graminoid grasses),pasture_meadow_grassland_grass,3302000000
-valge ristik (100% ristikut),white clover (100% clover),clover,3301090303
-roosa ristik (100% ristikut),Alsike clover (100%),clover,3301090303
-"harilik lutsern (vähemalt 80% lutserni, kun 20% heintaimi)",Lucerne (at least 80% alfalfa 20% grasses),alfalfa_lucerne,3301090301
-"muud liblikõielised (vähemalt 80% liblikõielisi, kuni 20% heintaimi)",other legumes (at least 80% legumes up to 20% grasses),legumes_dried_pulses_protein_crops,3301020000
-suvitritikale allakülvita,Spring triticale,spring_triticale,3301010802
-tatar liblikõieliste allakülviga,Buckwheat undersown with legumes,buckwheat,3301150200
-"rukis, v.a sangaste rukis, liblikõieliste allakülviga",Rye undersown with legumes,rye,3301010300
-"valge ristik (ristikut 50-80%, teisi heintaimi 20-50%)",White clover (50-80% clover 20-50% other grasses),clover,3301090303
-keerispea allakülvita,Fiddleneck,not_known_and_other,3399000000
-"roosa ristik (ristikut 50-80%, teisi heintaimi 20-50%)",Alsike clover (clover 50-80% other grasses 20-50%),clover,3301090303
-"roosa ristik (vähemalt 80% ristikut, kuni 20% heintaimi)",Alsike clover (at least 80% clover up to 20% grasses),clover,3301090303
-"põldhernes, v.a ""Mehis"" tugikultuuriga (vähemalt 70% põldhernest)",Field pea (at least 70%) with support crop,peas,3301020600
-segavili/segatis,Cereal mixture,unspecified_cereals,3301011500
-aedhernes,Green peas,peas,3301020600
-"kaer allakülviga, v.a liblikõieliste allakülviga",Oats undersown (excl. legumes),oats,3301010500
-segavili/segatis N siduvate kaunviljadega (N siduvaid kaunvilju segus üle 50%),Cereal mixture with nitrogen-binding pulses (pulses over 50%),legumes_dried_pulses_protein_crops,3301020000
-mustikas,blueberry,blueberry,3303020400
-"põldhernes ""Mehis"" (100% põldhernest ""Mehis"")","field pea ""Mehis"" (100% field pea ""Mehis"")",peas,3301020600
-küüslauk,garlic,garlic,3301220200
-talirüps liblikõieliste allakülviga,Winter oilseed rape,winter_rapeseed_rape,3301060401
-"kapsasrohi, sarepta",Brown mustard,mustard,3301210100
-porgand,carrots,carrots_daucus,3301290300
-Sangaste rukis allakülvita,Sangaste rye,rye,3301010300
-"valge ristik (vähemalt 80% ristikut, kuni 20% heintaimi)",white clover (at least 80% clover up to 20% grasses),clover,3301090303
-"kapsasrohi, must",Black mustard,mustard,3301210100
-valge peakapsas,white head cabbage,white_cabbage,3301210212
-aedkoriander,garden coriander,coriander,3301061215
-"valge mesikas (mesikat 50-80%, teisi heintaimi 20-50%)",white melilot (honeysuckle 50-80% other grasses 20-50%),melilot,3301090304
-"suvioder allakülviga, v.a liblikõieliste allakülviga",Spring barley undersown (excl. legumes),spring_barley,3301010402
-puukoolid,nurseries,nurseries_nursery,3303070000
-muu köögivili,other vegetables,fresh_vegetables,3301070000
-punapeet (söögipeet),beetroot (beetroot),beetroot_beets,3301290200
-varajane kartul,early potatoes,potatoes,3301030000
-harilik sibul (söögisibul),onion (onion),onions,3301220400
-"N siduv heint. segu (N siduvaid heintaimi üle 50%, teisi liblikõielisi heintaimi alla 50%)",Mix of nitrogen-binding grasses (over 50% nitrogen-binding grasses less than 50% other leguminous grasses),pasture_meadow_grassland_grass,3302000000
-keerispea liblikõieliste allakülviga,Fiddleneck undersown with legumes,not_known_and_other,3399000000
-suvirüps allakülvita,Spring turnip rape,spring_rapeseed_rape,3301060402
-kurk,cucumber,cucumber_pickle,3301140100
-"kartul ""Ando""","potato ""Ando""",potatoes,3301030000
-kõrvits,pumpkin,pumpkin_squash_gourd,3301140400
-ravim- ja maitsetaimed väikestel pindadel,Medicinal and culinary plants grown in small area,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-üheaastane raihein jm üheaastased heintaimed,Annual ryegrass and other annual grasses,lolium_ryegrass,3301090205
-ravim- ja maitsetaimede segu muude põllumajanduskultuuridega,Medicinal and culinary plants mixed with other crops,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-suviraps liblikõielise allakülviga,Summer rape with leguminous sowing,summer_rapeseed_rape,3301060403
-"suvinisu allakülviga, v.a liblikõieliste allakülviga",Spring wheat undersown (excl. legumes),spring_common_soft_wheat,3301010102
-köömen,cumin,black_cumin,3301061208
-"maarjaohakas, harilik",Milk thistle,marian_thistles,3301061300
-viinapuu,grapes,vineyards_wine_vine_rebland_grapes,3303060000
-söödakapsas,fodder cabbage,brassica_oleracea_cabbage,3301210200
-punane sõstar,redcurrant,redcurrant,3303021100
-aroonia,chokeberry,aronia_chokeberries,3303020100
-ida-kitsehernes (100% ida-kitsehernest),Eastern goat pea (100% eastern goat pea),peas,3301020600
-speltanisu allakülvita,Spelt,spelt,3301011000
-orashein,ryegrass,lolium_ryegrass,3301090205
-talioder liblikõieliste allakülviga,winter barley with leguminous sowing,winter_barley,3301010401
-"valge mesikas (vähemalt 80% mesikat, kuni 20% heintaimi)",white melilot (at least 80% melilot up to 20% grasses),melilot,3301090304
-valge sinep allakülvita,white mustard without sowing,mustard,3301210100
-õlilina,Linseed (oil flax),flax_linseed_oil,3301060702
-"valge ristik ""Jõgeva 4"" (100% ristikut)",white clover (100% clover),clover,3301090303
-"N siduv heint. ja N siduv põllumaj. kult. segu (N siduvaid kult. üle 50%, segus valdavalt heint.)",Mix of nitrogen-binding grasses and nitrogen-binding crops(over 50% nitrogen-binding crops mix contains mainly grasses),pasture_meadow_grassland_grass,3302000000
-rabarber,rhubarb,rhubarb,3301230000
-suvirüps liblikõieliste allakülviga,Spring turnip rape undersown with legumes,turnips,3301290800
-pirnipuu,pear tree,pears,3303011200
-maapirn,Jerusalem artichoke,topinambur_jerusalem_artichoke,3301180000
-kaalikas,Rutabaga,swede_rutabaga,3301210500
-"talinisu allakülviga, v.a liblikõieliste allakülviga",Winter wheat undersown (excl. legumes),winter_common_soft_wheat,3301010101
-"tatar allakülviga, v.a liblikõieliste allakülviga",Buckwheat undersown (excl. legumes),buckwheat,3301150200
-muu rühvelkultuur,Other cultures,other_industrial_crops,3301069900
-"ida-kitsehernes (vähemalt 80% ida-kitsehernest, kuni 20% heintaimi)",Fodder galega (at least 80% galega up to 20% grasses),galega,3301081900
-"N siduv heint. ja muu põllumaj. kult. segu (N siduvaid heint. üle 50%, muid kultuure alla 50%)",Mix of nitrogen-binding grasses and other crops (over 50% nitrogen-binding grasses less than 50% other crops).,pasture_meadow_grassland_grass,3302000000
-teraviljade segu allakülvita,mixed grains,grain_maize_corn_popcorn,3301010600
-muu ravim- ja maitsetaim,Other medicinal and culinary plant,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-speltanisu liblikõieliste allakülviga,Spelt with legumes,spelt,3301011000
-ploomipuu,European plum,plums,3303011300
-Sangaste rukis liblikõieliste allakülviga,"Rye """"Sangaste"""" undersown with legumes",rye,3301010300
-muud viljapuud,other fruits,orchards_fruits,3303010000
-taliraps liblikõieliste allakülviga,winter oilseed rape with legumes,winter_rapeseed_rape,3301060401
-"valge ristik ""Jõgeva 4"" segus muude põllumaj. kultuuridega (ristik üle 50%, muid kultuure alla 50%)","white clover ""Jõgeva 4"" ""in a mixture with other agricultural crops (clover less than 50% other crops)""",clover,3301090303
-aedtill,Dill,anethum_dill,3301061203
-jõhvikas,Cranberry,cranberry,3303020500
-muud marjapõõsad,Other berries,berries_berry_species,3303020000
-päevalill,Sunflower,sunflower,3301060500
-sorgo,sorghum,millet_sorghum,3301010900
-suvitritikale liblikõieliste allakülviga,Summer trout with sown legumes,legumes_dried_pulses_protein_crops,3301020000
-"põlduba ""Jõgeva""","field bean ""Jõgeva"" """"",beans,3301020100
-muu teravili allakülvita,Other cereals,other_cereals,3301019900
-söödapeet,fodder beet,mangelwurzel_fodder_beet,3301290400
-ebaküdoonia,Japanese quince,quinces,3303011500
-lilled ja ehistaimed (dekoratiivtaimed) avamaal või madala katte all,flowers and ornamental plants (ornamental plants) in the open or under low cover,flowers_ornamental_plants,3301080000
-tuder,Tuber,other_permanent_crops_plantations,3303990000
-"võilill, harilik",Dandelion common,dandelions,3301081400
-"saialill, harilik",English marigold,calendula_marigold,3301061210
-"rukis, v.a sangaste rukis, allakülviga, v.a liblikõieliste allakülviga",Rye undersown (excl. legumes),rye,3301010300
-pastinaak,parsnips,parsnips,3301290500
-söödav kuslapuu,honeysuckle,honeysuckle,3303080500
-suvivikk,Common vetch,vetches,3301090305
-keerispea allakülviga v.a liblikõieliste allakülviga,Fiddleneck undersown (excl. legumes),fiddleneck_amsinckia,3301081700
-tomat,Tomato,tomato,3301280000
-N siduvate kaunviljade segu (N siduvaid kaunvilju segus üle 50%),Mix of nitrogen-binding pulses (pulses over 50%),legumes_dried_pulses_protein_crops,3301020000
-"speltanisu allakülviga, v.a liblikõieliste allakülviga",Spelt with the exception of legumes,spelt,3301011000
-kollane mesikas (100% mesikat),yellow honeysuckle (100% honeysuckle),honeysuckle,3303080500
-muu tehniline kultuur,other technical culture,other_arable_land_crops,3301990000
-magus kirsipuu,sweet cherry tree,cherry_cherries,3303010400
-kabatšokk,Squash,pumpkin_squash_gourd,3301140400
-"kurgirohi, harilik",Borage,borage,3301061209
-"valge ristik ""Jõgeva 4"" segus aasnurmikaga (mõlemat 50%)","White clover ""Jgeva 4"" mixed with Kentucky bluegrass (both 50%)",clover,3301090303
-teekummel,chamomile,chamomile,3301061213
-talitritikale liblikõieliste allakülviga,Winter triticale undersown with legumes,winter_triticale,3301010801
-hapu kirsipuu sh murelipuu,Sour cherry incl. morello cherry,cherry_cherries,3303010400
-valge sinep liblikõieliste allakülviga,White mustard with sown legumes,mustard,3301210100
-"kanep, Henola",Cannabis Heinola,hemp_cannabis,3301061000
-kaunviljade segu,Mixture of legumes,legumes_dried_pulses_protein_crops,3301020000
-harilik esparsett (100% esparsetti),Common sainfoin (100%),onobrychis_sainfoins,3301061600
-piparmünt,peppermint,mints_peppermint,3301061222
-"teeleht, suur",tea leaf large,salads_lettuce_leaf_vegetables,3301310000
-harilik ussikeel (100% ussikeelt),Viper's bugloss (100%),flowers_ornamental_plants,3301080000
-aeduba,kidney bean,beans,3301020100
-"vürtsköömen, harilik",Common cumin,black_cumin,3301061208
-lillkapsas,Cauliflower,cauliflower,3301210204
-spargel,asparagus,asparagus,3301200000
-paju,willow,willows_osiers,3306080000
-muu teravili liblikõieliste allakülviga,Other cereals with legumes,other_cereals,3301019900
-aedpetersell,garden parsley,parsly,3301061227
-"harilik nõiahammas (nõiahammast 50-80%, teisi heintaimi 20-50%)",common witch tooth (50-80% of witch tooth 20-50% other grasses),pasture_meadow_grassland_grass,3302000000
-karusmari,gooseberry,gooseberry_gooseberries_cranberries,3303020700
-kuumaasikad avamaal või madala katte all,strawberries in the open or under low cover,strawberries,3301130000
-põld-hiirehernes (talivikk),Field pea (winter),peas,3301020600
-spargelkapsas (brokkoli),Broccoli,broccoli,3301210202
-porrulauk,Leek,leek,3301220300
-rukkilill,Cornflower,cornflowers,3301081000
-poolsuhkrupeet,Semi-sugar beet,sugar_beet,3301290700
-õlirõigas,Oil radish,radish,3301290600
-"kassinaeris, mets-",Common mallow,sida_virginia_mallow,3304030000
-teraviljade segu liblikõieliste allakülviga,Mixed grains undersown with legumes,unspecified_cereals,3301011500
-kurdlehine kibuvits,Kurdish rose,roses,3301083700
-valkjas mesiohakas (100% mesiohakat),White beech (100% beech),tree_wood_forest,3306000000
-"põldhernes ""Mehis"" tugikultuuriga (kuni 70% põldhernes ""Mehis"")","field pea ""Mehis"" ""support for culture (up to 70% field pea"" ""Mehis"" "")""",peas,3301020600
-harilik nõiahammas (100% nõiahammast),Birdsfoot trefoil (100%),not_known_and_other,3399000000
-"tondipea, moldaavia",Moldavian dragonhead,moldavian_dragonhead,3301061223
-"talitritikale allakülviga, v.a liblikõieliste allakülviga",with the exception of leguminous crops,other_arable_land_crops,3301990000
-muu kapsas,Other cabbage,brassica_oleracea_cabbage,3301210200
-"teraviljade segu allakülviga, v.a liblikõieliste allakülviga",Winter wheat undersown (excl. legumes),winter_common_soft_wheat,3301010101
-"kollane mesikas (mesikat 50-80%, teisi heintaimi 20-50%)",yellow honeysuckle (honeysuckle 50-80% other grasses 20-50%),honeysuckle,3303080500
-nuikapsas (koolrabi),kale,kale,3301210208
-lehtkapsas,kale,kale,3301210208
-"münt, ümaraleheline",mint round leaf,mints_peppermint,3301061222
-harilik kanep,cannabis,hemp_cannabis,3301061000
-"liivsinep, võõr-",mustard foreign,mustard,3301210100
-aed-apteegitill,garden fennel,fennel,3301170000
-"taliraps allakülviga, v.a liblikõieliste allakülviga",winter oilseed rape with the exception of legumes,winter_rapeseed_rape,3301060401
-"Sangaste rukis allakülviga, v.a liblikõielise allakülviga",Rye of Sangaste with sowing except for sowing of legumes,rye,3301010300
-"muu teravili allakülviga, v.a liblikõieliste allakülviga",other cereals sown with the exception of legumes,other_cereals,3301019900
-harilik pihlakas,Rowan,rowan_rowanberries,3303021300
-"kanep, Uso - 31",cannabis Uso - 31,hemp_cannabis,3301061000
-haraline ploomipuu (alõtša),Plum tree,plums,3303011300
-"vaak, aed-",horizontal garden,kitchen_gardens,3301120000
-füüsal,physique,not_known_and_other,3399000000
-kikerhernes,chickpeas,chickpeas,3301020200
-humal,hops,hops,3301060200
-mustrõigas,patterned radish,radish,3301290600
-mesiputk,Sweet Cicely,leaf_celery,3301250200
-juurseller,celery root,celery,3301250000
-"lavendel, tähk-",lavender star,lavender_lavandula,3301061219
-"valge sinep allakülviga, v.a liblikõieliste allakülviga",white mustard with the exception of leguminous crops,mustard,3301210100
-"kollane mesikas (vähemalt 80% mesikat, kuni 20% heintaimi)",yellow honeysuckle (at least 80% honeysuckle up to 20% grasses),honeysuckle,3303080500
-naeris,turnip,turnips,3301290800
-paprika,paprika,bell_pepper_paprika,3301300100
-"talirüps allakülviga, v.a liblikõieliste allakülviga",winter rape with sowing other than leguminous sowing,winter_rapeseed_rape,3301060401
-"naistenõges, harilik",catnip,catnip,3301061212
-melon,melon,melon,3301140300
-jääsalat,iceberg lettuce,iceberg,3301310400
-mädarõigas,horseradish,horseradish,3301210400
-"kanep, Tiborszallasi",cannabis Tiborszallasi,hemp_cannabis,3301061000
-arbuus,watermelon,watermelon,3301140500
-suhkrumais,sweet corn,grain_maize_corn_popcorn,3301010600
-"pune, harilik",oregano,oregano,3301061226
-"raudrohi, harilik",yarrow,yarrow,3301061239
-"aniis, harilik",aniseed common,anise_aniseed,3301061205
-tšillipipar,dill,anethum_dill,3301061203
-sidrunmeliss,lemon balm,lemon_balm_melissa,3301061220
-"sigur, harilik",chicory,chicory_chicories,3301310200
-humallutsern (100% lutserni),hop alfalfa (100% alfalfa),alfalfa_lucerne,3301090301
-"naistepuna, liht-",Perforate St Johns-wort,st_johns_wort,3301061234
-"suviraps allakülviga, v.a liblikõieliste allakülviga",summer oilseed rape with the exception of leguminous crops,summer_rapeseed_rape,3301060403
-lääts,lentil,lentils,3301020500
-minimais,Baby corn,grain_maize_corn_popcorn,3301010600
-muu kaunvili,other pulses,legumes_dried_pulses_protein_crops,3301020000
-lehtsalat,lettuce,salads_lettuce_leaf_vegetables,3301310000
-"kuningakepp, kaheaastane",Common evening-primrose,primrose,3301083500
-redis,radish,radish,3301290600
-harilik sarapuu,common hazel,hazelnuts_hazel,3303030200
-"põldhernes ""Mehis"" tugikultuuriga (vähemalt 70% põldhernes ""Mehis"")","Field pea ""Mehis"" (at least 70%) with support crop",peas,3301020600
-"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common asparagus (asparagus 50-80% other grasses 20-50%),asparagus,3301200000
-"kikkaputk, harilik",Garden angelica,angelica,3301061204
-valge sõstar,White currant,currants,3303020600
-varsseller,celery,celery,3301250000
+original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
+rohttaimed,grasses,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+talinisu allakülvita,Winter wheat,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+liblikõieliste ja kõrreliste segu (30-80% liblikõielisi),mixture of legumes and grasses (30-80% legumes),legumes_harvested_green,3301090300,legumes_harvested_green,3301090300
+suvioder allakülvita,sprint barley,spring_barley,3301010402,spring_barley,3301010402
+kõrreliste rohumaa (vähemalt 80% kõrrelisi),grassland (at least 80% grasses),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+taliraps allakülvita,Winter oilseed rape,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+suvinisu allakülvita,spring wheat,spring_common_soft_wheat,3301010102,spring_common_soft_wheat,3301010102
+kaer allakülvita,oats sown,oats,3301010500,oats,3301010500
+"põldhernes, v.a ""Mehis"" (100% põldhernest)",Field pea (100%),peas,3301020600,peas,3301020600
+punane ristik (100% ristikut),red clover (100% clover),clover,3301090303,clover,3301090303
+"kartul v.a ""Ando""","Potato (excl. ""Ando"")",potatoes,3301030000,potatoes,3301030000
+muu heintaimede segu,Other mix of grasses,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+kaer liblikõieliste allakülviga,Oats undersown with legumes,oats,3301010500,oats,3301010500
+talioder allakülvita,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+"põlduba, v.a ""Jõgeva""","Broad bean (excl. """"Jgeva"""") ",beans,3301020100,beans,3301020100
+köögivili väikestel pindadel,Fresh vegetables grown in small area (open field),fresh_vegetables,3301070000,fresh_vegetables,3301070000
+"punane ristik (ristikut 50-80%, teisi heintaimi 20-50%)",red clover (clover 50-80% other grasses 20-50%),clover,3301090303,clover,3301090303
+Karjatamine väljaspool põllumaj. maad,Rough grazings,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+mustkesa,Fallow land (bare land),fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+suviraps allakülvita,Spring oilseed rape,spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
+"rukis, v.a sangaste rukis, allakülvita",Rye,rye,3301010300,rye,3301010300
+"punane ristik (vähemalt 80% ristikut, kuni 20% heintaimi)",Red clover (at least 80% clover up to 20% grasses),clover,3301090303,clover,3301090303
+tatar allakülvita,buckwheat,buckwheat,3301150200,buckwheat,3301150200
+suvioder liblikõieliste allakülviga,Spring barley undersown with legumes,spring_barley,3301010402,spring_barley,3301010402
+aedmaasikad avamaal või madala katte all,Strawberries (open field or under low cover),strawberries,3301130000,strawberries,3301130000
+talirüps allakülvita,Winter turnip rape,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+mais,Grain maize,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+viljapuu- ja marjaaiad väikestel pindadel,Fruits and berries in small area,orchards_fruits,3303010000,orchards_fruits,3303010000
+sööti jäetud maa,Fallow land,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+"harilik lutsern (lutserni 50-80%, teisi heintaimi 20-50%)",alfalfa (alfalfa 50-80% other grasses 20-50%),alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+suvinisu liblikõieliste allakülviga,Spring wheat undersown with legumes,spring_common_soft_wheat,3301010102,spring_common_soft_wheat,3301010102
+talitritikale allakülvita,Winter triticale,winter_triticale,3301010801,winter_triticale,3301010801
+"kanep, Finola",Hemp Finola,finola,3301061001,finola,3301061001
+liblikõieliste ja muude põllumajanduskultuuride segu (30-80% liblikõielisi),Mix of legumes and other crops (30-80% legumes),legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+harilik lutsern (100% lutserni),Lucerne (100%),alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+õunapuu,apple tree,apples,3303010200,apples,3303010200
+valge mesikas (100% mesikat),White melilot (100%),melilot,3301090304,melilot,3301090304
+talinisu liblikõieliste allakülviga,Winter wheat undersown with legumes,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+astelpaju,Sea-buckthorn,hippophae_sea_buckthorns_seaberry,3303020800,hippophae_sea_buckthorns_seaberry,3303020800
+vaarikas,raspberry,raspberry_raspberries,3303021000,raspberry_raspberries,3303021000
+must sõstar,black currant,blackcurrant_cassis,3303020300,blackcurrant_cassis,3303020300
+"N siduv heint. ja kõrreliste segu (N siduvaid heintaimi üle 50%, kõrrelisi heintaimi alla 50%)",Mix of nitrogen-binding grasses and graminoids (over 50% nitrogen-binding grasses less than 50% graminoid grasses),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+valge ristik (100% ristikut),white clover (100% clover),clover,3301090303,clover,3301090303
+roosa ristik (100% ristikut),Alsike clover (100%),clover,3301090303,clover,3301090303
+"harilik lutsern (vähemalt 80% lutserni, kun 20% heintaimi)",Lucerne (at least 80% alfalfa 20% grasses),alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+"muud liblikõielised (vähemalt 80% liblikõielisi, kuni 20% heintaimi)",other legumes (at least 80% legumes up to 20% grasses),legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+suvitritikale allakülvita,Spring triticale,spring_triticale,3301010802,spring_triticale,3301010802
+tatar liblikõieliste allakülviga,Buckwheat undersown with legumes,buckwheat,3301150200,buckwheat,3301150200
+"rukis, v.a sangaste rukis, liblikõieliste allakülviga",Rye undersown with legumes,rye,3301010300,rye,3301010300
+"valge ristik (ristikut 50-80%, teisi heintaimi 20-50%)",White clover (50-80% clover 20-50% other grasses),clover,3301090303,clover,3301090303
+keerispea allakülvita,Fiddleneck,not_known_and_other,3399000000,not_known_and_other,3399000000
+"roosa ristik (ristikut 50-80%, teisi heintaimi 20-50%)",Alsike clover (clover 50-80% other grasses 20-50%),clover,3301090303,clover,3301090303
+"roosa ristik (vähemalt 80% ristikut, kuni 20% heintaimi)",Alsike clover (at least 80% clover up to 20% grasses),clover,3301090303,clover,3301090303
+"põldhernes, v.a ""Mehis"" tugikultuuriga (vähemalt 70% põldhernest)",Field pea (at least 70%) with support crop,peas,3301020600,peas,3301020600
+segavili/segatis,Cereal mixture,unspecified_cereals,3301011500,unspecified_cereals,3301011500
+aedhernes,Green peas,peas,3301020600,peas,3301020600
+"kaer allakülviga, v.a liblikõieliste allakülviga",Oats undersown (excl. legumes),oats,3301010500,oats,3301010500
+segavili/segatis N siduvate kaunviljadega (N siduvaid kaunvilju segus üle 50%),Cereal mixture with nitrogen-binding pulses (pulses over 50%),legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+mustikas,blueberry,blueberry,3303020400,blueberry,3303020400
+"põldhernes ""Mehis"" (100% põldhernest ""Mehis"")","field pea ""Mehis"" (100% field pea ""Mehis"")",peas,3301020600,peas,3301020600
+küüslauk,garlic,garlic,3301220200,garlic,3301220200
+talirüps liblikõieliste allakülviga,Winter oilseed rape,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+"kapsasrohi, sarepta",Brown mustard,mustard,3301210100,mustard,3301210100
+porgand,carrots,carrots_daucus,3301290300,carrots_daucus,3301290300
+Sangaste rukis allakülvita,Sangaste rye,rye,3301010300,rye,3301010300
+"valge ristik (vähemalt 80% ristikut, kuni 20% heintaimi)",white clover (at least 80% clover up to 20% grasses),clover,3301090303,clover,3301090303
+"kapsasrohi, must",Black mustard,mustard,3301210100,mustard,3301210100
+valge peakapsas,white head cabbage,white_cabbage,3301210212,white_cabbage,3301210212
+aedkoriander,garden coriander,coriander,3301061215,coriander,3301061215
+"valge mesikas (mesikat 50-80%, teisi heintaimi 20-50%)",white melilot (honeysuckle 50-80% other grasses 20-50%),melilot,3301090304,melilot,3301090304
+"suvioder allakülviga, v.a liblikõieliste allakülviga",Spring barley undersown (excl. legumes),spring_barley,3301010402,spring_barley,3301010402
+puukoolid,nurseries,nurseries_nursery,3303070000,nurseries_nursery,3303070000
+muu köögivili,other vegetables,fresh_vegetables,3301070000,fresh_vegetables,3301070000
+punapeet (söögipeet),beetroot (beetroot),beetroot_beets,3301290200,beetroot_beets,3301290200
+varajane kartul,early potatoes,potatoes,3301030000,potatoes,3301030000
+harilik sibul (söögisibul),onion (onion),onions,3301220400,onions,3301220400
+"N siduv heint. segu (N siduvaid heintaimi üle 50%, teisi liblikõielisi heintaimi alla 50%)",Mix of nitrogen-binding grasses (over 50% nitrogen-binding grasses less than 50% other leguminous grasses),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+keerispea liblikõieliste allakülviga,Fiddleneck undersown with legumes,not_known_and_other,3399000000,not_known_and_other,3399000000
+suvirüps allakülvita,Spring turnip rape,spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
+kurk,cucumber,cucumber_pickle,3301140100,cucumber_pickle,3301140100
+"kartul ""Ando""","potato ""Ando""",potatoes,3301030000,potatoes,3301030000
+kõrvits,pumpkin,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+ravim- ja maitsetaimed väikestel pindadel,Medicinal and culinary plants grown in small area,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+üheaastane raihein jm üheaastased heintaimed,Annual ryegrass and other annual grasses,lolium_ryegrass,3301090205,lolium_ryegrass,3301090205
+ravim- ja maitsetaimede segu muude põllumajanduskultuuridega,Medicinal and culinary plants mixed with other crops,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+suviraps liblikõielise allakülviga,Summer rape with leguminous sowing,summer_rapeseed_rape,3301060403,summer_rapeseed_rape,3301060403
+"suvinisu allakülviga, v.a liblikõieliste allakülviga",Spring wheat undersown (excl. legumes),spring_common_soft_wheat,3301010102,spring_common_soft_wheat,3301010102
+köömen,cumin,black_cumin,3301061208,black_cumin,3301061208
+"maarjaohakas, harilik",Milk thistle,marian_thistles,3301061300,marian_thistles,3301061300
+viinapuu,grapes,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+söödakapsas,fodder cabbage,brassica_oleracea_cabbage,3301210200,brassica_oleracea_cabbage,3301210200
+punane sõstar,redcurrant,redcurrant,3303021100,redcurrant,3303021100
+aroonia,chokeberry,aronia_chokeberries,3303020100,aronia_chokeberries,3303020100
+ida-kitsehernes (100% ida-kitsehernest),Eastern goat pea (100% eastern goat pea),peas,3301020600,peas,3301020600
+speltanisu allakülvita,Spelt,spelt,3301011000,spelt,3301011000
+orashein,ryegrass,lolium_ryegrass,3301090205,lolium_ryegrass,3301090205
+talioder liblikõieliste allakülviga,winter barley with leguminous sowing,winter_barley,3301010401,winter_barley,3301010401
+"valge mesikas (vähemalt 80% mesikat, kuni 20% heintaimi)",white melilot (at least 80% melilot up to 20% grasses),melilot,3301090304,melilot,3301090304
+valge sinep allakülvita,white mustard without sowing,mustard,3301210100,mustard,3301210100
+õlilina,Linseed (oil flax),flax_linseed_oil,3301060702,flax_linseed_oil,3301060702
+"valge ristik ""Jõgeva 4"" (100% ristikut)",white clover (100% clover),clover,3301090303,clover,3301090303
+"N siduv heint. ja N siduv põllumaj. kult. segu (N siduvaid kult. üle 50%, segus valdavalt heint.)",Mix of nitrogen-binding grasses and nitrogen-binding crops(over 50% nitrogen-binding crops mix contains mainly grasses),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+rabarber,rhubarb,rhubarb,3301230000,rhubarb,3301230000
+suvirüps liblikõieliste allakülviga,Spring turnip rape undersown with legumes,turnips,3301290800,turnips,3301290800
+pirnipuu,pear tree,pears,3303011200,pears,3303011200
+maapirn,Jerusalem artichoke,topinambur_jerusalem_artichoke,3301180000,topinambur_jerusalem_artichoke,3301180000
+kaalikas,Rutabaga,swede_rutabaga,3301210500,swede_rutabaga,3301210500
+"talinisu allakülviga, v.a liblikõieliste allakülviga",Winter wheat undersown (excl. legumes),winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+"tatar allakülviga, v.a liblikõieliste allakülviga",Buckwheat undersown (excl. legumes),buckwheat,3301150200,buckwheat,3301150200
+muu rühvelkultuur,Other cultures,other_industrial_crops,3301069900,other_industrial_crops,3301069900
+"ida-kitsehernes (vähemalt 80% ida-kitsehernest, kuni 20% heintaimi)",Fodder galega (at least 80% galega up to 20% grasses),galega,3301081900,galega,3301081900
+"N siduv heint. ja muu põllumaj. kult. segu (N siduvaid heint. üle 50%, muid kultuure alla 50%)",Mix of nitrogen-binding grasses and other crops (over 50% nitrogen-binding grasses less than 50% other crops).,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+teraviljade segu allakülvita,mixed grains,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+muu ravim- ja maitsetaim,Other medicinal and culinary plant,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+speltanisu liblikõieliste allakülviga,Spelt with legumes,spelt,3301011000,spelt,3301011000
+ploomipuu,European plum,plums,3303011300,plums,3303011300
+Sangaste rukis liblikõieliste allakülviga,"Rye """"Sangaste"""" undersown with legumes",rye,3301010300,rye,3301010300
+muud viljapuud,other fruits,orchards_fruits,3303010000,orchards_fruits,3303010000
+taliraps liblikõieliste allakülviga,winter oilseed rape with legumes,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+"valge ristik ""Jõgeva 4"" segus muude põllumaj. kultuuridega (ristik üle 50%, muid kultuure alla 50%)","white clover ""Jõgeva 4"" ""in a mixture with other agricultural crops (clover less than 50% other crops)""",clover,3301090303,clover,3301090303
+aedtill,Dill,anethum_dill,3301061203,anethum_dill,3301061203
+jõhvikas,Cranberry,cranberry,3303020500,cranberry,3303020500
+muud marjapõõsad,Other berries,berries_berry_species,3303020000,berries_berry_species,3303020000
+päevalill,Sunflower,sunflower,3301060500,sunflower,3301060500
+sorgo,sorghum,millet_sorghum,3301010900,millet_sorghum,3301010900
+suvitritikale liblikõieliste allakülviga,Summer trout with sown legumes,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+"põlduba ""Jõgeva""","field bean ""Jõgeva"" """"",beans,3301020100,beans,3301020100
+muu teravili allakülvita,Other cereals,other_cereals,3301019900,other_cereals,3301019900
+söödapeet,fodder beet,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
+ebaküdoonia,Japanese quince,quinces,3303011500,quinces,3303011500
+lilled ja ehistaimed (dekoratiivtaimed) avamaal või madala katte all,flowers and ornamental plants (ornamental plants) in the open or under low cover,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+tuder,Tuber,other_permanent_crops_plantations,3303990000,other_permanent_crops_plantations,3303990000
+"võilill, harilik",Dandelion common,dandelions,3301081400,dandelions,3301081400
+"saialill, harilik",English marigold,calendula_marigold,3301061210,calendula_marigold,3301061210
+"rukis, v.a sangaste rukis, allakülviga, v.a liblikõieliste allakülviga",Rye undersown (excl. legumes),rye,3301010300,rye,3301010300
+pastinaak,parsnips,parsnips,3301290500,parsnips,3301290500
+söödav kuslapuu,honeysuckle,honeysuckle,3303080500,honeysuckle,3303080500
+suvivikk,Common vetch,vetches,3301090305,vetches,3301090305
+keerispea allakülviga v.a liblikõieliste allakülviga,Fiddleneck undersown (excl. legumes),fiddleneck_amsinckia,3301081700,fiddleneck_amsinckia,3301081700
+tomat,Tomato,tomato,3301280000,tomato,3301280000
+N siduvate kaunviljade segu (N siduvaid kaunvilju segus üle 50%),Mix of nitrogen-binding pulses (pulses over 50%),legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+"speltanisu allakülviga, v.a liblikõieliste allakülviga",Spelt with the exception of legumes,spelt,3301011000,spelt,3301011000
+kollane mesikas (100% mesikat),yellow honeysuckle (100% honeysuckle),honeysuckle,3303080500,honeysuckle,3303080500
+muu tehniline kultuur,other technical culture,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
+magus kirsipuu,sweet cherry tree,cherry_cherries,3303010400,cherry_cherries,3303010400
+kabatšokk,Squash,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+"kurgirohi, harilik",Borage,borage,3301061209,borage,3301061209
+"valge ristik ""Jõgeva 4"" segus aasnurmikaga (mõlemat 50%)","White clover ""Jgeva 4"" mixed with Kentucky bluegrass (both 50%)",clover,3301090303,clover,3301090303
+teekummel,chamomile,chamomile,3301061213,chamomile,3301061213
+talitritikale liblikõieliste allakülviga,Winter triticale undersown with legumes,winter_triticale,3301010801,winter_triticale,3301010801
+hapu kirsipuu sh murelipuu,Sour cherry incl. morello cherry,cherry_cherries,3303010400,cherry_cherries,3303010400
+valge sinep liblikõieliste allakülviga,White mustard with sown legumes,mustard,3301210100,mustard,3301210100
+"kanep, Henola",Cannabis Heinola,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+kaunviljade segu,Mixture of legumes,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+harilik esparsett (100% esparsetti),Common sainfoin (100%),onobrychis_sainfoins,3301061600,onobrychis_sainfoins,3301061600
+piparmünt,peppermint,mints_peppermint,3301061222,mints_peppermint,3301061222
+"teeleht, suur",tea leaf large,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+harilik ussikeel (100% ussikeelt),Viper's bugloss (100%),flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+aeduba,kidney bean,beans,3301020100,beans,3301020100
+"vürtsköömen, harilik",Common cumin,black_cumin,3301061208,black_cumin,3301061208
+lillkapsas,Cauliflower,cauliflower,3301210204,cauliflower,3301210204
+spargel,asparagus,asparagus,3301200000,aspargus,3301200000
+paju,willow,willows_osiers,3306080000,willows_osiers,3306080000
+muu teravili liblikõieliste allakülviga,Other cereals with legumes,other_cereals,3301019900,other_cereals,3301019900
+aedpetersell,garden parsley,parsly,3301061227,parsly,3301061227
+"harilik nõiahammas (nõiahammast 50-80%, teisi heintaimi 20-50%)",common witch tooth (50-80% of witch tooth 20-50% other grasses),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+karusmari,gooseberry,gooseberry_gooseberries_cranberries,3303020700,gooseberry_gooseberries_cranberries,3303020700
+kuumaasikad avamaal või madala katte all,strawberries in the open or under low cover,strawberries,3301130000,strawberries,3301130000
+põld-hiirehernes (talivikk),Field pea (winter),peas,3301020600,peas,3301020600
+spargelkapsas (brokkoli),Broccoli,broccoli,3301210202,broccoli,3301210202
+porrulauk,Leek,leek,3301220300,leek,3301220300
+rukkilill,Cornflower,cornflowers,3301081000,cornflowers,3301081000
+poolsuhkrupeet,Semi-sugar beet,sugar_beet,3301290700,sugar_beet,3301290700
+õlirõigas,Oil radish,radish,3301290600,radish,3301290600
+"kassinaeris, mets-",Common mallow,sida_virginia_mallow,3304030000,sida_virginia_mallow,3304030000
+teraviljade segu liblikõieliste allakülviga,Mixed grains undersown with legumes,unspecified_cereals,3301011500,unspecified_cereals,3301011500
+kurdlehine kibuvits,Kurdish rose,roses,3301083700,roses,3301083700
+valkjas mesiohakas (100% mesiohakat),White beech (100% beech),tree_wood_forest,3306000000,tree_wood_forest,3306000000
+"põldhernes ""Mehis"" tugikultuuriga (kuni 70% põldhernes ""Mehis"")","field pea ""Mehis"" ""support for culture (up to 70% field pea"" ""Mehis"" "")""",peas,3301020600,peas,3301020600
+harilik nõiahammas (100% nõiahammast),Birdsfoot trefoil (100%),not_known_and_other,3399000000,not_known_and_other,3399000000
+"tondipea, moldaavia",Moldavian dragonhead,moldavian_dragonhead,3301061223,moldavian_dragonhead,3301061223
+"talitritikale allakülviga, v.a liblikõieliste allakülviga",with the exception of leguminous crops,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
+muu kapsas,Other cabbage,brassica_oleracea_cabbage,3301210200,brassica_oleracea_cabbage,3301210200
+"teraviljade segu allakülviga, v.a liblikõieliste allakülviga",Winter wheat undersown (excl. legumes),winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+"kollane mesikas (mesikat 50-80%, teisi heintaimi 20-50%)",yellow honeysuckle (honeysuckle 50-80% other grasses 20-50%),honeysuckle,3303080500,honeysuckle,3303080500
+nuikapsas (koolrabi),kale,kale,3301210208,kale,3301210208
+lehtkapsas,kale,kale,3301210208,kale,3301210208
+"münt, ümaraleheline",mint round leaf,mints_peppermint,3301061222,mints_peppermint,3301061222
+harilik kanep,cannabis,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+"liivsinep, võõr-",mustard foreign,mustard,3301210100,mustard,3301210100
+aed-apteegitill,garden fennel,fennel,3301170000,fennel,3301170000
+"taliraps allakülviga, v.a liblikõieliste allakülviga",winter oilseed rape with the exception of legumes,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+"Sangaste rukis allakülviga, v.a liblikõielise allakülviga",Rye of Sangaste with sowing except for sowing of legumes,rye,3301010300,rye,3301010300
+"muu teravili allakülviga, v.a liblikõieliste allakülviga",other cereals sown with the exception of legumes,other_cereals,3301019900,other_cereals,3301019900
+harilik pihlakas,Rowan,rowan_rowanberries,3303021300,rowan_rowanberries,3303021300
+"kanep, Uso - 31",cannabis Uso - 31,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+haraline ploomipuu (alõtša),Plum tree,plums,3303011300,plums,3303011300
+"vaak, aed-",horizontal garden,kitchen_gardens,3301120000,kitchen_gardens,3301120000
+füüsal,physique,not_known_and_other,3399000000,not_known_and_other,3399000000
+kikerhernes,chickpeas,chickpeas,3301020200,chickpeas,3301020200
+humal,hops,hops,3301060200,hops,3301060200
+mustrõigas,patterned radish,radish,3301290600,radish,3301290600
+mesiputk,Sweet Cicely,leaf_celery,3301250200,leaf_celery,3301250200
+juurseller,celery root,celery,3301250000,celery,3301250000
+"lavendel, tähk-",lavender star,lavender_lavandula,3301061219,lavender_lavandula,3301061219
+"valge sinep allakülviga, v.a liblikõieliste allakülviga",white mustard with the exception of leguminous crops,mustard,3301210100,mustard,3301210100
+"kollane mesikas (vähemalt 80% mesikat, kuni 20% heintaimi)",yellow honeysuckle (at least 80% honeysuckle up to 20% grasses),honeysuckle,3303080500,honeysuckle,3303080500
+naeris,turnip,turnips,3301290800,turnips,3301290800
+paprika,paprika,bell_pepper_paprika,3301300100,bell_pepper_paprika,3301300100
+"talirüps allakülviga, v.a liblikõieliste allakülviga",winter rape with sowing other than leguminous sowing,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+"naistenõges, harilik",catnip,catnip,3301061212,catnip,3301061212
+melon,melon,melon,3301140300,melon,3301140300
+jääsalat,iceberg lettuce,iceberg,3301310400,iceberg,3301310400
+mädarõigas,horseradish,horseradish,3301210400,horseradish,3301210400
+"kanep, Tiborszallasi",cannabis Tiborszallasi,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+arbuus,watermelon,watermelon,3301140500,watermelon,3301140500
+suhkrumais,sweet corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+"pune, harilik",oregano,oregano,3301061226,oregano,3301061226
+"raudrohi, harilik",yarrow,yarrow,3301061239,yarrow,3301061239
+"aniis, harilik",aniseed common,anise_aniseed,3301061205,anise_aniseed,3301061205
+tšillipipar,dill,anethum_dill,3301061203,anethum_dill,3301061203
+sidrunmeliss,lemon balm,lemon_balm_melissa,3301061220,lemon_balm_melissa,3301061220
+"sigur, harilik",chicory,chicory_chicories,3301310200,chicory_chicories,3301310200
+humallutsern (100% lutserni),hop alfalfa (100% alfalfa),alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+"naistepuna, liht-",Perforate St Johns-wort,st_johns_wort,3301061234,st_johns_wort,3301061234
+"suviraps allakülviga, v.a liblikõieliste allakülviga",summer oilseed rape with the exception of leguminous crops,summer_rapeseed_rape,3301060403,summer_rapeseed_rape,3301060403
+lääts,lentil,lentils,3301020500,lentils,3301020500
+minimais,Baby corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+muu kaunvili,other pulses,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+lehtsalat,lettuce,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+"kuningakepp, kaheaastane",Common evening-primrose,primrose,3301083500,primrose,3301083500
+redis,radish,radish,3301290600,radish,3301290600
+harilik sarapuu,common hazel,hazelnuts_hazel,3303030200,hazelnuts_hazel,3303030200
+"põldhernes ""Mehis"" tugikultuuriga (vähemalt 70% põldhernes ""Mehis"")","Field pea ""Mehis"" (at least 70%) with support crop",peas,3301020600,peas,3301020600
+"harilik esparsett (esparsetti 50-80%, teisi heintaimi 20-50%)",common asparagus (asparagus 50-80% other grasses 20-50%),asparagus,3301200000,aspargus,3301200000
+"kikkaputk, harilik",Garden angelica,angelica,3301061204,angelica,3301061204
+valge sõstar,White currant,currants,3303020600,currants,3303020600
+varsseller,celery,celery,3301250000,celery,3301250000

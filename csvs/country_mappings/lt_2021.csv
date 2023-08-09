@@ -1,25 +1,25 @@
-original_name,translated_name,HCAT3_name,HCAT3_code
-Ganyklos-pievos virð 5m.,Pastures-meadows over 5m.,pasture_meadow_grassland_grass,3302000000
-Þieminiai javai,Winter cereals,winter_unspecified_cereals,3301011501
-Ganyklos-pievos iki 5m.,Pastures-meadows up to 5m.,pasture_meadow_grassland_grass,3302000000
-Vasariniai javai,Summer cereals,summer_unspecified_cereals,3301011503
-Kita ariama þemë,Other arable land,other_arable_land_crops,3301990000
-Rapsai,Rape,rapeseed_rape,3301060400
-Darþovës,Vegetables,fresh_vegetables,3301070000
-Aviþos,Oats,oats,3301010500
-Pûdymas,Fallow,fallow_land_not_crop,3301110000
-Ankðtiniai javai,Early cereals,spring_unspecified_cereals,3301011502
-Daugiametës þolës,Perennial grasses,pasture_meadow_grassland_grass,3302000000
-Grikiai,Buckwheat,buckwheat,3301150200
-Sodai,Gardens,kitchen_gardens,3301120000
-Miðkai,Woods,tree_wood_forest,3306000000
-Kukurûzai,Corn,grain_maize_corn_popcorn,3301010600
-Uogynai,Berries,berries_berry_species,3303020000
-Ðlapynës,Spinach,spinach,3301310800
-Kiti sodiniai,Other plantations,other_permanent_crops_plantations,3303990000
-Grioviai,Ditches,not_known_and_other,3399000000
-Cukriniai runkeliai,Sugar beet,sugar_beet,3301290700
-Aromatinai augalai,Aromatic plants,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-Pluoðtinës kanapës,Fiber hemp,hemp_cannabis,3301061000
-Grybai,Mushrooms,mushrooms_energy_genetically_modified_crops,3304000000
-Linai,Linen,flax_linen,3301060701
+original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
+Ganyklos-pievos virð 5m.,Pastures-meadows over 5m.,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Þieminiai javai,Winter cereals,winter_unspecified_cereals,3301011501,winter_unspecified_cereals,3301011501
+Ganyklos-pievos iki 5m.,Pastures-meadows up to 5m.,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Vasariniai javai,Summer cereals,summer_unspecified_cereals,3301011503,summer_unspecified_cereals,3301011503
+Kita ariama þemë,Other arable land,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
+Rapsai,Rape,rapeseed_rape,3301060400,rapeseed_rape,3301060400
+Darþovës,Vegetables,fresh_vegetables,3301070000,fresh_vegetables,3301070000
+Aviþos,Oats,oats,3301010500,oats,3301010500
+Pûdymas,Fallow,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+Ankðtiniai javai,Early cereals,spring_unspecified_cereals,3301011502,spring_unspecified_cereals,3301011502
+Daugiametës þolës,Perennial grasses,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Grikiai,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
+Sodai,Gardens,kitchen_gardens,3301120000,kitchen_gardens,3301120000
+Miðkai,Woods,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Kukurûzai,Corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+Uogynai,Berries,berries_berry_species,3303020000,berries_berry_species,3303020000
+Ðlapynës,Spinach,spinach,3301310800,spinach,3301310800
+Kiti sodiniai,Other plantations,other_permanent_crops_plantations,3303990000,other_permanent_crops_plantations,3303990000
+Grioviai,Ditches,not_known_and_other,3399000000,not_known_and_other,3399000000
+Cukriniai runkeliai,Sugar beet,sugar_beet,3301290700,sugar_beet,3301290700
+Aromatinai augalai,Aromatic plants,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+Pluoðtinës kanapës,Fiber hemp,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+Grybai,Mushrooms,mushrooms_energy_genetically_modified_crops,3304000000,mushrooms_energy_genetically_modified_crops,3304000000
+Linai,Linen,flax_linen,3301060701,flax_linen,3301060701

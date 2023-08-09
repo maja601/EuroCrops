@@ -1,16 +1,16 @@
-original_code,original_name,translated_name,HCAT3_name,HCAT3_code
-200,Staklenici na oranici,Arable land,arable_crops,3301000000
-210,Staklenici na oranici,Greenhouses on arable land,greenhouse_foil_film,3305000000
-310,Livada,Meadow,pasture_meadow_grassland_grass,3302000000
-320,Pašnjak,Pasture,pasture_meadow_grassland_grass,3302000000
-321,Krški pašnjak,Karstic pasture,pasture_meadow_grassland_grass,3302000000
-410,Vinograd,Vineyard,vineyards_wine_vine_rebland_grapes,3303060000
-411,Iskrčeni vinograd,Grubbed-up vineyard,vineyards_wine_vine_rebland_grapes,3303060000
-421,Maslinik,Olive grove,olive_plantations,3303050000
-422,Voćnjak,Orchard,orchards_fruits,3303010000
-430,Kulture kratke ophodnje,Short rotation coppice,tree_wood_forest,3306000000
-450,Rasadnik,Nursery,nurseries_nursery,3303070000
-451,Matičnjak loznih podloga i plemki,Mother block of vines,vineyards_wine_vine_rebland_grapes,3303060000
-490,Mješoviti višegodišnji nasadi,Mixed perennial crops,permanent_crops_perennial,3303000000
-900,Ostale vrste uporabe zemljišta,Other agricultural land,not_known_and_other,3399000000
-910,Privremeno neodržavana parcela,Temporary non-cultivated land,unmaintained,3308000000
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
+200,Staklenici na oranici,Arable land,arable_crops,3301000000,arable_crops,3301000000
+210,Staklenici na oranici,Greenhouses on arable land,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+310,Livada,Meadow,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+320,Pašnjak,Pasture,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+321,Krški pašnjak,Karstic pasture,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+410,Vinograd,Vineyard,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+411,Iskrčeni vinograd,Grubbed-up vineyard,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+421,Maslinik,Olive grove,olive_plantations,3303050000,olive_plantations,3303050000
+422,Voćnjak,Orchard,orchards_fruits,3303010000,orchards_fruits,3303010000
+430,Kulture kratke ophodnje,Short rotation coppice,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+450,Rasadnik,Nursery,nurseries_nursery,3303070000,nurseries_nursery,3303070000
+451,Matičnjak loznih podloga i plemki,Mother block of vines,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+490,Mješoviti višegodišnji nasadi,Mixed perennial crops,permanent_crops_perennial,3303000000,permanent_crops_perennial,3303000000
+900,Ostale vrste uporabe zemljišta,Other agricultural land,not_known_and_other,3399000000,not_known_and_other,3399000000
+910,Privremeno neodržavana parcela,Temporary non-cultivated land,unmaintained,3308000000,unmaintained,3308000000

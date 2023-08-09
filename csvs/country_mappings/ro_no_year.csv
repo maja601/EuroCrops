@@ -1,31 +1,31 @@
-original_code,original_name,translated_name,HCAT3_name,HCAT3_code
-A,Terenuri arabile,Arable land,arable_crops,3301000000
-BSC,Terenuri neproductive stabile,Consolidated bare surface,not_known_and_other,3399000000
-N,Pajişti naturale,Natural grassland,pasture_meadow_grassland_grass,3302000000
-WV,Terenuri cu vegetație mlăştinoasă/îmbibate cu apă,Waterlogged vegetation,not_known_and_other,3399000000
-CHN,Canale,Channels,not_known_and_other,3399000000
-BDF,Păduri de foioase cu frunze căzătoare,Broadleaf deciduous forest,tree_wood_forest,3306000000
-WD,Terenuri împădurite,Woodland,tree_wood_forest,3306000000
-UBD,Ţesut urban discontinuu,Discontinuous urban fabric,not_known_and_other,3399000000
-SL,Tufărişuri,Scrubland,shrubberries_shrubs,3303080000
-UBS,Suprafețe artificiale construite,Artificial build up surface,not_known_and_other,3399000000
-ACT,Asociații de culturi agricole în amestec cu vegetația naturală,Association of crops and natural trees,tree_wood_forest,3306000000
-S,Terenuri cultivate cu arbuşti,Shrub crop,shrubberries_shrubs,3303080000
-WLF,Păduri mlăştinoase/îmbibate cu apă,Waterlogged forest,tree_wood_forest,3306000000
-R,Terenuri cultivate cu orez,Paddy rice field,rice,3301010700
-RVR,Râuri,Rivers,not_known_and_other,3399000000
-T,Plantații de arbori cultivați,Tree crop,tree_wood_forest,3306000000
-WL,Lacuri şi îndiguiri,Lakes and impoundements,not_known_and_other,3399000000
-AHT,Asociații de culturi agricole – plante ierboase şi lemnoase,Association of herbaceous and woody crops,tree_wood_forest,3306000000
-P,Plantații forestiere,Tree plantation,tree_wood_forest,3306000000
-UV,Arii urbane acoperite de vegetație,Urban vegetated areas,kitchen_gardens,3301120000
-WR,Rezervoare,Reservoirs,not_known_and_other,3399000000
-BCF,Păduri mixte,Mixed broadleaf and coniferous forest,tree_wood_forest,3306000000
-CAG,Terenuri agricole acoperite (sere),Covered agriculture land (greenhouse),greenhouse_foil_film,3305000000
-FUF,Ţesut urban fragmentat,Fragmentary urban fabric,not_known_and_other,3399000000
-BSN,Terenuri neproductive instabile,Unconsolidated bare surface,not_known_and_other,3399000000
-UBN,Rețele de suprafețe construite,Artificial build up network,not_known_and_other,3399000000
-UBC,Ţesut urban continuu,Continuous urban fabric,not_known_and_other,3399000000
-CF,Păduri de conifere,Coniferous forest,tree_wood_forest,3306000000
-G,Pajişti amenajate,Managed grassland,pasture_meadow_grassland_grass,3302000000
-UN,Suprafețe artificiale neconstruite,Artificial non-build up surface,not_known_and_other,3399000000
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
+A,Terenuri arabile,Arable land,arable_crops,3301000000,arable_crops,3301000000
+BSC,Terenuri neproductive stabile,Consolidated bare surface,not_known_and_other,3399000000,not_known_and_other,3399000000
+N,Pajişti naturale,Natural grassland,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+WV,Terenuri cu vegetație mlăştinoasă/îmbibate cu apă,Waterlogged vegetation,not_known_and_other,3399000000,not_known_and_other,3399000000
+CHN,Canale,Channels,not_known_and_other,3399000000,not_known_and_other,3399000000
+BDF,Păduri de foioase cu frunze căzătoare,Broadleaf deciduous forest,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+WD,Terenuri împădurite,Woodland,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+UBD,Ţesut urban discontinuu,Discontinuous urban fabric,not_known_and_other,3399000000,not_known_and_other,3399000000
+SL,Tufărişuri,Scrubland,shrubberries_shrubs,3303080000,shrubberries_shrubs,3303080000
+UBS,Suprafețe artificiale construite,Artificial build up surface,not_known_and_other,3399000000,not_known_and_other,3399000000
+ACT,Asociații de culturi agricole în amestec cu vegetația naturală,Association of crops and natural trees,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+S,Terenuri cultivate cu arbuşti,Shrub crop,shrubberries_shrubs,3303080000,shrubberries_shrubs,3303080000
+WLF,Păduri mlăştinoase/îmbibate cu apă,Waterlogged forest,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+R,Terenuri cultivate cu orez,Paddy rice field,rice,3301010700,rice,3301010700
+RVR,Râuri,Rivers,not_known_and_other,3399000000,not_known_and_other,3399000000
+T,Plantații de arbori cultivați,Tree crop,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+WL,Lacuri şi îndiguiri,Lakes and impoundements,not_known_and_other,3399000000,not_known_and_other,3399000000
+AHT,Asociații de culturi agricole – plante ierboase şi lemnoase,Association of herbaceous and woody crops,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+P,Plantații forestiere,Tree plantation,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+UV,Arii urbane acoperite de vegetație,Urban vegetated areas,kitchen_gardens,3301120000,kitchen_gardens,3301120000
+WR,Rezervoare,Reservoirs,not_known_and_other,3399000000,not_known_and_other,3399000000
+BCF,Păduri mixte,Mixed broadleaf and coniferous forest,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+CAG,Terenuri agricole acoperite (sere),Covered agriculture land (greenhouse),greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+FUF,Ţesut urban fragmentat,Fragmentary urban fabric,not_known_and_other,3399000000,not_known_and_other,3399000000
+BSN,Terenuri neproductive instabile,Unconsolidated bare surface,not_known_and_other,3399000000,not_known_and_other,3399000000
+UBN,Rețele de suprafețe construite,Artificial build up network,not_known_and_other,3399000000,not_known_and_other,3399000000
+UBC,Ţesut urban continuu,Continuous urban fabric,not_known_and_other,3399000000,not_known_and_other,3399000000
+CF,Păduri de conifere,Coniferous forest,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+G,Pajişti amenajate,Managed grassland,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+UN,Suprafețe artificiale neconstruite,Artificial non-build up surface,not_known_and_other,3399000000,not_known_and_other,3399000000

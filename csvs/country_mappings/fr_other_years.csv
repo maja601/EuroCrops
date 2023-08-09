@@ -1,42 +1,42 @@
-original_code,original_name,translated_name,HCAT3_name,HCAT3_code
-ACA,Autre culture non précisée dans la liste (admissible),Other,not_known_and_other,3399000000
-ACP,Autre culture pérenne,Other perennial,unspecified_permanent_crops,3303120000
-BDT,Blé dur de printemps semé tardivement (après le 31/05),Durum spring wheat late sown (after 31/05),spring_durum_hard_wheat,3301010202
-BUR,Bugle rampante,Ajuga reptans,other_plants_harvested_green,3301099900
-CGS,Autre cereale de genre Setaria,Other cereal of the genus Panicum,unspecified_season_unspecified_cereals,3301011599
-CNE,Autre,Other,not_known_and_other,3399000000
-CSE,Autre,Other,not_known_and_other,3399000000
-FF5,Feverole fourragere implantee pour la recolte 2015,Fodder faba bean implanted for the 2015 harvest,beans,3301020100
-FVT,Feverole semee tardivement (apres le 31/05),Faba bean sown after 31 May,beans,3301020100
-HPC,Horticulture ornementale de plein champ,Field ornamental horticulture,other_plants_harvested_green,3301099900
-HSA,Horticulture ornementale sous abris,Ornamental horticulture under cover,greenhouse_foil_film,3305000000
-JO5,Jarosse implantee pour la recolte 2015,Jarosse planted for the 2015 harvest,vetches,3301090305
-JOD,Jarosse déshydratée,Dryied Jarosse,vetches,3301090305
-JOS,Autre jarosse,Other jarosse,vetches,3301090305
-LDT,Lupin doux de printemps semé tardivement (après le 31/05),Sweet spring lupine sown after 31 May,sweet_lupins,3301020700
-LH5,Lupin fourrager d'hiver implante pour la recolte 2015,Winter forage lupine planted for the 2016 harvest,sweet_lupins,3301020700
-LP5,Lupin fourrager de printemps implante pour la recolte 2015,Spring forage lupine planted for the 2015 harvest,sweet_lupins,3301020700
-LSA,Légume sous abris,Vegetable under cover,greenhouse_foil_film,3305000000
-LU5,Luzerne implantee pour la recolte 2015,Alfalfa planted for the 2016 harvest,alfalfa_lucerne,3301090301
-MC5,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2015 et de cereales,Mixture of predominantly forage legumes planted for the 2015 harvest and cereals,other_dry_pulses,3301029900
-ME5,Melilot implante pour la recolte 2015,Melilot planted for the 2015 harvest,melilot,3301090304
-MH5,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2015 et d'herbacees ou de graminees fourrageres,Mixture of forage legumes predominant at seeding planted for the 2015 harvest and herbaceous or forage grasses,other_dry_pulses,3301029900
-MH6,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2016 et d'herbacees ou de graminees fourrageres,Mixture of forage legumes predominant at seeding planted for the 2016 harvest and herbaceous or forage grasses,other_dry_pulses,3301029900
-MH7,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900
-ML5,Melange de legumineuses fourrageres implantees pour la recolte 2015 (entre elles),Mixture of forage legumes implanted for the 2015 harvest (among themselves),other_dry_pulses,3301029900
-MLC,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900
-MLF,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900
-MLS,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900
-MPT,Mélange de protéagineux semés tardivement (après le 31/05),,other_dry_pulses,3301029900
-PH5,Pois fourrager d'hiver implante pour la recolte 2015,Winter fodder peas planted for the 2015 harvest,peas,3301020600
-PMD,Plante médicinale,,unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298
-PP5,Pois fourrager de printemps implanté pour la récolte 2015,Chickling vetchplanted for the 2015 harvest,peas,3301020600
-PPF,Plante a parfum (autre que geranium et vetiver),"Other annual perfume, aromatic and medicinal plant",unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298
-PPT,Pois de printemps seme tardivement (apres le 31/05),Spring peas sown after 31 May,peas,3301020600
-SA5,Sainfoin implante pour la recolte 2015,Sainfoin planted for the 2015 harvest,onobrychis_sainfoins,3301061600
-SE5,Serradelle implantee pour la recolte 2015,Serradella planted for the 2015 harvest,serradella,3301084200
-SER,Autre serradelle,Other Serradella,serradella,3301084200
-TR5,Trèfle implante pour la recolte 2015,Clover planted for the 2015 harvest,clover,3301090303
-VE5,Vesce implantee pour la recolte 2015,Vetch planted for the 2015 harvest,vetches,3301090305
-VER,Veronique,Veronique,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
-ZZZ,Culture inconnue,Other,not_known_and_other,3399000000
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
+ACA,Autre culture non précisée dans la liste (admissible),Other,not_known_and_other,3399000000,not_known_and_other,3399000000
+ACP,Autre culture pérenne,Other perennial,unspecified_permanent_crops,3303120000,unspecified_permanent_crops,3303120000
+BDT,Blé dur de printemps semé tardivement (après le 31/05),Durum spring wheat late sown (after 31/05),spring_durum_hard_wheat,3301010202,spring_durum_hard_wheat,3301010202
+BUR,Bugle rampante,Ajuga reptans,other_plants_harvested_green,3301099900,other_plants_harvested_green,3301099900
+CGS,Autre cereale de genre Setaria,Other cereal of the genus Panicum,unspecified_season_unspecified_cereals,3301011599,unspecified_season_unspecified_cereals,3301011599
+CNE,Autre,Other,not_known_and_other,3399000000,not_known_and_other,3399000000
+CSE,Autre,Other,not_known_and_other,3399000000,not_known_and_other,3399000000
+FF5,Feverole fourragere implantee pour la recolte 2015,Fodder faba bean implanted for the 2015 harvest,beans,3301020100,beans,3301020100
+FVT,Feverole semee tardivement (apres le 31/05),Faba bean sown after 31 May,beans,3301020100,beans,3301020100
+HPC,Horticulture ornementale de plein champ,Field ornamental horticulture,other_plants_harvested_green,3301099900,other_plants_harvested_green,3301099900
+HSA,Horticulture ornementale sous abris,Ornamental horticulture under cover,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+JO5,Jarosse implantee pour la recolte 2015,Jarosse planted for the 2015 harvest,vetches,3301090305,vetches,3301090305
+JOD,Jarosse déshydratée,Dryied Jarosse,vetches,3301090305,vetches,3301090305
+JOS,Autre jarosse,Other jarosse,vetches,3301090305,vetches,3301090305
+LDT,Lupin doux de printemps semé tardivement (après le 31/05),Sweet spring lupine sown after 31 May,sweet_lupins,3301020700,sweet_lupins,3301020700
+LH5,Lupin fourrager d'hiver implante pour la recolte 2015,Winter forage lupine planted for the 2016 harvest,sweet_lupins,3301020700,sweet_lupins,3301020700
+LP5,Lupin fourrager de printemps implante pour la recolte 2015,Spring forage lupine planted for the 2015 harvest,sweet_lupins,3301020700,sweet_lupins,3301020700
+LSA,Légume sous abris,Vegetable under cover,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+LU5,Luzerne implantee pour la recolte 2015,Alfalfa planted for the 2016 harvest,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+MC5,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2015 et de cereales,Mixture of predominantly forage legumes planted for the 2015 harvest and cereals,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+ME5,Melilot implante pour la recolte 2015,Melilot planted for the 2015 harvest,melilot,3301090304,melilot,3301090304
+MH5,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2015 et d'herbacees ou de graminees fourrageres,Mixture of forage legumes predominant at seeding planted for the 2015 harvest and herbaceous or forage grasses,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+MH6,Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2016 et d'herbacees ou de graminees fourrageres,Mixture of forage legumes predominant at seeding planted for the 2016 harvest and herbaceous or forage grasses,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+MH7,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+ML5,Melange de legumineuses fourrageres implantees pour la recolte 2015 (entre elles),Mixture of forage legumes implanted for the 2015 harvest (among themselves),other_dry_pulses,3301029900,other_dry_pulses,3301029900
+MLC,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+MLF,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+MLS,Melange de legumineuses fourrageres,Mixture of forage legumes,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+MPT,Mélange de protéagineux semés tardivement (après le 31/05),,other_dry_pulses,3301029900,other_dry_pulses,3301029900
+PH5,Pois fourrager d'hiver implante pour la recolte 2015,Winter fodder peas planted for the 2015 harvest,peas,3301020600,peas,3301020600
+PMD,Plante médicinale,,unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298,unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298
+PP5,Pois fourrager de printemps implanté pour la récolte 2015,Chickling vetchplanted for the 2015 harvest,peas,3301020600,peas,3301020600
+PPF,Plante a parfum (autre que geranium et vetiver),"Other annual perfume, aromatic and medicinal plant",unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298,unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298
+PPT,Pois de printemps seme tardivement (apres le 31/05),Spring peas sown after 31 May,peas,3301020600,peas,3301020600
+SA5,Sainfoin implante pour la recolte 2015,Sainfoin planted for the 2015 harvest,onobrychis_sainfoins,3301061600,onobrychis_sainfoins,3301061600
+SE5,Serradelle implantee pour la recolte 2015,Serradella planted for the 2015 harvest,serradella,3301084200,serradella,3301084200
+SER,Autre serradelle,Other Serradella,serradella,3301084200,serradella,3301084200
+TR5,Trèfle implante pour la recolte 2015,Clover planted for the 2015 harvest,clover,3301090303,clover,3301090303
+VE5,Vesce implantee pour la recolte 2015,Vetch planted for the 2015 harvest,vetches,3301090305,vetches,3301090305
+VER,Veronique,Veronique,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+ZZZ,Culture inconnue,Other,not_known_and_other,3399000000,not_known_and_other,3399000000

@@ -1,175 +1,175 @@
-original_name,translated_name,HCAT3_name,HCAT3_code
-Trvalý trávny porast,Permanent grassland,pasture_meadow_grassland_grass,3302000000
-Pšenica ozimná,Winter wheat,winter_common_soft_wheat,3301010101
-Mezofilné  trvalé trávne porasty (typ B),Mesophilic permanent grassland (type B),pasture_meadow_grassland_grass,3302000000
-Kukurica,Sweet corn,grain_maize_corn_popcorn,3301010600
-Pôda ležiaca úhorom,Fallow land,fallow_land_not_crop,3301110000
-Trávy a iné rastlinné krmivá,Grasses and other vegetable fodder,pasture_meadow_grassland_grass,3302000000
-Jačmeň jarný,Spring barley,spring_barley,3301010402
-Lucerna siata,Lucerne seed,alfalfa_lucerne,3301090301
-Kapusta repková pravá - ozimná,Rapeseed - winter,winter_rapeseed_rape,3301060401
-Sója fazuľová,Soy beans,soy_soybeans,3301160000
-Slnečnica ročná,Annual sunflower,sunflower,3301060500
-Zmiešaná plodina,Mixed crop,other_arable_land_crops,3301990000
-Pšenica jarná,Spring wheat,spring_common_soft_wheat,3301010102
-Jačmeň ozimný,Winter barley,winter_barley,3301010401
-Vinohrady,Vineyard,vineyards_wine_vine_rebland_grapes,3303060000
-Kukurica na siláž,Corn for silage,green_silo_maize,3301090400
-Ovos siaty,Sown oats,oats,3301010500
-Zemiaky konzumné (neskoré),Potatoes for consumption (late),potatoes,3301030000
-Ďatelina lúčna,Meadow clover,clover,3301090303
-Pšenica tvrdá,Durum wheat,durum_hard_wheat,3301010200
-Tritikale,Triticale,triticale,3301010800
-Raž siata,Rye seeds,rye,3301010300
-Hrach siaty,Peas,peas,3301020600
-Teplomilné a suchomilné trvalé trávne porasty (typ A),Thermophilic and drought-tolerant permanent grassland (type A),pasture_meadow_grassland_grass,3302000000
-Vlhkomilné porasty nižších polôh (typ D),Moisture-loving vegetation of lower positions (type D),not_known_and_other,3399000000
-Zemiaky konzumné (skoré),Potatoes for consumption (early),potatoes,3301030000
-Horčica biela,White mustard,mustard,3301210100
-Repa cukrová,Sugar beet,sugar_beet,3301290700
-Ovocné sady,Fruit sets,orchards_fruits,3303010000
-"Vlhkomilné porasty vyšších polôh, slatinné a bezkolencové lúky (typ F)",Moor grasslands of higher altitudes,not_known_and_other,3399000000
-Zelenina a iné záhradné plodiny voľne pestované,Vegetables and other horticultural crops,fresh_vegetables,3301070000
-Facélia vratičolistá,Phacelia wobbly-leaved,phacelia,3301061400
-Jabloň domáca,Domestic apple tree,apples,3303010200
-Ostropestrec mariánsky,Marian thistle,marian_thistles,3301061300
-Cirok,Sorghum,millet_sorghum,3301010900
-Proso,Millet,millet_sorghum,3301010900
-Mak siaty,Poppy,poppy,3301060600
-Pšenica špaldová,Spelt wheat,spelt,3301011000
-Ovos nahý,Naked oats,oats,3301010500
-Horské kosné lúky (typ C),Mountain mowing meadows (type C),pasture_meadow_grassland_grass,3302000000
-Tekvica obyčajná (pre produkciu semien na konzum a lisovanie),Pumpkin (for seed production for consumption and pressing),pumpkin_squash_gourd,3301140400
-Kukurica cukrová,Sweet corn,grain_maize_corn_popcorn,3301010600
-Slivka domáca,Domestic plum,plums,3303011300
-Liečivé rastliny,Medicinal plants,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-Poľná zelenina,Field vegetables,fresh_vegetables,3301070000
-Kapusta hlávková,Cabbage,white_cabbage,3301210212
-Reďkev siata olejná (iná ako na priamy konzum),Oilseed radish (other than for direct human consumption),radish,3301290600
-Orech kráľovský,Royal walnut,walnuts,3303030600
-Jahody,Strawberries,strawberries,3301130000
-Pohánka,Buckwheat,buckwheat,3301150200
-Cirok sudánsky,Sudan sorghum,millet_sorghum,3301010900
-Ďatelina purpurová,Purple clover,clover,3301090303
-Topoľ robusta,Populus robusta,populus,3306070000
-Kapusta repková pravá - jarná,Rapeseed - spring,spring_rapeseed_rape,3301060402
-Kukurica osivová,Seed corn,grain_maize_corn_popcorn,3301010600
-Tekvica obyčajná (pre produkciu na priamy konzum),Pumpkin (for production for direct consumption),pumpkin_squash_gourd,3301140400
-Ďatelina plazivá,Creeping clover,clover,3301090303
-Hrach siaty kŕmny,Feed peas,peas,3301020600
-Cibuľa (jarná),Onion (spring),onions,3301220400
-Marhuľa obyčajná,Apricot,apricots,3303010300
-Vysokohorské trávne porasty (typ G),Alpine grasslands (type G),pasture_meadow_grassland_grass,3302000000
-Paprika ročná,Annual pepper,piper_pepper,3301061228
-Konopa siata,Cannabis seed,hemp_cannabis,3301061000
-Repica olejnatá,Oilseed rape,rapeseed_rape,3301060400
-Broskyňa obyčajná,Peach,peach,3303011100
-Mrkva obyčajná,Common carrots,carrots_daucus,3301290300
-Nížinné aluviálne porasty (typ E),Lowland alluvial stands (type E),pasture_meadow_grassland_grass,3302000000
-Hruška obyčajná,Common pear,pears,3303011200
-Ľan siaty olejný,Oilseed flax,oilseed_crops,3301060800
-Cesnak (zimný),Garlic (winter),garlic,3301220200
-Škôlky s drevnatými rastlinami,Nurseries with woody plants,nurseries_nursery,3303070000
-Zemiaky sadbové,Seedling potatoes,potatoes,3301030000
-Hrach siaty (peluška),Peas (peas),peas,3301020600
-Lupina biela,White lupine,sweet_lupins,3301020700
-Repa obyčajná cviklová (Cvikla),Beetroot (Beetroot),beetroot_beets,3301290200
-Ďatelina hybridná,Hybrid clover,clover,3301090303
-Rajčiak jedlý,Edible tomato,tomato,3301280000
-Petržlen záhradný,Garden parsley,parsly,3301061227
-Čerešňa vtáčia,Bird cherry,cherry_cherries,3303010400
-Cibuľa (zimná),Onion (winter),onions,3301220400
-Repa kŕmna,Fodder beet,fodder_roots,3301050000
-Ríbezľa,Currants,currants,3303020600
-Vika siata,Common vetch,vetches,3301090305
-Vičenec vikolistý,Onobrychis viciifolia,onobrychis_sainfoins,3301061600
-Dyňa červená,Red pumpkin,pumpkin_squash_gourd,3301140400
-Čučoriedka (Brusnica chocholíkatá),Blueberry (Cranberry),blueberry,3303020400
-Topoľ maximowiczov,Populus maximowiczii,populus,3306070000
-Karfiol,Cauliflower,cauliflower,3301210204
-Zelenina a iné záhradné plodiny pod sklom alebo fóliou,Vegetables and other horticultural crops under glass or foil,greenhouse_foil_film,3305000000
-Bôb obyčajný,Common beans,beans,3301020100
-Jarabina čierna,black chokeberry,aronia_chokeberries,3303020100
-Tekvica obrovská (pre produkciu na priamy konzum),Giant pumpkin (for production for direct consumption),pumpkin_squash_gourd,3301140400
-Lesknica kanárska,Canary Island shrub,shrubberries_shrubs,3303080000
-Melón cukrový,Sugar melon,melon,3301140300
-Vŕba biela,White willow,willows_osiers,3306080000
-Topoľ čierny,Black poplar,populus,3306070000
-Kukurica na zeleno,Corn on the green,grain_maize_corn_popcorn,3301010600
-Bylinné trvalé plodiny,Herbal permanent crops,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-Uhorka nakladačka,Cucumber loader,cucumber_pickle,3301140100
-Tekvica obrovská (pre produkciu semien na konzum a lisovanie),Giant pumpkin (for seed production for consumption and pressing),pumpkin_squash_gourd,3301140400
-Kvety a okrasné rastliny voľne pestované,Flowers and ornamental plants in the wild,flowers_ornamental_plants,3301080000
-Lupina úzkolistá,Narrow-leaved lupine,sweet_lupins,3301020700
-Ovos ozimný,Winter oats,winter_oats,3301010501
-Kel hlávkový,Savoy cabbage,savoy_cabbage,3301210211
-Rasca lúčna,Caraway,caraway,3301061211
-Chmeľ obyčajný,Common hops,hops,3301060200
-Kaleráb (skorý),Kohlrabi (German turnip) (early),kohlrabi,3301210209
-Hrach siaty pravý stržňový,Peas sown,peas,3301020600
-Ostatné aromatické byliny,Other aromatic herbs,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-Višňa,Cherry,cherry_cherries,3303010400
-Rakytník rešetliakovitý,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800
-Zeler voňavý buľvový,Fragrant celery,celery,3301250000
-Špargľa,Asparagus,asparagus,3301200000
-Vŕba košikárska,Basket willow,willows_osiers,3306080000
-Ďatelina alexandrijská,Alexandrian clover,clover,3301090303
-Reďkev siata pravá (reďkovka),Radish sown (radish),radish,3301290600
-Šošovica jedlá,Edible lentils,lentils,3301020500
-Špenát siaty,Spinach seeds,spinach,3301310800
-Malina,Raspberry,raspberry_raspberries,3303021000
-Gaštan jedlý,Edible chestnut,sweet_chestnuts,3303030500
-Vŕba lykovcovitá,Willow,willows_osiers,3306080000
-Medovka lekárska,Honeydew,honeydew,3301140200
-Šalát siaty,Lettuce salad,salads_lettuce_leaf_vegetables,3301310000
-Mäta pieporná,Peppermint,mints_peppermint,3301061222
-Reďkev siata čierna,Black seed radish,radish,3301290600
-Baza čierna,Elderberry,elder_elderberry,3303080400
-Fazuľa záhradná (obyčajná),Garden beans (common),beans,3301020100
-Vika huňatá,Hairy vetch,vetches,3301090305
-Černica,Blackberry,blackberry,3303020200
-Tabak Virginia,Tobacco Virginia,tobacco,3301060100
-Rumanček kamilkový,Chamomile,chamomile,3301061213
-Uhorka šalátová,Cucumber salad,cucumber_pickle,3301140100
-Fenikel obyčajný,Fennel,fennel,3301170000
-Ľan siaty priadny,Flax mesh,flax_linseed,3301060700
-Vika panónska,vetches Pannonian,vetches,3301090305
-Koreňová zelenina (ostatná),Root vegetables (other),root_vegetables,3301290000
-Cícer baraní,Chickpeas,chickpeas,3301020200
-Mandľa obyčajná,Almond,almond,3303030100
-Požlt farbiarsky,Safflower,safflower,3301083900
-Cesnak (jarný),Garlic (spring),garlic,3301220200
-Ľuľok baklažánový (baklažán),Eggplant (eggplant),aubergine_eggplant,3301260000
-Kaleráb (neskorý),Kohlrabi (German turnip) (late),kohlrabi,3301210209
-Slnečnica hľuznatá,Tuberous sunflower,sunflower,3301060500
-Kukurica pukancová,Popcorn,grain_maize_corn_popcorn,3301010600
-Kvety a okrasné rastliny pod sklom alebo fóliou,Flowers and ornamental plants under glass or foil,greenhouse_foil_film,3305000000
-Topoľ osikový,Aspen poplar,aspen,3306020000
-Rebríček obyčajný,Yarrow,yarrow,3301061239
-Lieska obyčajná,Hazelnut,hazelnuts_hazel,3303030200
-Hrachor siaty,Peas,peas,3301020600
-Nechtík lekársky,Marigold medical,calendula_marigold,3301061210
-Koreninové rastliny (ostatné),Spices (other),aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-Ruža jabĺčková,Apple rose,rose_hip_rosehip,3303021200
-Nektárinka,Nectarine,nectarine,3303010900
-Jelša lepkavá,Sticky alder,tree_wood_forest,3306000000
-Bôb konský,Horse beans,beans,3301020100
-Ďatelina perzská,Persian clover,clover,3301090303
-Breza previsnutá,Birch overhanging,birch,3306030000
-Sida obojpohlavná,Sida dioecious,sida_virginia_mallow,3304030000
-Ringlota,Ringlots,plums,3303011300
-Zemolez,Honeysuckle,honeysuckle,3303080500
-Šalvia lekárska,Sage,sage_chia,3301190000
-Pór pestovaný (jarný),Leek grown (spring),leek,3301220300
-Kôpor voňavý,Fragrant dill,anethum_dill,3301061203
-Brusnica pravá,Cranberry,cranberry,3303020500
-Paštrnák siaty pravý,Parsnip sown right,parsnips,3301290500
-Bazalka pravá,Basil,basil,3301061207
-Jaseň štíhly,Slender ash tree,tree_wood_forest,3306000000
-Povojník batátový (batát),Sweet potato (sweet potato),sweet_potatoes,3301040000
-Jarabina vtáčia,rowan,rowan_rowanberries,3303021300
-Kapusta sitinová,Brassica juncea,mustard,3301210100
-Zeler voňavý stonkový,Celery fragrant stalk,celery,3301250000
-Drieň obyčajný,Common dogwood,dogwood_cornus,3306040000
-Mišpuľa,Loquat,medlar_loquat,3303010800
-Jelša sivá,Gray alder,tree_wood_forest,3306000000
+original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
+Trvalý trávny porast,Permanent grassland,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Pšenica ozimná,Winter wheat,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+Mezofilné  trvalé trávne porasty (typ B),Mesophilic permanent grassland (type B),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Kukurica,Sweet corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+Pôda ležiaca úhorom,Fallow land,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+Trávy a iné rastlinné krmivá,Grasses and other vegetable fodder,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Jačmeň jarný,Spring barley,spring_barley,3301010402,spring_barley,3301010402
+Lucerna siata,Lucerne seed,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+Kapusta repková pravá - ozimná,Rapeseed - winter,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+Sója fazuľová,Soy beans,soy_soybeans,3301160000,soy_soybeans,3301160000
+Slnečnica ročná,Annual sunflower,sunflower,3301060500,sunflower,3301060500
+Zmiešaná plodina,Mixed crop,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
+Pšenica jarná,Spring wheat,spring_common_soft_wheat,3301010102,spring_common_soft_wheat,3301010102
+Jačmeň ozimný,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+Vinohrady,Vineyard,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+Kukurica na siláž,Corn for silage,green_silo_maize,3301090400,green_silo_maize,3301090400
+Ovos siaty,Sown oats,oats,3301010500,oats,3301010500
+Zemiaky konzumné (neskoré),Potatoes for consumption (late),potatoes,3301030000,potatoes,3301030000
+Ďatelina lúčna,Meadow clover,clover,3301090303,clover,3301090303
+Pšenica tvrdá,Durum wheat,durum_hard_wheat,3301010200,durum_hard_wheat,3301010200
+Tritikale,Triticale,triticale,3301010800,triticale,3301010800
+Raž siata,Rye seeds,rye,3301010300,rye,3301010300
+Hrach siaty,Peas,peas,3301020600,peas,3301020600
+Teplomilné a suchomilné trvalé trávne porasty (typ A),Thermophilic and drought-tolerant permanent grassland (type A),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Vlhkomilné porasty nižších polôh (typ D),Moisture-loving vegetation of lower positions (type D),not_known_and_other,3399000000,not_known_and_other,3399000000
+Zemiaky konzumné (skoré),Potatoes for consumption (early),potatoes,3301030000,potatoes,3301030000
+Horčica biela,White mustard,mustard,3301210100,mustard,3301210100
+Repa cukrová,Sugar beet,sugar_beet,3301290700,sugar_beet,3301290700
+Ovocné sady,Fruit sets,orchards_fruits,3303010000,orchards_fruits,3303010000
+"Vlhkomilné porasty vyšších polôh, slatinné a bezkolencové lúky (typ F)",Moor grasslands of higher altitudes,not_known_and_other,3399000000,not_known_and_other,3399000000
+Zelenina a iné záhradné plodiny voľne pestované,Vegetables and other horticultural crops,fresh_vegetables,3301070000,fresh_vegetables,3301070000
+Facélia vratičolistá,Phacelia wobbly-leaved,phacelia,3301061400,phacelia,3301061400
+Jabloň domáca,Domestic apple tree,apples,3303010200,apples,3303010200
+Ostropestrec mariánsky,Marian thistle,marian_thistles,3301061300,marian_thistles,3301061300
+Cirok,Sorghum,millet_sorghum,3301010900,millet_sorghum,3301010900
+Proso,Millet,millet_sorghum,3301010900,millet_sorghum,3301010900
+Mak siaty,Poppy,poppy,3301060600,poppy,3301060600
+Pšenica špaldová,Spelt wheat,spelt,3301011000,spelt,3301011000
+Ovos nahý,Naked oats,oats,3301010500,oats,3301010500
+Horské kosné lúky (typ C),Mountain mowing meadows (type C),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Tekvica obyčajná (pre produkciu semien na konzum a lisovanie),Pumpkin (for seed production for consumption and pressing),pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Kukurica cukrová,Sweet corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+Slivka domáca,Domestic plum,plums,3303011300,plums,3303011300
+Liečivé rastliny,Medicinal plants,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+Poľná zelenina,Field vegetables,fresh_vegetables,3301070000,fresh_vegetables,3301070000
+Kapusta hlávková,Cabbage,white_cabbage,3301210212,white_cabbage,3301210212
+Reďkev siata olejná (iná ako na priamy konzum),Oilseed radish (other than for direct human consumption),radish,3301290600,radish,3301290600
+Orech kráľovský,Royal walnut,walnuts,3303030600,walnuts,3303030600
+Jahody,Strawberries,strawberries,3301130000,strawberries,3301130000
+Pohánka,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
+Cirok sudánsky,Sudan sorghum,millet_sorghum,3301010900,millet_sorghum,3301010900
+Ďatelina purpurová,Purple clover,clover,3301090303,clover,3301090303
+Topoľ robusta,Populus robusta,populus,3306070000,populus,3306070000
+Kapusta repková pravá - jarná,Rapeseed - spring,spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
+Kukurica osivová,Seed corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+Tekvica obyčajná (pre produkciu na priamy konzum),Pumpkin (for production for direct consumption),pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Ďatelina plazivá,Creeping clover,clover,3301090303,clover,3301090303
+Hrach siaty kŕmny,Feed peas,peas,3301020600,peas,3301020600
+Cibuľa (jarná),Onion (spring),onions,3301220400,onions,3301220400
+Marhuľa obyčajná,Apricot,apricots,3303010300,apricots,3303010300
+Vysokohorské trávne porasty (typ G),Alpine grasslands (type G),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Paprika ročná,Annual pepper,piper_pepper,3301061228,piper_pepper,3301061228
+Konopa siata,Cannabis seed,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+Repica olejnatá,Oilseed rape,rapeseed_rape,3301060400,rapeseed_rape,3301060400
+Broskyňa obyčajná,Peach,peach,3303011100,peach,3303011100
+Mrkva obyčajná,Common carrots,carrots_daucus,3301290300,carrots_daucus,3301290300
+Nížinné aluviálne porasty (typ E),Lowland alluvial stands (type E),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Hruška obyčajná,Common pear,pears,3303011200,pears,3303011200
+Ľan siaty olejný,Oilseed flax,oilseed_crops,3301060800,oilseed_crops,3301060800
+Cesnak (zimný),Garlic (winter),garlic,3301220200,garlic,3301220200
+Škôlky s drevnatými rastlinami,Nurseries with woody plants,nurseries_nursery,3303070000,nurseries_nursery,3303070000
+Zemiaky sadbové,Seedling potatoes,potatoes,3301030000,potatoes,3301030000
+Hrach siaty (peluška),Peas (peas),peas,3301020600,peas,3301020600
+Lupina biela,White lupine,sweet_lupins,3301020700,sweet_lupins,3301020700
+Repa obyčajná cviklová (Cvikla),Beetroot (Beetroot),beetroot_beets,3301290200,beetroot_beets,3301290200
+Ďatelina hybridná,Hybrid clover,clover,3301090303,clover,3301090303
+Rajčiak jedlý,Edible tomato,tomato,3301280000,tomato,3301280000
+Petržlen záhradný,Garden parsley,parsly,3301061227,parsly,3301061227
+Čerešňa vtáčia,Bird cherry,cherry_cherries,3303010400,cherry_cherries,3303010400
+Cibuľa (zimná),Onion (winter),onions,3301220400,onions,3301220400
+Repa kŕmna,Fodder beet,fodder_roots,3301050000,fodder_roots,3301050000
+Ríbezľa,Currants,currants,3303020600,currants,3303020600
+Vika siata,Common vetch,vetches,3301090305,vetches,3301090305
+Vičenec vikolistý,Onobrychis viciifolia,onobrychis_sainfoins,3301061600,onobrychis_sainfoins,3301061600
+Dyňa červená,Red pumpkin,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Čučoriedka (Brusnica chocholíkatá),Blueberry (Cranberry),blueberry,3303020400,blueberry,3303020400
+Topoľ maximowiczov,Populus maximowiczii,populus,3306070000,populus,3306070000
+Karfiol,Cauliflower,cauliflower,3301210204,cauliflower,3301210204
+Zelenina a iné záhradné plodiny pod sklom alebo fóliou,Vegetables and other horticultural crops under glass or foil,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Bôb obyčajný,Common beans,beans,3301020100,beans,3301020100
+Jarabina čierna,black chokeberry,aronia_chokeberries,3303020100,aronia_chokeberries,3303020100
+Tekvica obrovská (pre produkciu na priamy konzum),Giant pumpkin (for production for direct consumption),pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Lesknica kanárska,Canary Island shrub,shrubberries_shrubs,3303080000,shrubberries_shrubs,3303080000
+Melón cukrový,Sugar melon,melon,3301140300,melon,3301140300
+Vŕba biela,White willow,willows_osiers,3306080000,willows_osiers,3306080000
+Topoľ čierny,Black poplar,populus,3306070000,populus,3306070000
+Kukurica na zeleno,Corn on the green,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+Bylinné trvalé plodiny,Herbal permanent crops,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+Uhorka nakladačka,Cucumber loader,cucumber_pickle,3301140100,cucumber_pickle,3301140100
+Tekvica obrovská (pre produkciu semien na konzum a lisovanie),Giant pumpkin (for seed production for consumption and pressing),pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Kvety a okrasné rastliny voľne pestované,Flowers and ornamental plants in the wild,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+Lupina úzkolistá,Narrow-leaved lupine,sweet_lupins,3301020700,sweet_lupins,3301020700
+Ovos ozimný,Winter oats,winter_oats,3301010501,winter_oats,3301010501
+Kel hlávkový,Savoy cabbage,savoy_cabbage,3301210211,savoy_cabbage,3301210211
+Rasca lúčna,Caraway,caraway,3301061211,caraway,3301061211
+Chmeľ obyčajný,Common hops,hops,3301060200,hops,3301060200
+Kaleráb (skorý),Kohlrabi (German turnip) (early),kohlrabi,3301210209,kohlrabi,3301210209
+Hrach siaty pravý stržňový,Peas sown,peas,3301020600,peas,3301020600
+Ostatné aromatické byliny,Other aromatic herbs,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+Višňa,Cherry,cherry_cherries,3303010400,cherry_cherries,3303010400
+Rakytník rešetliakovitý,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800,hippophae_sea_buckthorns_seaberry,3303020800
+Zeler voňavý buľvový,Fragrant celery,celery,3301250000,celery,3301250000
+Špargľa,Asparagus,asparagus,3301200000,aspargus,3301200000
+Vŕba košikárska,Basket willow,willows_osiers,3306080000,willows_osiers,3306080000
+Ďatelina alexandrijská,Alexandrian clover,clover,3301090303,clover,3301090303
+Reďkev siata pravá (reďkovka),Radish sown (radish),radish,3301290600,radish,3301290600
+Šošovica jedlá,Edible lentils,lentils,3301020500,lentils,3301020500
+Špenát siaty,Spinach seeds,spinach,3301310800,spinach,3301310800
+Malina,Raspberry,raspberry_raspberries,3303021000,raspberry_raspberries,3303021000
+Gaštan jedlý,Edible chestnut,sweet_chestnuts,3303030500,sweet_chestnuts,3303030500
+Vŕba lykovcovitá,Willow,willows_osiers,3306080000,willows_osiers,3306080000
+Medovka lekárska,Honeydew,honeydew,3301140200,honeydew,3301140200
+Šalát siaty,Lettuce salad,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+Mäta pieporná,Peppermint,mints_peppermint,3301061222,mints_peppermint,3301061222
+Reďkev siata čierna,Black seed radish,radish,3301290600,radish,3301290600
+Baza čierna,Elderberry,elder_elderberry,3303080400,elder_elderberry,3303080400
+Fazuľa záhradná (obyčajná),Garden beans (common),beans,3301020100,beans,3301020100
+Vika huňatá,Hairy vetch,vetches,3301090305,vetches,3301090305
+Černica,Blackberry,blackberry,3303020200,blackberry,3303020200
+Tabak Virginia,Tobacco Virginia,tobacco,3301060100,tobacco,3301060100
+Rumanček kamilkový,Chamomile,chamomile,3301061213,chamomile,3301061213
+Uhorka šalátová,Cucumber salad,cucumber_pickle,3301140100,cucumber_pickle,3301140100
+Fenikel obyčajný,Fennel,fennel,3301170000,fennel,3301170000
+Ľan siaty priadny,Flax mesh,flax_linseed,3301060700,flax_linseed,3301060700
+Vika panónska,vetches Pannonian,vetches,3301090305,vetches,3301090305
+Koreňová zelenina (ostatná),Root vegetables (other),root_vegetables,3301290000,root_vegetables,3301290000
+Cícer baraní,Chickpeas,chickpeas,3301020200,chickpeas,3301020200
+Mandľa obyčajná,Almond,almond,3303030100,almond,3303030100
+Požlt farbiarsky,Safflower,safflower,3301083900,safflower,3301083900
+Cesnak (jarný),Garlic (spring),garlic,3301220200,garlic,3301220200
+Ľuľok baklažánový (baklažán),Eggplant (eggplant),aubergine_eggplant,3301260000,aubergine_eggplant,3301260000
+Kaleráb (neskorý),Kohlrabi (German turnip) (late),kohlrabi,3301210209,kohlrabi,3301210209
+Slnečnica hľuznatá,Tuberous sunflower,sunflower,3301060500,sunflower,3301060500
+Kukurica pukancová,Popcorn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+Kvety a okrasné rastliny pod sklom alebo fóliou,Flowers and ornamental plants under glass or foil,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Topoľ osikový,Aspen poplar,aspen,3306020000,aspen,3306020000
+Rebríček obyčajný,Yarrow,yarrow,3301061239,yarrow,3301061239
+Lieska obyčajná,Hazelnut,hazelnuts_hazel,3303030200,hazelnuts_hazel,3303030200
+Hrachor siaty,Peas,peas,3301020600,peas,3301020600
+Nechtík lekársky,Marigold medical,calendula_marigold,3301061210,calendula_marigold,3301061210
+Koreninové rastliny (ostatné),Spices (other),aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+Ruža jabĺčková,Apple rose,rose_hip_rosehip,3303021200,rose_hip_rosehip,3303021200
+Nektárinka,Nectarine,nectarine,3303010900,nectarine,3303010900
+Jelša lepkavá,Sticky alder,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Bôb konský,Horse beans,beans,3301020100,beans,3301020100
+Ďatelina perzská,Persian clover,clover,3301090303,clover,3301090303
+Breza previsnutá,Birch overhanging,birch,3306030000,birch,3306030000
+Sida obojpohlavná,Sida dioecious,sida_virginia_mallow,3304030000,sida_virginia_mallow,3304030000
+Ringlota,Ringlots,plums,3303011300,plums,3303011300
+Zemolez,Honeysuckle,honeysuckle,3303080500,honeysuckle,3303080500
+Šalvia lekárska,Sage,sage_chia,3301190000,sage_chia,3301190000
+Pór pestovaný (jarný),Leek grown (spring),leek,3301220300,leek,3301220300
+Kôpor voňavý,Fragrant dill,anethum_dill,3301061203,anethum_dill,3301061203
+Brusnica pravá,Cranberry,cranberry,3303020500,cranberry,3303020500
+Paštrnák siaty pravý,Parsnip sown right,parsnips,3301290500,parsnips,3301290500
+Bazalka pravá,Basil,basil,3301061207,basil,3301061207
+Jaseň štíhly,Slender ash tree,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Povojník batátový (batát),Sweet potato (sweet potato),sweet_potatoes,3301040000,sweet_potatoes,3301040000
+Jarabina vtáčia,rowan,rowan_rowanberries,3303021300,rowan_rowanberries,3303021300
+Kapusta sitinová,Brassica juncea,mustard,3301210100,mustard,3301210100
+Zeler voňavý stonkový,Celery fragrant stalk,celery,3301250000,celery,3301250000
+Drieň obyčajný,Common dogwood,dogwood_cornus,3306040000,dogwood_cornus,3306040000
+Mišpuľa,Loquat,medlar_loquat,3303010800,medlar_loquat,3303010800
+Jelša sivá,Gray alder,tree_wood_forest,3306000000,tree_wood_forest,3306000000
