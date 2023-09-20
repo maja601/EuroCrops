@@ -125,7 +125,25 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
 
 ## Reference<a name="reference"></a>
 
-**Disclaimer**: The official reference will follow soon. Please also reference the countries' dependent source in case you're using their data.
+**Disclaimer**: Please reference the countries' dependent source in case you're using their data.
+```
+@Article{schneider2023eurocrops,
+	title = {{EuroCrops}: {The} {Largest} {Harmonized} {Open} {Crop} {Dataset} {Across} the {European} {Union}},
+	volume = {10},
+	copyright = {All rights reserved},
+	issn = {2052-4463},
+	url = {https://doi.org/10.1038/s41597-023-02517-0},
+	doi = {10.1038/s41597-023-02517-0},
+	number = {1},
+	journal = {Scientific Data},
+	author = {Schneider, Maja and Schelte, Tobias and Schmitz, Felix and Körner, Marco},
+	month = sep,
+	year = {2023},
+	pages = {612},
+}
+```
+
+Additional references:
 
 ```
 @Misc{schneider2022eurocrops21,
@@ -137,8 +155,6 @@ The shapefiles of the countries are available via [Sync&Share](https://syncandsh
  year       = {2022}
 }
 ```
-
-Additional references:
 
 ```
 @InProceedings{Schneider2022Challenges,
