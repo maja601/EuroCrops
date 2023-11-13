@@ -49,6 +49,7 @@ The raw data obtained from the countries does not come in a unified, machine-rea
 Find detailed information for all countries of the European Union in our [Wiki](https://github.com/maja601/EuroCrops/wiki), especially the countries represented in EuroCrops:
 - [Austria](https://github.com/maja601/EuroCrops/wiki/Austria)
 - [Belgium](https://github.com/maja601/EuroCrops/wiki/Belgium)
+- [Czechia](https://github.com/maja601/EuroCrops/wiki/Czechia)
 - [Germany](https://github.com/maja601/EuroCrops/wiki/Germany)
 - [Denmark](https://github.com/maja601/EuroCrops/wiki/Denmark)
 - [Estonia](https://github.com/maja601/EuroCrops/wiki/Estonia)
@@ -77,7 +78,7 @@ Find detailed information for all countries of the European Union in our [Wiki](
 
 ## Vector data download via zenodo<a name="vectordata_zenodo"></a>
 
-The vector data is now available via [zenodo](https://zenodo.org/record/6866846), currently we are on Version 6!
+The vector data is now available via [zenodo](https://zenodo.org/records/8229128), currently we are on Version 9!
 
 ## Vector data download via Sync&Share (only [Version 1](https://zenodo.org/record/6866847))<a name="vectordata"></a>
 
