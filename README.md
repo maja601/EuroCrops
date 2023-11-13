@@ -49,6 +49,7 @@ The raw data obtained from the countries does not come in a unified, machine-rea
 Find detailed information for all countries of the European Union in our [Wiki](https://github.com/maja601/EuroCrops/wiki), especially the countries represented in EuroCrops:
 - [Austria](https://github.com/maja601/EuroCrops/wiki/Austria)
 - [Belgium](https://github.com/maja601/EuroCrops/wiki/Belgium)
+- [Czechia](https://github.com/maja601/EuroCrops/wiki/Czechia)
 - [Germany](https://github.com/maja601/EuroCrops/wiki/Germany)
 - [Denmark](https://github.com/maja601/EuroCrops/wiki/Denmark)
 - [Estonia](https://github.com/maja601/EuroCrops/wiki/Estonia)
