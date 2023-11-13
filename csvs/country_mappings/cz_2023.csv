@@ -1,0 +1,327 @@
+original_code,original_name,tname,HCAT3_name,HCAT3_code
+2,Cukrovka,sugar beet,sugar_beet,3301290700
+3,Řepa krmná,fodder beet ,mangelwurzel_fodder_beet,3301290400
+4,Topinambur,Jerusalem artichoke,topinambur_jerusalem_artichoke,3301180000
+5,Čekanka průmyslová,Industrial chicory,chicory_chicories,3301310200
+8,Bér vlašský (italský),Millet,unspecified_season_millet_sorghum,3301010999
+9,Čirok cukrový,Sugar sorghum,unspecified_season_millet_sorghum,3301010999
+10,Ředkev olejná,Radishes,radish,3301290600
+11,Sléz přeslenitý,Chinese mallow,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+12,Svazenka vratičolistá,Lacy phacelia,marian_thistles,3301061300
+14,Kapusta krmná,Fodder Cabbage,other_brassica_oleracea_cabbage,3301210299
+15,Šťovík,Dock and Sorrel,sorrel,3301310700
+16,Tuřín,Swedes,swede_rutabaga,3301210500
+18,Kopr vonný,Dill,anethum_dill,3301061203
+19,Koriandr setý,Coriander,coriander,3301061215
+20,Majoránka zahradní,marjoram,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+21,Andělika lékařská,Norwegian angelica,angelica,3301061204
+23,Benedikt lékařský (čubet),St. Benedict's thistle,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+25,Divizna velkokvětá,dense-flowered mullein,other_flowers_ornamental_plants,3301089900
+26,Heřmánek pravý,Chamomile,chamomile,3301061213
+28,Jablečník obecný,Common apple tree,apples,3303010200
+30,Jestřabina lékařská,galega,galega,3301081900
+31,Jitrocel kopinatý,ribwort plantain,other_flowers_ornamental_plants,3301089900
+33,Kozlík lékařský,Valerian ,valerian,3301061238
+34,Levandule lékařská,English lavender,lavender_lavandula,3301061219
+35,Lékořice lysá,licorice ,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+36,Libeček lékařský,Lovage,lovage_maggiplant,3301061221
+38,Máta peprná,Peppermint,mints_peppermint,3301061222
+39,Meduňka lékařská,Lemon balm,lemon_balm_melissa,3301061220
+44,Ostropestřec mariánský,Milk thistle,marian_thistles,3301061300
+46,Pelyněk kozalec (estragon),Tarragon,tarragon,3301061236
+48,Proskurník lékařský,marshmallow,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+49,Topolovka růžová,common hollyhock,other_flowers_ornamental_plants,3301089900
+50,Reveň dlanitá,Chinese rhubarb,other_flowers_ornamental_plants,3301089900
+53,Řepík lékařský,common agrimony,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+55,Sléz maurský,Moorish mallow,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+56,Šalvěj lékařská,Sage,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+57,Třezalka tečkovaná,St. John's wort,st_johns_wort,3301061234
+58,Tymián obecný,Thyme,thyme,3301061237
+59,Včelník moldavský,Moldavian dragonhead,moldavian_dragonhead,3301061223
+61,Yzop lékařský,Hyssop,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+63,Řebříček obecný,Common yarrow,yarrow,3301061239
+65,Cizrna beraní,chickpea,chickpeas,3301020200
+67,Čočka jedlá,Lentils,lentils,3301020500
+68,Fazol polní,Field beans,beans,3301020100
+69,Hrách polní,Field peas,peas,3301020600
+70,Peluška jarní (Hrách rolní),Spring field pea (Pea),peas,3301020600
+71,Peluška ozimá (Hrách rolní),Winter field pea (Pea),peas,3301020600
+72,Jetel nachový,crimson clover,clover,3301090303
+73,Jetel luční,red clover,clover,3301090303
+74,Jetel perský (zvrácený),Persian clover,clover,3301090303
+75,Jetel plazivý,white clover,clover,3301090303
+76,Jetel švédský (zvrhlý),alsike clover,clover,3301090303
+77,Komonice,sweet clover,clover,3301090303
+78,Lupina bílá,Lupine white,sweet_lupins,3301020700
+80,Lupina úzkolistá,Narrow-leaved lupine,sweet_lupins,3301020700
+81,Lupina proměnlivá (andská),Lupine variable (Andean),sweet_lupins,3301020700
+82,Ptačí noha setá (seradela),serradela,serradella,3301084200
+84,Štírovník růžkatý,common bird's-foot trefoil,other_flowers_ornamental_plants,3301089900
+85,Tolice dětelová,hop clover,clover,3301090303
+86,Úročník bolhoj,kidney vetch,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+87,Vičenec ligrus,common sainfoin,legumes_harvested_green,3301090300
+88,Vikev setá,common vetch,vetches,3301090305
+89,Vikev huňatá,fodder vetch ,vetches,3301090305
+90,Vikev panonská,Hungarian vetch,vetches,3301090305
+91,Vojtěška setá,Alfafa,alfalfa_lucerne,3301090301
+92,Pískavice řecké seno,Fenugreek,fenugreek,3301020400
+93,Jetel ladní,field clover,clover,3301090303
+94,Jetel (T. nigrescens Viv.),Clover (T. nigrescens Viv.),clover,3301090303
+95,Čirok zrnový,Grain sorghum,unspecified_season_millet_sorghum,3301010999
+96,Ječmen jarní,Spring barley,spring_barley,3301010402
+97,Ječmen ozimý dvouřadý,Two-row winter barley,winter_barley,3301010401
+98,Ječmen ozimý víceřadý,Multi-row winter barley,winter_barley,3301010401
+100,Oves nahý jarní,Naked spring oats,spring_oats,3301010502
+101,Oves pluchatý jarní,Fluffy spring oats,spring_oats,3301010502
+102,Pohanka obecná,Buckwheat,buckwheat,3301150200
+103,Proso seté,Millet,unspecified_season_millet_sorghum,3301010999
+104,Pšenice setá jarní,Spring Wheat,spring_common_soft_wheat,3301010102
+105,Pšenice setá ozimá,Winter Wheat,winter_common_soft_wheat,3301010101
+106,Pšenice špalda ozimá,Winter Spelt,winter_spelt,3301011001
+107,Pšenice tvrdá jarní,Durum wheat spring,spring_durum_hard_wheat,3301010202
+108,Pšenice tvrdá ozimá,"Durum wheat, winter",winter_durum_hard_wheat,3301010201
+109,Tritikale jarní,Spring triticale,spring_triticale,3301010802
+110,Tritikale ozimé,Winter triticale,winter_triticale,3301010801
+111,Žito jarní,Spring rye,spring_rye,3301010302
+112,Žito ozimé,Winter rye,winter_rye,3301010301
+113,Lesknice kanárská,Canary grass ,poaceae_grasses,3301090200
+114,Pšenice dvouzrnka,Emmer wheat ,unspecified_season_emmer,3301011299
+125,Laskavec,amaranth,amaranth,3301150100
+130,Měsíček lékařský,pot marigold,calendula_marigold,3301061210
+165,Bazalka,Basil,basil,3301061207
+178,Aksamitník (afrikán),Tagetes,tagetes,3301084700
+246,Mateřídouška,Thyme,thyme,3301061237
+249,Čirok sudanská tráva,Sorghum × drummondii,unspecified_season_millet_sorghum,3301010999
+250,Hořčice sareptská (hnědá),Sarepta mustard (brown),mustard,3301210100
+251,Řepice ozimá,Rapeseed winter,winter_rapeseed_rape,3301060401
+252,Hořčice bílá,White mustard,mustard,3301210100
+253,Kmín kořenný ozimý,winter Caraway,caraway,3301061211
+255,Len olejný,flax oil,flax_linseed_oil,3301060702
+256,Len přadný,flax,flax_linen,3301060701
+257,Lnička setá jarní,Gold of pleasure spring,camelina,3301061500
+258,Lnička setá ozimá,Gold of pleasure winter,camelina,3301061500
+260,Řepka jarní,Rapeseed Spring,spring_rapeseed_rape,3301060402
+261,Řepka ozimá,Rapeseed winter,winter_rapeseed_rape,3301060401
+262,Slunečnice roční,Sunflowers,sunflower,3301060500
+263,Sója,Soybean,soy_soybeans,3301160000
+264,Světlice barvířská,Safflower,safflower,3301083900
+276,Jahodník,Strawberry,strawberries,3301130000
+315,Bojínek hlíznatý,Phleum bertolonii (grass),temporary_grass,3301090100
+316,Bojínek luční,Timothy grass,timothy,3301090209
+317,Festulolium,Festulolium,festulolium,3301090204
+318,Jílek hybridní,hybrid ryegrass,lolium_ryegrass,3301090205
+319,Jílek mnohokvětý italský,Italian ryegrass,lolium_ryegrass,3301090205
+320,Jílek mnohokvětý jednoletý,ryegrass,lolium_ryegrass,3301090205
+321,Jílek vytrvalý,perennial ryegrass,lolium_ryegrass,3301090205
+322,Kostřava červená,Red fescue,festuca_fescue,3301090202
+323,Kostřava luční,Meadow fescue,festuca_fescue,3301090202
+324,Kostřava ovčí,Sheep fescue,festuca_fescue,3301090202
+325,Kostřava rákosovitá,tall fescue,festuca_fescue,3301090202
+327,Lipnice hajní,wood bluegrass,poaceae_grasses,3301090200
+328,Lipnice luční,Kentucky bluegrass,poaceae_grasses,3301090200
+331,Medyněk vlnatý,Yorkshire fog,poaceae_grasses,3301090200
+333,Ovsík vyvýšený,bulbous oat grass,poaceae_grasses,3301090200
+334,Poháňka hřebenitá,crested dog's-tail,poaceae_grasses,3301090200
+335,Psineček veliký,black bent,poaceae_grasses,3301090200
+336,Psineček tenký,common bent,poaceae_grasses,3301090200
+338,Psárka luční,meadow foxtail ,poaceae_grasses,3301090200
+339,Srha hajní (Srha Aschersonova),Dactylis polygama,cocksfoot_catgrass,3301090203
+340,Srha laločnatá (říznačka),cat grass,cocksfoot_catgrass,3301090203
+342,Trojštět žlutavý,Yellow Oatgrass,poaceae_grasses,3301090200
+343,Sveřep bezbranný,Bromus inermis,poaceae_grasses,3301090200
+344,Tomka vonná,sweet vernal grass,poaceae_grasses,3301090200
+349,Chrastice rákosovitá,reed canary grass,poaceae_grasses,3301090200
+351,Dočasný travní porost,Temporary grassland,temporary_grass,3301090100
+352,Brokolice,Broccoli,broccoli,3301210202
+353,Kedluben,Kohlrabi,kohlrabi,3301210209
+354,Celer bulvový,Celeriac,celeriac,3301250100
+356,Celer řapíkatý,Celery,celery,3301250000
+357,Cibule jarní,Spring onions,scallion,3301220500
+358,Cibule ozimá,Onions (Winter onions),onions,3301220400
+359,Čekanka salátová (hlávková),Radicchio,other_salads_lettuce_leaf_vegetables,3301319900
+361,Česnek jarní,Spring garlic,garlic,3301220200
+362,Česnek ozimý,Winter garlic,garlic,3301220200
+363,Fazol zahradní (keříčkový),Garden beans (bush),beans,3301020100
+364,Fazol zahradní (pnoucí),Garden beans (climbing),beans,3301020100
+365,Fenykl obecný,Fennel,fennel,3301170000
+366,Hrách zahradní (dřeňový),Garden peas,peas,3301020600
+367,Hrách zahradní (cukrový),Garden peas (sugar),peas,3301020600
+368,Chřest,Asparagus,asparagus,3301200000
+369,Kapusta kadeřavá (kadeřávek),Kale,kale,3301210208
+370,Kapusta hlávková jarní,Spring cabbage,brassica_oleracea_cabbage,3301210200
+371,Kapusta růžičková,Brussels sprouts,brussels_sprouts,3301210203
+373,Kukuřice cukrová,Sweet corn,grain_maize_corn_popcorn,3301010600
+374,Kukuřice pukancová,Popcorn,grain_maize_corn_popcorn,3301010600
+375,Květák,Cauliflower,cauliflower,3301210204
+376,Křen selský víceletý,Perennial horseradish,horseradish,3301210400
+377,Lilek vejcoplodý (baklažán),Eggplant (eggplant),aubergine_eggplant,3301260000
+378,Mangold,Chard,chard,3301310100
+379,Meloun cukrový,Muskmelon,melon,3301140300
+380,Meloun vodní,Watermelon,watermelon,3301140500
+381,Mrkev krmná,Fodder Carrot,carrots_daucus,3301290300
+382,Mrkev jedlá,Carrot,carrots_daucus,3301290300
+383,Okurka nakládačka,Gherkin,cucumber_pickle,3301140100
+384,Okurka salátová,salad Cucumber,cucumber_pickle,3301140100
+385,Paprika kořeninová,Allspice paprika,bell_pepper_paprika,3301300100
+386,Paprika zeleninová,Vegetable paprika,bell_pepper_paprika,3301300100
+387,Pastinák,Parsnip,parsnips,3301290500
+388,Pažitka,Chive,chives,3301220100
+389,Petržel kořenová,Petroselinum,parsley,3301061227
+390,Petržel naťová,Parsley,parsley,3301061227
+391,Pór jarní,Spring leek,leek,3301220300
+392,Rajče determinantní,Tomato determinant,tomato,3301280000
+393,Rajče indeterminantní,Tomato indeterminate,tomato,3301280000
+395,Ředkev (jinde neuvedená),Radish (not elsewhere specified),radish,3301290600
+396,Ředkvička,Garden radish,radish,3301290600
+397,Řepa salátová,Beetroot,beetroot_beets,3301290200
+398,Řeřicha zahradní,Garden cress,cress,3301210300
+399,Salát hlávkový,Butterhead lettuce,other_salads_lettuce_leaf_vegetables,3301319900
+400,Salát listový,coral lettuce,other_salads_lettuce_leaf_vegetables,3301319900
+401,Salát římský,Romaine lettuce,other_salads_lettuce_leaf_vegetables,3301319900
+406,Tykev obecná (s výjimkou tykve olejné),Field Pumpkin (except butternut squash),pumpkin_squash_gourd,3301140400
+407,Tykev olejná,oilseed pumpkin,pumpkin_squash_gourd,3301140400
+408,Tykev velkoplodá,Cucurbita maxima,pumpkin_squash_gourd,3301140400
+409,Vodnice,Turnip,turnips,3301290800
+410,Zelí čínské,Chinese cabbage Bok choy,bok_choy_pak_choi,3301210201
+411,Zelí hlávkové bílé,Cabbage white,white_cabbage,3301210212
+412,Zelí hlávkové červené,Cabbage red,red_cabbage,3301210210
+413,Zelí pekingské,Napa cabbage,chinese_cabbage,3301210205
+414,Cibule zimní (sečka),Welsh onion,scallion,3301220500
+416,Šalotka,Shallots,shallot,3301220600
+421,Brambory sadbové,Seed potatoes,potatoes,3301030000
+422,Směsky luskovin,Legume mixes,legumes_dried_pulses_protein_crops,3301020000
+423,Směsky obilovin,Cereal mixtures,cereal,3301010000
+424,Trávy s leguminozami,Grasses with legumes,pasture_meadow_grassland_grass,3302000000
+425,Pastevní směs trav,Pasture mixture of grasses,pasture_meadow_grassland_grass,3302000000
+426,Luční směs trav,Grass meadow mix,pasture_meadow_grassland_grass,3302000000
+430,Brambory průmyslové,Industrial potatoes,potatoes,3301030000
+431,Jetelotravní směs (s převahou jetelovin),Clover grass mix (clover dominated),clover,3301090303
+432,Luskoobilní směs bez podsevu,Legume mixture without undersowing,legumes_dried_pulses_protein_crops,3301020000
+433,Kukuřice na siláž,silage maize,green_silo_maize,3301090400
+434,Kukuřice na zrno,Grain maize,grain_maize_corn_popcorn,3301010600
+435,Okrasné rostliny a trvalky nerozlišené (více druhů),Ornamental plants and perennials n.e.c. (more species),flowers_ornamental_plants,3301080000
+436,Zelenina brukvovitá (více druhů),Cruciferous vegetables (multiple types),brassicaceae_cruciferae,3301210000
+437,Zelenina tykvovitá (více druhů),Squash vegetables (multiple types),pumpkin_squash_gourd,3301140400
+438,Zelenina miříkovitá (více druhů),Apiaceae vegetables (multiple types),aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+439,Léčivé rostliny (více druhů),Medicinal plants (multiple species),aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+444,Cuketa,Zucchini,zucchini_courgette,3301140600
+445,Salát ledový,Iceberg salad,iceberg,3301310400
+446,Lupina modrá,Lupine blue,sweet_lupins,3301020700
+449,Žito trsnaté (lesní),Sepp Holzer Rye,unspecified_season_rye,3301010399
+451,Úhor bez porostu,Fallow without vegetation,fallow_land_not_crop,3301110000
+453,Ozdobnice obrovská,giant miscanthus,miscanthus_silvergrass,3301083000
+454,Mužák prorostlý,cup plant,silphium_rosinweeds,3301084400
+455,Mastňák habešský,niger,guizotia_abyssinica_nyger,3301060900
+457,Směs trav pro energetické využití,A mixture of grasses for energy use,energy_crops,3304010000
+458,Směs krmná (čejka),Feed mixture (lark),not_known_and_other,3399000000
+459,Směs pro krmný biopás,Mixture for feed biobelt,not_known_and_other,3399000000
+460,Směs pro nektarodárný biopás,Mixture for nectar-giving biobelt,not_known_and_other,3399000000
+461,Směs pro opylovače (čejka),Mixture for pollinators,not_known_and_other,3399000000
+463,Dočasně nezpůsobilá plocha,Temporarily ineligible area,not_known_and_other,3399000000
+464,Orná bez plodiny,Arable without a crop,unmaintained,3308000000
+465,Špenát jarní,Spring spinach,spinach,3301310800
+466,Tykev pomíchaná,Mixed pumpkin,pumpkin_squash_gourd,3301140400
+468,Vojtěškotravní směs (s převahou jetelovin),Alfalfa mixture (predominantly clovers),clover,3301090303
+469,Ostatní směsky,Other mixes,not_known_and_other,3399000000
+470,Tykev muškátová,Crookneck pumpkin,pumpkin_squash_gourd,3301140400
+471,Trávy pro ochranné pásy,Grasses for protective strips,pasture_meadow_grassland_grass,3302000000
+473,Směs pro souvrať,Headland mix,not_known_and_other,3399000000
+474,Směs pro meziplodiny,Mixture for catch crops,not_known_and_other,3399000000
+522,Směs pro erozní pás,Mixture for erosion belt,not_known_and_other,3399000000
+524,Batáty,Sweet potatoes,sweet_potatoes,3301040000
+527,Dobromysl obecná,Oregano,oregano,3301061226
+529,Hrachor,Lathyrus,peas,3301020600
+530,Chmel sadba,Hops seedling,hops,3301060200
+532,Kopřiva dvoudomá,Stinging nettle,nettles,3301061225
+533,Roketa setá (rukola),"Rocket, Rucola",rocket_arugula,3301310600
+535,Merlík čilský,Quinoa ,quinoa,3301150300
+536,Mák setý ozimý,Poppy sown winter,winter_poppy,3301060601
+537,Směs trav čeledi lipnicovité,A mixture of grasses of the poaceae family,poaceae_grasses,3301090200
+538,Oves hřebílkatý,lopsided oat,unspecified_season_oats,3301010599
+539,Kostřava vláskovitá,hair fescue,festuca_fescue,3301090202
+540,Kostřava drsnolistá,hard fescue,festuca_fescue,3301090202
+541,Jestřabina východní,eastern galega,galega,3301081900
+542,Jetel alexandrijský,Berseem clover,clover,3301090303
+543,Bob polní,Field Bean,beans,3301020100
+545,Sveřep sitecký,Bromus grass,poaceae_grasses,3301090200
+546,Sveřep americký,rescuegrass,poaceae_grasses,3301090200
+547,Hořčice černá,Black mustard,mustard,3301210100
+548,Vojtěška proměnlivá,Hybrid Alfafa,alfalfa_lucerne,3301090301
+550,Mák setý jarní,Poppy sown in spring,summer_poppy,3301060602
+551,Brambory konzumní rané (sklizeň do 30.6.),Potatoes for consumption early (harvest until 30.6.),potatoes,3301030000
+552,Brambory konzumní pozdní,Late Potatoes,potatoes,3301030000
+554,Pšenice jednozrnka,Einkorn wheat,unspecified_season_einkorn,3301011399
+555,Špenát ozimý,Winter spinach,spinach,3301310800
+556,Citronová tráva,Lemon grass,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+557,Chrpa modrá,Cornflower blue,cornflowers,3301081000
+559,Kapusta hlávková ozimá,winter savoy cabbage,savoy_cabbage,3301210211
+560,Kmín kořenný jarní,spring Caraway,caraway,3301061211
+561,Máta huňatá,Bushy mint,mints_peppermint,3301061222
+562,Máta jemná,Mild mint,mints_peppermint,3301061222
+564,Máta klasnatá,Spearmint,mints_peppermint,3301061222
+565,Máta okrouhlolistá,Round-leaf mint,mints_peppermint,3301061222
+567,Pór ozimý,Winter leek,leek,3301220300
+571,Rozmarýn lékařský,Rosemary,rosemary,3301061230
+577,Směs zlepšujících netržních plodin (jinde neuvedených),Mixture of improved non-market crops (not elsewhere specified),not_known_and_other,3399000000
+582,Šťovík kyselý - krmný OK2,Common Sorrel,sorrel,3301310700
+587,Třapatka nachová (Terčovka nachová),purple coneflower,rudbeckia_coneflowers,3301083800
+588,Třezalka skvrnitá,spotted St. Johnswort,st_johns_wort,3301061234
+590,Žito energetické,rye for biogas,unspecified_season_rye,3301010399
+591,Ředkev setá černá,Black Spanish radish ,radish,3301290600
+592,Čičorka,crownvetch,vetches,3301090305
+593,Pelyněk pontický,Roman wormwood,artemisia,3301061206
+20002,Topol Maximovičův a jeho kříženci,Populus maximowiczii Henry,populus,3306070000
+20004,Topol chlupatoplodý a jeho kříženci,Populus trichocarpa,populus,3306070000
+20005,Topol vznešený a jeho kříženci,Populus ×generosa,populus,3306070000
+20007,Topol kanadský,Populus × canadensis,populus,3306070000
+20008,Topol Simonův a jeho kříženci,Populus simonii,populus,3306070000
+20010,Topol balzámový a jeho kříženci,Populus balsamifera,populus,3306070000
+20011,Topol černý,Populus nigra,populus,3306070000
+20012,Topol osika,Populus tremula,aspen,3306020000
+20013,Vrba bílá a její kříženci,White willow and its hybrids,willows_osiers,3306080000
+20014,Vrba jíva a její kříženci,goat willow and its hybrids,willows_osiers,3306080000
+20015,Vrba košíkářská a její kříženci,basket willow and its hybrids,willows_osiers,3306080000
+20017,Jasan ztepilý,European Ash,other_tree_wood_forest,3306990000
+20018,Olše lepkavá,European alder,other_tree_wood_forest,3306990000
+40005,Konopí - Bialobrzeskie ,Hemp,hemp_cannabis,3301061000
+40019,Konopí - Fedora 17  ,Hemp,hemp_cannabis,3301061000
+40020,Konopí - Felina 32,Hemp,hemp_cannabis,3301061000
+40026,Konopí - Finola  ,Hemp,hemp_cannabis,3301061000
+40027,Konopí - Futura 75  ,Hemp,hemp_cannabis,3301061000
+40040,Konopí - Santhica 27  ,Hemp,hemp_cannabis,3301061000
+40041,Konopí - Santhica 70 ,Hemp,hemp_cannabis,3301061000
+40045,Konopí - Tiborszállási,Hemp,hemp_cannabis,3301061000
+40047,Konopí - Tygra  ,Hemp,hemp_cannabis,3301061000
+40049,Konopí - Uso-31  ,Hemp,hemp_cannabis,3301061000
+40280,Konopí - Eletta Campana,Hemp,hemp_cannabis,3301061000
+40282,Konopí - Fibror 79,Hemp,hemp_cannabis,3301061000
+40299,Konopí - Henola,Hemp,hemp_cannabis,3301061000
+40326,Konopí - Futura 83,Hemp,hemp_cannabis,3301061000
+50015,Směs pro meziplodiny pro zlepšení struktury půdy,Mixture for catch crops to improve soil structure,not_known_and_other,3399000000
+50017,Jetelotravní směs (s převahou travin),Clover-grass mix (grass-dominated),pasture_meadow_grassland_grass,3302000000
+50018,Směs pro druhově bohaté pokrytí orné půdy ,Mixture for species-rich arable land coverage ,not_known_and_other,3399000000
+50019,Oves nahý ozimý,Naked winter oats,winter_oats,3301010501
+50020,Oves pluchatý ozimý,Fluffy winter oats,winter_oats,3301010501
+50021,Pšenice špalda jarní,Spring Spelt,spring_spelt,3301011002
+50024,Směs pro úhor s porostem,Mixture of Fallow and growth,fallow_land_not_crop,3301110000
+50025,Křen selský jednoletý,Annual horseradish,horseradish,3301210400
+50026,Směs bílkovinných plodin (PVN) jednoletých,A mixture of annual protein crops (PVN).,legumes_dried_pulses_protein_crops,3301020000
+50027,Směs bílkovinných plodin (PVN) jednoletých s ostatními plodinami do 50 %,Mixture of annual protein crops (PVN) with other crops up to 50%,legumes_dried_pulses_protein_crops,3301020000
+50028,Směs bílkovinných plodin (PVN) víceletých,Mixture of protein crops (PVN) of perennials,legumes_dried_pulses_protein_crops,3301020000
+50029,Směs bílkovinných plodin (PVN) víceletých s jednoletými plodinami do 50 %,Mixture of protein crops (PVN) perennial with annual crops up to 50%,legumes_dried_pulses_protein_crops,3301020000
+50030,Luskoobilní směs s podsevem PVN,Legume mix with PVN undersowing,legumes_dried_pulses_protein_crops,3301020000
+50031,Směs PVN neprodukčních jednoletých,VAT mixture of non-producing annuals,not_known_and_other,3399000000
+50032,Směs PVN neprodukčních jednoletých s ost. plodinami do 50 %,A mixture of PVN non-productive annuals with other crops up to 50%,not_known_and_other,3399000000
+50033,Směs PVN neprodukčních víceletých,VAT mixture of non-productive perennials,not_known_and_other,3399000000
+50034,Směs PVN neprodukčních víceletých s ost. plodinami do 50 %,A mixture of PVN non-productive perennials with other crops up to 50%,not_known_and_other,3399000000
+50035,Směs trav s PVN do 50 %,A mixture of grasses with PVN up to 50%,pasture_meadow_grassland_grass,3302000000
+50036,Vojtěškotravní směs (s převahou travin),Alfalfa grass mixture (with a predominance of grasses),pasture_meadow_grassland_grass,3302000000
+50037,Směs pro nektarodárný úhor (ekoplatba),Mixture for nectar fallow ,not_known_and_other,3399000000
+50038,Směs trav s nízkovzrůstající PVN do 10 %,A mixture of grasses with low-growing PVN up to 10%,fallow_land_not_crop,3301110000
+50040,Svazenka shloučená,Blue Curls,other_flowers_ornamental_plants,3301089900
+50041,Sadební materiál lesních dřevin,Forest planting material,unspecified_tree_wood_forest,3306980000
+50043,Směs pro souvrať (prémiová),Headland Mix (Premium),not_known_and_other,3399000000
+50044,Směs pro erozní pás (prémiová),Mixture for erosion belt (premium),not_known_and_other,3399000000
+50045,Směs pro dělící pás ,Mixture for dividing strip ,not_known_and_other,3399000000
+50047,Směs pro ozeleněný kolejový řádek (prémiová),Greening Lane Mix (Premium),not_known_and_other,3399000000
+50052,Úhor pro staré ekologické zemědělství,Fallow for old organic farming,fallow_land_not_crop,3301110000

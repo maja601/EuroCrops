@@ -20,7 +20,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 143,Sommerhafer,Summer oats,spring_oats,3301010502,summer_oats,3301010503
 132,Sommergerste,Summer barley,spring_barley,3301010402,summer_barley,3301010403
 599,Brachefläche Vertragsnaturs.,Fallow land of contract nature conservation,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
-910,Wildacker auf lw. Fläche,Wild field on agricultural area,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
+910,Wildacker auf lw. Fläche,Wild field on agricultural area,not_known_and_other,3399000000,other_arable_land_crops,3301990000
 220,Acker-/Puff-/Pferdebohne,Field / broad / horse bean,beans,3301020100,beans,3301020100
 924,Vertragsnaturs. ohne DZ,Contract nature conservation without direct payment,not_known_and_other,3399000000,not_known_and_other,3399000000
 583,Naturschutz (1307/2013-32-2bi),Nature conservation (1307 / 2013-32-2bi),not_known_and_other,3399000000,not_known_and_other,3399000000
@@ -38,7 +38,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 116,Sommerweichweizen,Summer soft wheat,spring_common_soft_wheat,3301010102,summer_common_soft_wheat,3301010103
 423,Luzerne,alfalfa,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
 112,Winterhartweizen/Durum,Winter hard wheat / durum,winter_durum_hard_wheat,3301010201,winter_durum_hard_wheat,3301010201
-613,Gemüsekohl (auch Zierkohl),Vegetable cabbage (also ornamental cabbage),fresh_vegetables,3301070000,fresh_vegetables,3301070000
+613,Gemüsekohl (auch Zierkohl),Vegetable cabbage (also ornamental cabbage),brassica_oleracea_cabbage,3301210200,fresh_vegetables,3301070000
 634,Möhre (auch Futtermöhre),Carrot (also feeding carrot),carrots_daucus,3301290300,carrots_daucus,3301290300
 996,Unbefestigte Mieten AL,unfixed rents AL,not_known_and_other,3399000000,not_known_and_other,3399000000
 983,Weihnachtsbäume,Christmas trees,tree_wood_forest,3306000000,tree_wood_forest,3306000000
@@ -62,17 +62,17 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 230,Lupinen,Lupins,sweet_lupins,3301020700,sweet_lupins,3301020700
 413,Futterrübe/Runkelrübe,Fodder beet / beetroot,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
 635,Gartenbohne,Kidney bean,beans,3301020100,beans,3301020100
-630,"Gartenkürbis (Zucchini, Zier.)",Pumpkin (Zucchini,zucchini_courgette,3301140600,zucchini_courgette,3301140600
+630,"Gartenkürbis (Zucchini, Zier.)",Pumpkin (Zucchini,pumpkin_squash_gourd,3301140400,zucchini_courgette,3301140600
 638,Spinat,spinach,spinach,3301310800,spinach,3301310800
 972,NFF: Dauergrünlandnutzung,NFF: permanent grassland use,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 157,Sommertriticale,Summer triticale,spring_triticale,3301010802,summer_triticale,3301010803
 320,Sonnenblumen,sunflowers,sunflower,3301060500,sunflower,3301060500
-914,Versuchsflächen (nur DZ-fähig),Trial areas (only direct payment possible),not_known_and_other,3399000000,not_known_and_other,3399000000
+914,Versuchsflächen (nur DZ-fähig),Trial areas (only direct payment possible),other_arable_land_crops,3301990000,not_known_and_other,3399000000
 144,Sommermenggetreide,Summer mixed grain,spring_unspecified_cereals,3301011502,summer_unspecified_cereals,3301011503
 702,Rollrasen,Turf,sod_turf,3301090207,sod_turf,3301090207
 850,Sonstige Dauerkulturen,Other permanent crops,other_permanent_crops_plantations,3303990000,other_permanent_crops_plantations,3303990000
 421,verschiedene Klee Sorten,different types of clover,clover,3301090303,clover,3301090303
-841,Niederwald mit Kurzumtrieb,Short rotation coppice,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+841,Niederwald mit Kurzumtrieb,Short rotation coppice,other_permanent_crops_plantations,3303990000,tree_wood_forest,3306000000
 802,"Silphium (Durchwachs., Becher)",Silphium (through-growth,silphium_rosinweeds,3301084400,silphium_rosinweeds,3301084400
 330,Sojabohnen,Soybeans,soy_soybeans,3301160000,soy_soybeans,3301160000
 576,SchutzstreifenErosion(nur AUM),Protective strip erosion (only AUM),not_known_and_other,3399000000,not_known_and_other,3399000000
@@ -110,7 +110,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 619,Weißer Senf,White mustard,mustard,3301210100,mustard,3301210100
 572,Uferrandstrfprog.(DGL nur AUM),Bank edge control program (permanent greenland only AUM),not_known_and_other,3399000000,not_known_and_other,3399000000
 834,Walnüsse,Walnuts,walnuts,3303030600,walnuts,3303030600
-999,Gattung/Art (nicht in Liste),Genus / species (not in list),not_known_and_other,3399000000,not_known_and_other,3399000000
+999,Gattung/Art (nicht in Liste),Genus / species (not in list),other_arable_land_crops,3301990000,not_known_and_other,3399000000
 618,Gartenrettiche,Garden radishes,radish,3301290600,radish,3301290600
 182,Buchweizen,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
 341,"Lein (Flachs, Leinsamen)",Flax (flax linseed),flax_linseed,3301060700,flax_linseed,3301060700
@@ -122,15 +122,15 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 183,Möhren-/Zuckerhirse,Sorghum bicolor,millet_sorghum,3301010900,millet_sorghum,3301010900
 907,Höhere Gewalt (Zuweisung),Force majeure (assignment),not_known_and_other,3399000000,not_known_and_other,3399000000
 672,"Minzen (Pfefferm., Grüne M.)",Mints (pepperm. Green m.),mints_peppermint,3301061222,mints_peppermint,3301061222
-414,Kohl-/Steckrüben (Winter),Turnips (winter),turnips,3301290800,turnips,3301290800
+414,Kohl-/Steckrüben (Winter),Turnips (winter),swede_rutabaga,3301210500,turnips,3301290800
 240,Gemenge Erbsen/Bohnen,Mixed peas / beans,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
 840,Korbweiden,Osier,willows_osiers,3306080000,willows_osiers,3306080000
 772,"Nelken (Bartn., Land/Edel)",Carnations (Bard / noble carnation),carnation,3301080800,carnation,3301080800
 862,Heidekraut,Heather,ericaceae_heather,3301061216,ericaceae_heather,3301061216
 863,"Rosen, Schnittrosen",Roses cut roses,roses,3301083700,roses,3301083700
-624,"Paprika, Chilli, Peperoni",Paprika chilli hot peppers,chili_pepper,3301300200,chili_pepper,3301300200
+624,"Paprika, Chilli, Peperoni",Paprika chilli hot peppers,capsicum,3301300000,chili_pepper,3301300200
 706,"Mohn (Schlafmohn, Backmohn)",Poppy seeds,poppy,3301060600,poppy,3301060600
-789,Veronica/Hebe/Ehrenpreis,Hebe,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+789,Veronica/Hebe/Ehrenpreis,Hebe,other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
 839,Beerenobst zur Vermehrung,berries for propagation,berries_berry_species,3303020000,berries_berry_species,3303020000
 733,Astern (Sommeraster),Asters,asters,3301080300,asters,3301080300
 956,Aufforstung,Afforestation,afforestation_reforestation,3306010000,afforestation_reforestation,3306010000
@@ -138,7 +138,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 221,Wicken (Pannoni./Zottel/Saat),Vetches,vetches,3301090305,vetches,3301090305
 673,"Artemisia (Wer., Estr., Beif.)",Artemisia (Wer. Estr. Beif.),artemisia,3301061206,artemisia,3301061206
 660,Basilikum,basil,basil,3301061207,basil,3301061207
-620,Gemüserübe,Vegetable turnip,turnips,3301290800,turnips,3301290800
+620,Gemüserübe,Vegetable turnip,swede_rutabaga,3301210500,turnips,3301290800
 746,Tulpen (Garten-Tulpe),Tulips (garden tulip),tulips,3301084900,tulips,3301084900
 734,"Chrysantheme, Winteraster",Chrysanthemum winter aster,chrysanthemum,3301080900,chrysanthemum,3301080900
 661,Rosmarin,rosemary,rosemary,3301061230,rosemary,3301061230
@@ -149,7 +149,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 726,Lilien (Türkenbund),Lilies (turkish union),lilies,3301082500,lilies,3301082500
 786,Fingerhut,thimble,thimbles,3301084800,thimbles,3301084800
 669,Thymian (auch Gartenthymian),Thyme (also garden thyme),thyme,3301061237,thyme,3301061237
-751,Rhodiola (Rosenwurz),Rhodiola (rose root),aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+751,Rhodiola (Rosenwurz),Rhodiola (rose root),other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 315,Winterrübsen (auch Rübsamen),Winter turnip rape (also rapeseed),winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
 671,Enziane,Gentians,gentians,3301082000,gentians,3301082000
 708,Färberdisteln,Safflower,safflower,3301083900,safflower,3301083900
@@ -168,7 +168,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 567,Langj. o. 20 j.Stilll. DGL,Longterm. o. 20 years old stilll. Permanent grass land,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 780,Begonien,Begonias,begonias,3301080400,begonias,3301080400
 187,Quinoa,Quinoa,quinoa,3301150300,quinoa,3301150300
-631,Melone (Citrullus) (Wasserm.),Melon (Citrullus) (Waterm.),melon,3301140300,melon,3301140300
+631,Melone (Citrullus) (Wasserm.),Melon (Citrullus) (Waterm.),watermelon,3301140500,melon,3301140300
 429,Esparsette,Esparsette,esparsette_onobrychis,3301020300,esparsette_onobrychis,3301020300
 778,Alpendistel,Alpine thistle,marian_thistles,3301061300,marian_thistles,3301061300
 316,Sommerrübsen (auch Rübsamen),Summer turnip rape (also rapeseed),spring_rapeseed_rape,3301060402,summer_rapeseed_rape,3301060403
@@ -178,7 +178,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 657,Koriander,coriander,coriander,3301061215,coriander,3301061215
 674,Ringelblumen (Garten-R.),Marigolds (garden r.),calendula_marigold,3301061210,calendula_marigold,3301061210
 776,Veilchen und Stiefmütterchen,Violets and pansies,violets_pansies,3301085100,violets_pansies,3301085100
-735,Strohblumen (Garten),Everlasting flowers (garden),flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+735,Strohblumen (Garten),Everlasting flowers (garden),other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
 681,Frauenmantel,Lady's mantle,alchemilla_ladys_mantle,3301061202,alchemilla_ladys_mantle,3301061202
 678,Schafgarben (Gelbe Schafgarbe),Yarrow (yellow yarrow),yarrow,3301061239,yarrow,3301061239
 785,Eukalyptus,eucalyptus,eucalyptus,3306050000,eucalyptus,3306050000
@@ -191,19 +191,19 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 685,Engelwurzen,Angelica,angelica,3301061204,angelica,3301061204
 427,"Hornklee, Hornschotenklee",Horn clover horn pod clover,clover,3301090303,clover,3301090303
 649,Gemüserübsen,Vegetable turnips,turnips,3301290800,turnips,3301290800
-757,Garten-Montbretie,Garden Montbretie,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+757,Garten-Montbretie,Garden Montbretie,other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
 510,Goldrute (Solidago),Goldenrod (Solidago),goldenrod,3301082200,goldenrod,3301082200
 756,Löwenmäulchen,Snapdragons,snapdragons,3301084500,snapdragons,3301084500
 727,Narzissen / Osterglocken,Daffodils / daffodils,narcissus_daffodil,3301083300,narcissus_daffodil,3301083300
 771,Portulak,Purslane,purslane,3301240000,purslane,3301240000
 787,Fuchsien,Fuchsias,fuchsias,3301081800,fuchsias,3301081800
 743,Zinnien,Zinnias,zinnias,3301085200,zinnias,3301085200
-773,Ageratum (Gew. Leberbalsam),Ageratum (weight liver balm),flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+773,Ageratum (Gew. Leberbalsam),Ageratum (weight liver balm),other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
 804,Sida (Virginiamalve),Sida (Virginia Mallow),sida_virginia_mallow,3304030000,sida_virginia_mallow,3304030000
 515,Mühlenbeckia/Drahtsträucher,wire bushes,wire_bush,3303080700,wire_bush,3303080700
 642,Ampfer (Wiesen-Sauerampfer),Dock (meadow sorrel),sorrel,3301310700,sorrel,3301310700
 973,NFF: Ackernutzung,NFF: arable land use,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
-686,Malven (Wilde Malve),Mallow (Wild Mallow),flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+686,Malven (Wilde Malve),Mallow (Wild Mallow),other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
 793,Taubenkropf-/Leimkraut,Pigeon goiter / catchfly,silene_catchfly,3301084300,silene_catchfly,3301084300
 753,Hibiskus,hibiscus,hibiscus,3301061218,hibiscus,3301061218
 790,Anemonen,Anemones,anemones_windflowers,3301080200,anemones_windflowers,3301080200
@@ -214,7 +214,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 653,Bibernellen (Anis),Bibernels (aniseed),anise_aniseed,3301061205,anise_aniseed,3301061205
 617,Gartenkresse,Garden cress,cress,3301210300,cress,3301210300
 212,Platterbse,Flat pea,peas,3301020600,peas,3301020600
-676,Wegeriche (Spitzwegerich),Plantain (ribwort),aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+676,Wegeriche (Spitzwegerich),Plantain (ribwort),other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 645,Kichererbsen,Chickpeas,chickpeas,3301020200,chickpeas,3301020200
 520,Silberbrandschopf,Silver comb,silver_comb,3301061233,silver_comb,3301061233
 765,Kapuzinerkressen,Capuchin cresses,cress,3301210300,cress,3301210300
@@ -222,10 +222,10 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 704,Glanzgräser,Glossy grass,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 797,Rhizinus,Castor,ricinus_castor,3303080600,ricinus_castor,3303080600
 710,Färberkrapp (Rubia tinctorum),Common madder (Rubia tinctorum),rubia_tinctorum_common_madder,3301061231,rubia_tinctorum_common_madder,3301061231
-748,Feldrittersporne,Field Knight Spurs,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
-770,Vergissmeinnicht (Wald-Verg.),Forget-Me-Not (Forest Forg.),flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+748,Feldrittersporne,Field Knight Spurs,other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
+770,Vergissmeinnicht (Wald-Verg.),Forget-Me-Not (Forest Forg.),other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
 769,"Zieste (Deutscher, Knollen)",Hedgenettles (German Knollen),stachys_hedgenettle_chinese_artichoke,3301061235,stachys_hedgenettle_chinese_artichoke,3301061235
-665,Bohnenkräuter,Savory herbs,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+665,Bohnenkräuter,Savory herbs,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 518,Polygonum,Polygonum,polygonum,3301061229,polygonum,3301061229
 732,Milchstern (Kap-Milchstern),Milky Star (Cape Milky Star),milk_star,3301082900,milk_star,3301082900
 752,"Krokusse (Safran, Garten-K.)",Crocuses (saffron,saffron_crocus_sativus,3301061232,saffron_crocus_sativus,3301061232
@@ -236,7 +236,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 628,Zuckermelone (cucumis melo),Sugar melon (cucumis melo),melon,3301140300,melon,3301140300
 640,Melde (Garten-Melde),Report (garden report),kitchen_gardens,3301120000,kitchen_gardens,3301120000
 654,Kümmel (Echter Kümmel),Caraway (real caraway),caraway,3301061211,caraway,3301061211
-730,Seidenpflanzen (Indianer-S.),Silk plants (Indian-S.),flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+730,Seidenpflanzen (Indianer-S.),Silk plants (Indian-S.),other_flowers_ornamental_plants,3301089900,flowers_ornamental_plants,3301080000
 738,Rudbeckien (Sonnenhut),Rudbeckia (coneflower),rudbeckia_coneflowers,3301083800,rudbeckia_coneflowers,3301083800
 430,Serradella,Serradella,serradella,3301084200,serradella,3301084200
 783,Schildblume (Chelone),Shield flower (chelone),flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
