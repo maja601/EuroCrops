@@ -74,7 +74,6 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 707,Grønkorn af vinterhvede,Green grain of winter wheat,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
 113,Engrapsgræsfrø (plænetype),Kentucky bluegrass seed (turfgrass type),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 111,"Svingelfrø, strand-",Tall fescue seeds,festuca_fescue,3301090202,festuca_fescue,3301090202
-603,MFO - Poppel (0-100 andre træer pr. ha),EFA - Poplar (0-100 other trees per hectare),tree_wood_forest,3306000000,tree_wood_forest,3306000000
 261,"Kløvergræs, over 50% kløver (omdrift)",Clover grass over 50% clover (rotation),clover,3301090303,clover,3301090303
 149,"Kartofler, lægge- (certificerede)",Seed Potatoes (certified),potatoes,3301030000,potatoes,3301030000
 106,Hundegræsfrø,Cocksfoot seeds,temporary_grass,3301090100,temporary_grass,3301090100
