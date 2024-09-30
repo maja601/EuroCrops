@@ -6,7 +6,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 8,Bér vlašský (italský),Millet,unspecified_season_millet_sorghum,3301010999
 9,Čirok cukrový,Sugar sorghum,unspecified_season_millet_sorghum,3301010999
 10,Ředkev olejná,Radishes,radish,3301290600
-11,Sléz přeslenitý,Chinese mallow,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+11,Sléz přeslenitý,Chinese mallow,other_flowers_ornamental_plants,3301089900
 12,Svazenka vratičolistá,Lacy phacelia,phacelia,3301061400
 14,Kapusta krmná,Fodder Cabbage,other_brassica_oleracea_cabbage,3301210299
 15,Šťovík,Dock and Sorrel,sorrel,3301310700
@@ -20,7 +20,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 26,Heřmánek pravý,Chamomile,chamomile,3301061213
 28,Jablečník obecný,Common apple tree,apples,3303010200
 30,Jestřabina lékařská,galega,galega,3301081900
-31,Jitrocel kopinatý,ribwort plantain,other_flowers_ornamental_plants,3301089900
+31,Jitrocel kopinatý,ribwort plantain,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
 33,Kozlík lékařský,Valerian ,valerian,3301061238
 34,Levandule lékařská,English lavender,lavender_lavandula,3301061219
 35,Lékořice lysá,licorice ,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
@@ -29,11 +29,11 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 39,Meduňka lékařská,Lemon balm,lemon_balm_melissa,3301061220
 44,Ostropestřec mariánský,Milk thistle,marian_thistles,3301061300
 46,Pelyněk kozalec (estragon),Tarragon,tarragon,3301061236
-48,Proskurník lékařský,marshmallow,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+48,Proskurník lékařský,marshmallow,other_flowers_ornamental_plants,3301089900
 49,Topolovka růžová,common hollyhock,other_flowers_ornamental_plants,3301089900
 50,Reveň dlanitá,Chinese rhubarb,other_flowers_ornamental_plants,3301089900
 53,Řepík lékařský,common agrimony,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
-55,Sléz maurský,Moorish mallow,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
+55,Sléz maurský,Moorish mallow,other_flowers_ornamental_plants,3301089900
 56,Šalvěj lékařská,Sage,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
 57,Třezalka tečkovaná,St. John's wort,st_johns_wort,3301061234
 58,Tymián obecný,Thyme,thyme,3301061237

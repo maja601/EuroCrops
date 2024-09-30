@@ -1,0 +1,299 @@
+original_name,original_code,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
+Froment d?'hiver,,Winter wheat,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+Froment d'hiver,311,Winter wheat,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+Froment d’hiver,,Winter wheat,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+Froment de printemps,312,Spring wheat,spring_common_soft_wheat,3301010102,summer_common_soft_wheat,3301010103
+Seigle d?'hiver,,Winter rye,winter_rye,3301010301,winter_rye,3301010301
+Seigle d'hiver,,Winter rye,winter_rye,3301010301,winter_rye,3301010301
+Seigle d’hiver,331,Winter rye,winter_rye,3301010301,winter_rye,3301010301
+Seigle de printemps,332,Spring rye,spring_rye,3301010302,spring_rye,3301010302
+Orge de brasserie,323,Malting barley,unspecified_season_barley,3301010499,unspecified_season_barley,3301010499
+Orge de brasserie ,,Malting barley,unspecified_season_barley,3301010499,unspecified_season_barley,3301010499
+Orge d?'hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+Orge d'?hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+Orge d'hiver,321,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+Orge d’hiver,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+Orge d'hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+Orge d’hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
+Orge de printemps,322,Spring barley,spring_barley,3301010402,spring_barley,3301010402
+Orge de printemps ,,Spring barley,spring_barley,3301010402,spring_barley,3301010402
+Avoine,,Oats,unspecified_season_oats,3301010599,unspecified_season_oats,3301010599
+Avoine d'hiver,341,Winter oats,winter_oats,3301010501,winter_oats,3301010501
+Avoine de printemps,342,Spring oats,spring_oats,3301010502,spring_oats,3301010502
+Maïs grain,202,Grain corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+Triticale d'hiver,,Winter triticale,winter_triticale,3301010801,winter_triticale,3301010801
+Triticale de printemps,,Spring triticale,spring_triticale,3301010802,spring_triticale,3301010802
+Sorgho,381,Sorghum,millet_sorghum,3301010900,millet_sorghum,3301010900
+Epeautre,,Spelt,unspecified_season_spelt,3301011099,unspecified_season_spelt,3301011099
+Epeautre d'hiver,36,Winter spelt,winter_spelt,3301011001,winter_spelt,3301011001
+Epeautre de printemps,,Spring spelt,spring_spelt,3301011002,spring_spelt,3301011002
+Petit épeautre,,Einkorn,einkorn,3301011300,einkorn,3301011300
+Céréales ET légumineuses,,Cereals AND pulses,unspecified_cereals,3301011500,unspecified_cereals,3301011500
+Céréales et légumineuses,39,Cereals and legumes,unspecified_cereals,3301011500,unspecified_cereals,3301011500
+Mélange de céréales d'hiver ( plus de 50%) et de  légumineuses (plus de 20%),,Mixture of winter cereals (over 50%) and legumes (over 20%),winter_unspecified_cereals,3301011501,winter_unspecified_cereals,3301011501
+Mélange de céréales d'hiver uniquement,,Mixture of winter cereals only,winter_unspecified_cereals,3301011501,winter_unspecified_cereals,3301011501
+Mélange de céréales de printemps ( plus de 50%) et de  légumineuses (plus de 20%),,Mixture of spring cereals (over 50%) and legumes (over 20%),spring_unspecified_cereals,3301011502,spring_unspecified_cereals,3301011502
+Mélange de céréales de printemps uniquement,,Mixture of spring cereals only,spring_unspecified_cereals,3301011502,spring_unspecified_cereals,3301011502
+Autres protéagineux,,Other protein crops,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+Légume légumineuse,,Leguminous vegetable,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+Mélange protéagineux (culture principale) & céréales,,Protein crop mix (main crop) & cereals,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+Mélange protéagineux d'hiver + céréales ou autres espèces,,Winter protein crop mix + cereals or other species,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+Mélange protéagineux de printemps + céréales ou autres espèces,,Spring protein crop mix + cereals or other species,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+Fèves et Féveroles d'hiver,,Winter Broad Beans,beans,3301020100,beans,3301020100
+Fèves et Féveroles de printemps,,Spring Broad Beans,beans,3301020100,beans,3301020100
+Haricots,9410,Beans,beans,3301020100,beans,3301020100
+Haricots de conserverie,,Canning beans,beans,3301020100,beans,3301020100
+Haricots nains (p. ex. haricots rouges) pour consommation en produit frais,,Dwarf beans (e.g. kidney beans) for consumption as fresh product,beans,3301020100,beans,3301020100
+Haricots verts (transformation industrielle),,Green beans (industrial processing),beans,3301020100,beans,3301020100
+Haricots verts pour l’industrie,,Green beans for industry,beans,3301020100,beans,3301020100
+Pois (autres que récoltés secs) (transformation industrielle),,Peas (other than harvested dry) (industrial processing),peas,3301020600,peas,3301020600
+Pois (autres que récoltés secs) pour l’industrie,,Peas (other than harvested dry) for industry,peas,3301020600,peas,3301020600
+Pois protéagineux,,Protein peas,peas,3301020600,peas,3301020600
+Pois protéagineux d?'hiver,,Winter protein peas,peas,3301020600,peas,3301020600
+Pois protéagineux d'?hiver,,Winter protein peas,peas,3301020600,peas,3301020600
+Pois protéagineux d'hiver,,Winter protein peas,peas,3301020600,peas,3301020600
+Pois protéagineux d’hiver,,Winter protein peas,peas,3301020600,peas,3301020600
+Pois protéagineux de printemps ,,Spring protein peas ,peas,3301020600,peas,3301020600
+"Pois récoltés à l'état frais, pois de conserverie",931,"Peas harvested fresh,canning peas",peas,3301020600,peas,3301020600
+Lupin doux,53,Sweet lupine,sweet_lupins,3301020700,sweet_lupins,3301020700
+Pomme de terre (arrachage avant le 1er août),,Potatoes (uprooted before August 1),potatoes,3301030000,potatoes,3301030000
+Pomme de terre (non hâtives),901,Potato (not early),potatoes,3301030000,potatoes,3301030000
+Pomme de terre (plants),902,Potato (plants),potatoes,3301030000,potatoes,3301030000
+"Pomme de terre (primeur, arrachage avant le 20 juin)",,"Potatoes (early, harvested before June 20)",potatoes,3301030000,potatoes,3301030000
+Pomme de terre féculière,,Starch potato,potatoes,3301030000,potatoes,3301030000
+Pomme de terre hâtives ,,Early potatoes ,potatoes,3301030000,potatoes,3301030000
+Autres fourrages,743,Other fodder,fodder_roots,3301050000,fodder_roots,3301050000
+Navets fourragers,746,Foraged turnips,fodder_roots,3301050000,fodder_roots,3301050000
+Cultures horticoles non-comestibles,96,Non-edible horticultural crops,industrial_nonfood_crops,3301060000,industrial_nonfood_crops,3301060000
+Tabac,9821,Tobacco,tobacco,3301060100,tobacco,3301060100
+Houblon,9822,Hop,hops,3301060200,hops,3301060200
+Colza d?'hiver,,Winter rapeseed,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+Colza d'?hiver,,Winter rapeseed,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+Colza d'hiver,4111,Winter rapeseed,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+Colza d’hiver,,Winter rapeseed,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+Colza de printemps,4121,Spring rapeseed,spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
+Tournesol,42,Sunflower,sunflower,3301060500,sunflower,3301060500
+Lin textile,921,Textile linen,flax_linen,3301060701,flax_linen,3301060701
+Lin oléagineux,45,Oilseed flax,flax_linseed_oil,3301060702,flax_linseed_oil,3301060702
+Autres oléagineux,,Other oilseeds,oilseed_crops,3301060800,oilseed_crops,3301060800
+Autres oléagineux ,,Other oilseeds,oilseed_crops,3301060800,oilseed_crops,3301060800
+Chanvre non textile (culture soumise à autorisation préalable au semis),872,Non-textile hemp (crop subject to prior authorization for sowing),hemp_cannabis,3301061000,hemp_cannabis,3301061000
+Chanvre textile,,Hemp textile,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+Chanvre textile (culture soumise à autorisation préalable au semis),922,Textile hemp (crop subject to prior authorization for sowing),hemp_cannabis,3301061000,hemp_cannabis,3301061000
+Plantes aromatiques,,Aromatic plants,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+Plantes médicinales,957,Medicinal plants,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+Angélique,,Angelica,angelica,3301061204,angelica,3301061204
+Cerfeuil (consommation au frais),,Chervil (store in a cool place),chervil,3301061214,chervil,3301061214
+Cerfeuil (transformation industrielle),,Chervil (industrial processing),chervil,3301061214,chervil,3301061214
+Cerfeuil pour consommation en produit frais,,Chervil for fresh consumption,chervil,3301061214,chervil,3301061214
+Cerfeuil pour l’industrie,,Chervil for industry,chervil,3301061214,chervil,3301061214
+Ortie,,Nettle,nettles,3301061225,nettles,3301061225
+Ortie ,,Nettle,nettles,3301061225,nettles,3301061225
+Persil,959,Parsley,parsly,3301061227,parsly,3301061227
+Persil (consommation au frais),,Parsley (store in a cool place),parsly,3301061227,parsly,3301061227
+Persil (transformation industrielle),,Parsley (industrial processing),parsly,3301061227,parsly,3301061227
+Persil à grosse racine,961,Parsley root,parsly,3301061227,parsly,3301061227
+Persil pour consommation en produit frais,,Parsley for fresh consumption,parsly,3301061227,parsly,3301061227
+Persil pour l’industrie,,Parsley for industry,parsly,3301061227,parsly,3301061227
+Sainfoin (Onobrychis sativa),,Sainfoin,onobrychis_sainfoins,3301061600,onobrychis_sainfoins,3301061600
+Autres légumes,,Other vegetables,fresh_vegetables,3301070000,fresh_vegetables,3301070000
+Autres légumes de plein air,951,Other outdoor vegetables,fresh_vegetables,3301070000,fresh_vegetables,3301070000
+Autres plantes ornementales,,Other ornamental plants,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+Autres plantes ornementales de plein air,,Other outdoor ornamental plants,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+Plantes ornementales d'hiver,,Winter ornamentals,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+Plantes ornementales rustiques,,Hardy ornamental plants,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
+Miscanthus,884,Miscanthus,miscanthus_silvergrass,3301083000,miscanthus_silvergrass,3301083000
+Scorsonère,9533,black salsify ,salsify,3301084000,salsify,3301084000
+Scorsonère pour l’industrie,,black salsify for industry ,salsify,3301084000,salsify,3301084000
+Silphie,,Cup plant,silphium_rosinweeds,3301084400,silphium_rosinweeds,3301084400
+Mélange d'hiver de légumineuses prépondérantes  (plus de 50%) et de céréales ou autres espèces,541,Winter mixture of predominant legumes (more than 50%) and cereals or other species,legumes_harvested_green,3301090300,legumes_harvested_green,3301090300
+Mélange de printemps de légumineuses prépondérantes  (plus de 50%) et  de céréales ou autres espèces,542,Spring mixture of predominant legumes (more than 50%) and cereals or other species,legumes_harvested_green,3301090300,legumes_harvested_green,3301090300
+Mélange légumineuses fourragères + céréales ou autres espèces,,Mixture of forage legumes + cereals or other species,legumes_harvested_green,3301090300,legumes_harvested_green,3301090300
+Luzerne,,Alfalfa,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+Luzerne lupuline ,,Lupuline alfalfa ,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+Luzerne pérenne,,Perennial alfalfa,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+Trèfles,,Clover,clover,3301090303,clover,3301090303
+Maïs ensilage,201,Corn silage,green_silo_maize,3301090400,green_silo_maize,3301090400
+Jachère,,Fallow land,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+"Jachère Fauche, pâturage - Dérogation SIE",,"Fallow Mowing, grazing - SIE exemption",fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+Jachère Légumineuses - Dérogation SIE,,Leguminous fallow - SIE exemption,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+Jachère Maïs - Dérogation SIE,,Maize fallow - SIE exemption,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+Jachère mellifère,,Honey fallow,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+jachère non herbacée,,non-herbaceous fallow,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+Cultures fruitières annuelles - Fraises,9516,Annual fruit crops - Strawberries,strawberries,3301130000,strawberries,3301130000
+Fraisiers,9724,Strawberry plants,strawberries,3301130000,strawberries,3301130000
+Concombre ,,Cucumber,cucumber_pickle,3301140100,cucumber_pickle,3301140100
+Courges butternut,9456,Butternut squash,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Courges butternut (consommation au frais),,Butternut squash (store in a cool place),pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Courges butternut (transformation industrielle),,Butternut squash (industrial processing),pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Courges butternut pour consommation en produit frais,,Butternut squash for fresh consumption,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Courges butternut pour l’industrie,,Butternut squash for industry,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
+Courgettes (consommation au frais),9541,Zucchini (consumption chilled),zucchini_courgette,3301140600,zucchini_courgette,3301140600
+Courgettes (transformation industrielle),,Zucchinis (industrial processing),zucchini_courgette,3301140600,zucchini_courgette,3301140600
+Courgettes pour consommation en produit frais,,Zucchinis for fresh consumption,zucchini_courgette,3301140600,zucchini_courgette,3301140600
+Courgettes pour l’industrie,,Zucchinis for industry,zucchini_courgette,3301140600,zucchini_courgette,3301140600
+Sarrasin,37,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
+Quinoa,382,Quinoa,quinoa,3301150300,quinoa,3301150300
+Soja,43,Soy,soy_soybeans,3301160000,soy_soybeans,3301160000
+Fenouil (de Florence),9534,Fennel (from Florence),fennel,3301170000,fennel,3301170000
+Fenouil (de Florence)(consommation au frais),,Fennel (from Florence)(eat fresh),fennel,3301170000,fennel,3301170000
+Asperge - industrie,8511,Asparagus - industry,asparagus,3301200000,aspargus,3301200000
+Asperges (consommation au frais),9511,Asparagus (consumption chilled),asparagus,3301200000,aspargus,3301200000
+Asperges fraïches,,Fresh asparagus,asparagus,3301200000,aspargus,3301200000
+Asperges pour consommation en produit frais,,Asparagus for fresh consumption,asparagus,3301200000,aspargus,3301200000
+FR-Asperges - vers,,Asparagus,asparagus,3301200000,aspargus,3301200000
+Choux - Légumes,9548,Cabbage - Vegetables,brassica_oleracea_cabbage,3301210200,brassica_oleracea_cabbage,3301210200
+Brocoli ,,Broccoli ,broccoli,3301210202,broccoli,3301210202
+Brocoli (consommation au frais),,Broccoli (consumption in a cool place),broccoli,3301210202,broccoli,3301210202
+Brocoli (transformation industrielle),,Broccoli (industrial processing),broccoli,3301210202,broccoli,3301210202
+Brocoli pour consommation en produit frais,,Broccoli for fresh consumption,broccoli,3301210202,broccoli,3301210202
+"Brousailles, ronces, ligneux bas, buissons sur parcelle non paturée",,"Undergrowth, brambles, low shrubs, bushes on ungrazed land",fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+Chou de Bruxelles,9512,Brussels sprouts,brussels_sprouts,3301210203,brussels_sprouts,3301210203
+Chou de Bruxelles (consommation au frais),,Brussels sprouts (store in a cool place),brussels_sprouts,3301210203,brussels_sprouts,3301210203
+Chou de Bruxelles (transformation industrielle),,Brussels sprouts (industrial processing),brussels_sprouts,3301210203,brussels_sprouts,3301210203
+Chou de Bruxelles pour consommation en produit frais,,Brussels sprouts for fresh consumption,brussels_sprouts,3301210203,brussels_sprouts,3301210203
+Chou de Bruxelles pour l’industrie,,Brussels sprouts for industry,brussels_sprouts,3301210203,brussels_sprouts,3301210203
+Chou-fleur,9523,Cauliflower,cauliflower,3301210204,cauliflower,3301210204
+Chou-fleur (consommation au choix),,Cauliflower (consumption as desired),cauliflower,3301210204,cauliflower,3301210204
+Chou-fleur (transformation industrielle),,Cauliflower (industrial processing),cauliflower,3301210204,cauliflower,3301210204
+Chou-fleur pour l’industrie,,Cauliflower for industry,cauliflower,3301210204,cauliflower,3301210204
+Chou chinois,,Chinese cabbage,chinese_cabbage,3301210205,chinese_cabbage,3301210205
+Chou chinois (transformation industrielle),,Chinese cabbage (industrial processing),chinese_cabbage,3301210205,chinese_cabbage,3301210205
+Chou frisé,9524,Kale,kale,3301210208,kale,3301210208
+Chou frisé (consommation au choix),,Kale (consumption as desired),kale,3301210208,kale,3301210208
+Chou frisé (transformation industrielle),,Kale (industrial processing),kale,3301210208,kale,3301210208
+Chou frisé pour l’industrie,,Kale for industry,kale,3301210208,kale,3301210208
+Choux-rave,,Kohlrabi,kohlrabi,3301210209,kohlrabi,3301210209
+Choux-rave (consommation au frais),,Kohlrabi (eat cool),kohlrabi,3301210209,kohlrabi,3301210209
+Choux-rave pour l’industrie,,Kohlrabi for industry,kohlrabi,3301210209,kohlrabi,3301210209
+Choux rouge,,Red cabbage,red_cabbage,3301210210,red_cabbage,3301210210
+Choux rouge (consommation au frais),,Red cabbage (store in a cool place),red_cabbage,3301210210,red_cabbage,3301210210
+Choux rouge (transformation industrielle),,Red cabbage (industrial processing),red_cabbage,3301210210,red_cabbage,3301210210
+Choux rouge pour consommation en produit frais,,Red cabbage for fresh consumption,red_cabbage,3301210210,red_cabbage,3301210210
+Chou de Milan,9546,Savoy cabbage,savoy_cabbage,3301210211,savoy_cabbage,3301210211
+Chou de Milan (consommation au frais),,Savoy cabbage (store in a cool place),savoy_cabbage,3301210211,savoy_cabbage,3301210211
+Chou de Milan pour l’industrie,,Savoy cabbage for industry,savoy_cabbage,3301210211,savoy_cabbage,3301210211
+Chou blanc,9540,White cabbage,white_cabbage,3301210212,white_cabbage,3301210212
+Chou blanc (consommation au frais),,White cabbage (store in a cool place),white_cabbage,3301210212,white_cabbage,3301210212
+Chou blanc pour consommation en produit frais,,White cabbage for fresh consumption,white_cabbage,3301210212,white_cabbage,3301210212
+Chou blanc pour l’industrie,,White cabbage for industry,white_cabbage,3301210212,white_cabbage,3301210212
+Poireau,9538,Leek,leek,3301220300,leek,3301220300
+Poireau (consommation au frais),,Leek (store in a cool place),leek,3301220300,leek,3301220300
+Poireau (transformation industrielle),,Leek (industrial processing),leek,3301220300,leek,3301220300
+Poireau pour consommation en produit frais,,Leek for fresh consumption,leek,3301220300,leek,3301220300
+Poireau pour l’industrie,,Leeks for industry,leek,3301220300,leek,3301220300
+Oignons (hâtifs),9563,Onions (early),onions,3301220400,onions,3301220400
+Oignons (hâtifs) (consommation au frais),,Onions (early) (store in a cool place),onions,3301220400,onions,3301220400
+Oignons (hâtifs) (transformation industrielle),,Onions (early) (industrial processing),onions,3301220400,onions,3301220400
+Oignons (hâtifs) pour consommation en produit frais,,Onions (early) for fresh consumption,onions,3301220400,onions,3301220400
+Oignons (hâtifs) pour l’industrie,,Onions (early) for industry,onions,3301220400,onions,3301220400
+Oignons (non-hâtifs),9514,Onions (non-early),onions,3301220400,onions,3301220400
+Oignons (non-hâtifs) (consommation au frais),,Onions (non-early) (store in a cool place),onions,3301220400,onions,3301220400
+Oignons (non-hâtifs) (transformation industrielle),,Onions (non-early) (industrial processing),onions,3301220400,onions,3301220400
+Oignons (non-hâtifs) pour consommation en produit frais,,Onions (non-early) for fresh consumption,onions,3301220400,onions,3301220400
+Oignons (non-hâtifs) pour l’industrie,,Onions (non-early) for industry,onions,3301220400,onions,3301220400
+Echalotes,9513,Shallots,shallot,3301220600,shallot,3301220600
+Echalotes (consommation au frais),,Shallots (store in a cool place),shallot,3301220600,shallot,3301220600
+Echalotes pour consommation en produit frais,,Shallots for fresh consumption,shallot,3301220600,shallot,3301220600
+FR-Rabarber - vers,,Rhubarb,rhubarb,3301230000,rhubarb,3301230000
+Rhubarbe (consommation au frais),9517,Rhubarb (consumption chilled),rhubarb,3301230000,rhubarb,3301230000
+Rhubarbe (transformation industrielle),,Rhubarb (industrial processing),rhubarb,3301230000,rhubarb,3301230000
+Rhubarbe fraîche,,Fresh rhubarb,rhubarb,3301230000,rhubarb,3301230000
+Rhubarbe pour consommation en produit frais,,Rhubarb for fresh consumption,rhubarb,3301230000,rhubarb,3301230000
+Rhubarbe pour l’industrie,,Rhubarb for industry,rhubarb,3301230000,rhubarb,3301230000
+Rhubarbe- industrie,8517,Rhubarb- industry,rhubarb,3301230000,rhubarb,3301230000
+Céleri à côtes pour l’industrie,,Ribbed celery for industry,celery,3301250000,celery,3301250000
+Céleri vert,,Green celery,celery,3301250000,celery,3301250000
+Céleri vert (transformation industrielle),,Green celery (industrial processing),celery,3301250000,celery,3301250000
+Céleri vert pour l’industrie,,Green celery for industry,celery,3301250000,celery,3301250000
+Céleri-branche,9551,Celery branch,celery,3301250000,celery,3301250000
+Céleri-branche (consommation au frais),,Celery stalks (to be eaten chilled),celery,3301250000,celery,3301250000
+Céleri-branche (transformation industrielle),,Celery (industrial processing),celery,3301250000,celery,3301250000
+Céleri-branche pour consommation en produit frais,,Celery stalks for fresh consumption,celery,3301250000,celery,3301250000
+Céleri-rave,9543,Celeriac,celeriac,3301250100,celeriac,3301250100
+Céleri-rave (consommation au frais),,Celeriac (eaten chilled),celeriac,3301250100,celeriac,3301250100
+Céleri-rave (transformation industrielle),,Celeriac (industrial processing),celeriac,3301250100,celeriac,3301250100
+Céleri-rave pour consommation en produit frais,,Celery root for fresh consumption,celeriac,3301250100,celeriac,3301250100
+Céleri-rave pour l’industrie,,Celeriac for industry,celeriac,3301250100,celeriac,3301250100
+Tomates ,,Tomatoes ,tomato,3301280000,tomato,3301280000
+Tomates (consommation au frais),,Tomatoes (store in a cool place),tomato,3301280000,tomato,3301280000
+Tomates pour consommation en produit frais,,Tomatoes for fresh consumption,tomato,3301280000,tomato,3301280000
+Carotte,,Carrot,carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (hâtive),9564,Carrot (early),carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (hâtive) pour consommation en produit frais,,Carrot (early) for fresh consumption,carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (hâtive) pour l’industrie,,Carrot (early) for industry,carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (hâtive)(consommation) (consommation au frais),,Carrot (early) (consumption) (consumption in a cool place),carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (hâtive)(consommation) (transformation industrielle),,Carrot (early) (consumption) (industrial processing),carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (non hâtive),9535,Carrot (not early),carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (non hâtive) pour consommation en produit frais,,Carrot (not early) for fresh consumption,carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (non hâtive) pour l’industrie,,Carrot (not early) for industry,carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (non hâtive)(consommation) (consommation au frais),,Carrot (not early) (consumption) (consumption in a cool place),carrots_daucus,3301290300,carrots_daucus,3301290300
+Carotte (non hâtive)(consommation) (transformation industrielle),8535,Carrot (non-early)(consumption) (industrial processing),carrots_daucus,3301290300,carrots_daucus,3301290300
+Carottes fourragères,742,Foraged carrots,carrots_daucus,3301290300,carrots_daucus,3301290300
+Betterave fourragère,71,Fodder beet,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
+Betterave sucrière,91,Sugar beet,sugar_beet,3301290700,sugar_beet,3301290700
+Navette ,,Turnip,turnips,3301290800,turnips,3301290800
+Navette d'?hiver (graines),,Winter turnip (seeds),turnips,3301290800,turnips,3301290800
+Navette d'hiver (graines),,Winter turnip (seeds),turnips,3301290800,turnips,3301290800
+Navette d’hiver (graines),,Winter turnip (seeds),turnips,3301290800,turnips,3301290800
+Navette de printemps (graines),,Spring turnip (seeds),turnips,3301290800,turnips,3301290800
+Laitues pommées,9518,Butterhead lettuce ,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+Laitues pommées (consommation au frais) ,,Butterhead lettuce  (store in a cool place) ,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+Laitues pommées pour consommation en produit frais ,,Butterhead lettuce for fresh consumption ,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+Laitues pommées pour l’industrie ,,Butterhead lettuce for industry,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+Chicorée à café,9812,Coffee chicory,chicory_chicories,3301310200,chicory_chicories,3301310200
+Chicorée à inuline,9811,Chicory with inulin,chicory_chicories,3301310200,chicory_chicories,3301310200
+Endives (chicons),9515,Endives (chicons),chicory_chicories,3301310200,chicory_chicories,3301310200
+Endives de Bruxelles (pour la racine) (transformation industrielle),,Belgian endive (root) (industrial processing),endive,3301310300,endive,3301310300
+Endives de Bruxelles (pour la racine) pour l’industrie,,Belgian endive (root) (industrial processing),endive,3301310300,endive,3301310300
+Scaroles (consommation au frais),9537,Scaroles (consumption chilled),endive,3301310300,endive,3301310300
+Epinards,9519,Spinach,spinach,3301310800,spinach,3301310800
+Epinards (consommation au frais),,Spinach (store in a cool place),spinach,3301310800,spinach,3301310800
+Epinards (transformation industrielle),,Spinach (industrial processing),spinach,3301310800,spinach,3301310800
+Epinards pour consommation en produit frais,,Spinach for fresh consumption,spinach,3301310800,spinach,3301310800
+Epinards pour l’industrie,,Spinach for industry,spinach,3301310800,spinach,3301310800
+Autres mélanges (avec moins de 50 % de graminées) que ceux déjà listés *,,Other mixtures (with less than 50% grasses) than those already listed*.,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Mélange de graminées et de légumineuses (autre que le mélange graminées/trèfle),,Mixture of grasses and legumes (other than grass/clover),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Prairie et fourrage,6,Meadow and fodder,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Prairies,,Meadows,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Cultures fruitière pluriannuelles-basses tiges,,Multi-annual low-stem fruit crops,orchards_fruits,3303010000,orchards_fruits,3303010000
+Cultures fruitière pluriannuelles-hautes tiges,,Multi-annual high-stem fruit crops,orchards_fruits,3303010000,orchards_fruits,3303010000
+cultures fruitières pluriannuelles (pommes) - basses tiges,9710,multi-annual fruit crops (apples) - low stems,apples,3303010200,apples,3303010200
+cultures fruitières pluriannuelles (pommes) -hautes tiges,9730,multi-year fruit crops (apples) - high stems,apples,3303010200,apples,3303010200
+cultures fruitières pluriannuelles (cerises) - basses tiges,9725,multi-annual fruit crops (cherries) - low stems,cherry_cherries,3303010400,cherry_cherries,3303010400
+cultures fruitières pluriannuelles (cerises) -hautes tiges,9726,multi-annual fruit crops (cherries) - tall stems,cherry_cherries,3303010400,cherry_cherries,3303010400
+cultures fruitières pluriannuelles (poires) - basses tiges,9711,multi-annual fruit crops (pears) - low stems,pears,3303011200,pears,3303011200
+cultures fruitières pluriannuelles (poires) - hautes tiges,9731,multi-annual fruit crops (pears) - tall stems,pears,3303011200,pears,3303011200
+cultures fruitières pluriannuelles (prunes) - basses tiges,9713,multi-annual fruit crops (plums) - low stems,plums,3303011300,plums,3303011300
+cultures fruitières pluriannuelles (prunes) - hautes tiges,,multi-annual fruit crops (plums) - tall stalks,plums,3303011300,plums,3303011300
+Cultures fruitières annuelles - Framboises,9717,Annual fruit crops - Raspberries,raspberry_raspberries,3303021000,raspberry_raspberries,3303021000
+Noisetier,9201,Hazel,hazelnuts_hazel,3303030200,hazelnuts_hazel,3303030200
+Noyer,9202,Walnut,walnuts,3303030600,walnuts,3303030600
+Vignes,9716,Vines,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+Pépinières de plants fruitiers ou de plantes ornementales,,Fruit and ornamental plant nurseries,nurseries_nursery,3303070000,nurseries_nursery,3303070000
+Champignons,,Mushrooms,other_mushrooms_energy_crops_genetically_modified_crops,3304990000,other_mushrooms_energy_crops_genetically_modified_crops,3304990000
+Autres cultures de légumes sous serre,,Other greenhouse vegetable crops,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Autres plantes ornementales sous serre,,Other greenhouse ornamentals,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Cultures fruitières annuelles - Fraise sous serre,,Annual fruit crops - Greenhouse strawberries,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Cultures maraîchères sous verre,,Market vegetables under glass,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Cultures permanentes sous serre,,Permanent crops under glass,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Fleurs et plantes ornementales sous serre,,Flowers and ornamental plants in greenhouses,greenhouse_foil_film,3305000000,greenhouse_foil_film,3305000000
+Cultures forestières à rotation courte (taillis à très courte rotation),883,Short rotation forest crops (very short rotation coppice),tree_wood_forest,3306000000,tree_wood_forest,3306000000
+parcelle boisée présentant un couvert forestier,,wooded parcel with forest cover,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Parcelle boisée présentant un couvert forestier,,wooded parcel with forest cover,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Pépinières de plants forestiers,9560,Forest plant nurseries,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Sapins de Noël,,Christmas trees,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Sapins de Noël/ Résineux,962,Christmas trees/Softwood,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Boisement de terre agricole (art 31 du R.(CE) 1257/1999) – dérogation,,Afforestation of agricultural land (art 31 of R.(EC) 1257/1999) - derogation,afforestation_reforestation,3306010000,afforestation_reforestation,3306010000
+Boisement de terre agricole (art 31 du R.(CE) 1257/1999) ? dérogation,,Afforestation of agricultural land (art 31 of R.(EC) 1257/1999) - derogation,afforestation_reforestation,3306010000,afforestation_reforestation,3306010000
+Couvert naturel/spontané,,Natural/spontaneous cover,unmaintained,3308000000,unmaintained,3308000000
+Autres,,Other,not_known_and_other,3399000000,not_known_and_other,3399000000
+Autres bâtiments,,Other buildings,not_known_and_other,3399000000,not_known_and_other,3399000000
+Autres couverts semés,,Other Cover Crops,not_known_and_other,3399000000,not_known_and_other,3399000000
+Autres couverts semés que ceux déjà listés ,,Other cover crops than those already listed,not_known_and_other,3399000000,not_known_and_other,3399000000
+Couvert favorisant la faune,,Wildlife-friendly cover,not_known_and_other,3399000000,not_known_and_other,3399000000
+"Mare, étang, lac, plan d'eau",,"Pond, lake, body of water",not_known_and_other,3399000000,not_known_and_other,3399000000
+"Parcelle bâtie, ou zone artificialisée",,"Built-up plot, or artificial zone",not_known_and_other,3399000000,not_known_and_other,3399000000
+Parcelle de sport ou loisir,,Sports or leisure plot,not_known_and_other,3399000000,not_known_and_other,3399000000
+"Utilisation non agricole (stockage de grume, ..) ou terrain vague",,"Non-agricultural use (log storage, etc.) or wasteland",not_known_and_other,3399000000,not_known_and_other,3399000000
+"utilisation non agricole (stockage de grume, ..) ou terrain vague",,"Non-agricultural use (log storage, etc.) or wasteland",not_known_and_other,3399000000,not_known_and_other,3399000000

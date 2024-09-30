@@ -1,0 +1,214 @@
+original_code,original_name,translated_name,HCAT3_name,HCAT3_code
+1110,Syysvehnä,Winter wheat,winter_common_soft_wheat,3301010101
+1120,Kevätvehnä,Spring wheat,spring_common_soft_wheat,3301010102
+1130,Durumvehnä,Durum wheat,unspecified_season_durum_hard_wheat,3301010299
+1141,Syysspelttivehnä,Autumn Spelt,winter_spelt,3301011001
+1142,Kevätspelttivehnä,Spring Spelt,spring_spelt,3301011002
+1210,Syysruisvehnä,Winter Triticale,winter_triticale,3301010801
+1211,Kevätruisvehnä,Spring Triticale,spring_triticale,3301010802
+1220,Kevätruis,Spring rye,spring_rye,3301010302
+1230,Syysruis,Autumn rye,winter_rye,3301010301
+1310,Rehuohra,Feed Barley,barley,3301010400
+1320,Mallasohra,Malt (barley),barley,3301010400
+1330,Syysohra,Winter barley,winter_barley,3301010401
+1400,Kaura,Oats,oats,3301010500
+1410,Syyskaura,Autumn oats,winter_oats,3301010501
+1545,Seoskasvusto (viljat),Mixed crops (cereals),cereal,3301010000
+1555,Seoskasvusto (vilja+öljykasvit),Mixed crops (cereals+oil crops),cereal,3301010000
+1601,Vihantavilja (ohra),Green fodder crops (barley),barley,3301010400
+1602,Vihantavilja (kaura),Green fodder grain (oats),oats,3301010500
+1603,Vihantavilja (vehnä),Green fodder grain (wheat),common_soft_wheat,3301010100
+1604,Vihantavilja (ruis),Green fodder grain (Rye),rye,3301010300
+1605,Vihantavilja (viljaseos),Green fodder grain (mixed cereals),cereal,3301010000
+1700,Tattari,Buckwheat,buckwheat,3301150200
+1710,Hirssi,Millet,millet_sorghum,3301010900
+1750,Kvinoa (kinua),Quinoa (quinoa),quinoa,3301150300
+1800,Maissi,Corn,grain_maize_corn_popcorn,3301010600
+1810,Sokerimaissi,Sweet corn,grain_maize_corn_popcorn,3301010600
+2110,Ruokaherne,Field Pea,peas,3301020600
+2120,Rehuherne,Fodder pea,peas,3301020600
+2170,Seoskasvusto (valkuaiskasvit+öljykasvit),Mixed crops (protein crops+oil crops),legumes_dried_pulses_protein_crops,3301020000
+2175,Seos (herne/härkäpapu/makea lupiini/öljykasvit),Mixture (Pea/Farm Bean/Sweet Lupine/Oil Plants),legumes_dried_pulses_protein_crops,3301020000
+2180,Seos herne/härkäpapu/makea lupiini yli 50 %+viljaa,Mixture of pea/broad bean/sweet lupine over 50%+cereal,legumes_dried_pulses_protein_crops,3301020000
+2185,Seoskasvusto (valkuaiskasvit+vilja),Mixed crops (protein crops + cereals),legumes_dried_pulses_protein_crops,3301020000
+2195,Seoskasvusto (valkuaiskasvit),Mixed crops (protein crops),legumes_dried_pulses_protein_crops,3301020000
+2196,Seoskasvusto (typensitojakasvia yli 50 %),Mixed crops (nitrogen-fixing plants over 50%),legumes_harvested_green,3301090300
+2197,Seoskasvusto (apila yli 50 % + nurmiheinä),Mixed crops (over 50% clover + forage grass),clover,3301090303
+2200,Härkäpapu,Broad bean,beans,3301020100
+2300,Soijapapu,Soybean,soy_soybeans,3301160000
+2400,Virna,Vetch,vetches,3301090305
+2410,Mesikkä,sweet yellow clover,clover,3301090303
+2420,Mailanen,Lucerne,alfalfa_lucerne,3301090301
+2430,Apila,Clover,clover,3301090303
+2440,Vuohenherne,galega,galega,3301081900
+2450,Linssi,Lentil,lentils,3301020500
+2500,Makealupiini,Sweet lupin,sweet_lupins,3301020700
+2510,Muut lupiinit,Other lupins,sweet_lupins,3301020700
+3110,Ruokaperuna,Potatoes,potatoes,3301030000
+3120,Ruokateollisuusperuna,Industrial potatoes,potatoes,3301030000
+3130,Tärkkelysperuna,Starch potato,potatoes,3301030000
+3150,Varhaisperuna (katteenalainen),Early potato (under cover),potatoes,3301030000
+3160,Siemenperuna (sertifioidun siemenen tuotantoon),Seed potatoes,potatoes,3301030000
+3190,Tärkkelysperunan oma siemenlisäys,Seed potatoes ,potatoes,3301030000
+3210,"Sokerijuurikas, sokerintuotantoon",Sugar beet for sugar production,sugar_beet,3301290700
+3230,"Sokerijuurikas, energiantuotantoon","Sugar beet, for energy production",sugar_beet,3301290700
+3330,Rehujuurikasvit,Fodder root vegetables,fodder_roots,3301050000
+3340,Rehukaali,Fodder cabbage,other_brassica_oleracea_cabbage,3301210299
+4020,Kuitunokkonen,Stinging nettle,nettles,3301061225
+4030,"Ruistankio (Camelina, Kitupellava)",Camelina,camelina,3301061500
+4110,Kevätrypsi,Spring rape,spring_rapeseed_rape,3301060402
+4120,Syysrypsi,Winter Rape,winter_rapeseed_rape,3301060401
+4210,Kevätrapsi,Spring rape,spring_rapeseed_rape,3301060402
+4220,Syysrapsi,Winter Rape,winter_rapeseed_rape,3301060401
+4300,Auringonkukka,Sunflower,sunflower,3301060500
+4390,Seoskasvusto (öljykasvit),Mixed cropping (oil crops),oilseed_crops,3301060800
+4400,Humala,Hops,hops,3301060200
+4525,Kuituhamppu,Hemp,hemp_cannabis,3301061000
+4530,Öljyhamppu,Oil hemp,hemp_cannabis,3301061000
+4610,Öljypellava,Oil flax,flax_linseed_oil,3301060702
+4620,Kuitupellava,Flax,flax_linseed,3301060700
+4810,"Siemenmausteet ja lääkekasvit (pl kumina, sinappi)",Seed spices and medicinal plants (not caraway/mustard),aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+4904,Ruokohelpi (kuivike/rehu),reed canary grass (feed),poaceae_grasses,3301090200
+4905,Ruokohelpi (energia),reed canary grass (energy),poaceae_grasses,3301090200
+4913,"Energiapuu, lyhytkiertoinen (haapa ja paju)","Energy wood, short rotation (aspen and willow)",tree_wood_forest,3306000000
+4914,"Energiapuu, lyhytkiert. (hybriidihaapa ja poppeli)","Energy trees, short cycle time (hybrid aspen and poplar)",tree_wood_forest,3306000000
+4930,"Ahdekaunokki, energiantuotantoon",Brown knapweed for energy production,energy_crops,3304010000
+5101,Tarhaherne,Garden pea,peas,3301020600
+5102,Pensaspapu,Bush bean,beans,3301020100
+5103,Valko- eli keräkaali,White cabbage/head cabbage,white_cabbage,3301210212
+5104,Kiinankaali,Chinese cabbage,chinese_cabbage,3301210205
+5105,Kukkakaali,Cauliflower,cauliflower,3301210204
+5106,Porkkana,Carrot,carrots_daucus,3301290300
+5108,Lanttu,Rutabaga Swede,swede_rutabaga,3301210500
+5109,Nauris,Turnip,turnips,3301290800
+5110,Mukulaselleri,Celeriac,celeriac,3301250100
+5111,Palsternakka,Parsnip,parsnips,3301290500
+5113,Sipulin pikkuistukkaat,Onion seedlings,onions,3301220400
+5114,Purjo,Leeks,leek,3301220300
+5115,Avomaankurkku,Open field cucumber,cucumber_pickle,3301140100
+5116,Kurpitsa,Pumpkin,pumpkin_squash_gourd,3301140400
+5117,Pinaatti,Spinach,spinach,3301310800
+5119,Raparperi,Rhubarb,rhubarb,3301230000
+5120,Punajuurikas ja keltajuurikas,Beetroot and yellow beetroot,beetroot_beets,3301290200
+5121,Ruokasipuli (sis. punasipuli ja jättisipuli),Onion (incl. red onion and giant onion),onions,3301220400
+5124,Punakaali,Red cabbage,red_cabbage,3301210210
+5125,Savoijinkaali (kurttukaali),Savoy cabbage,savoy_cabbage,3301210211
+5127,Ruusukaali,Brussels sprouts,brussels_sprouts,3301210203
+5128,Parsakaali,Broccoli,broccoli,3301210202
+5129,Kyssäkaali,Kohlrabi,kohlrabi,3301210209
+5131,Lehtiselleri,Leaf celery,leaf_celery,3301250200
+5133,Lamopinaatti,New Zealand spinach,other_salads_lettuce_leaf_vegetables,3301319900
+5134,Retiisi,Radish,radish,3301290600
+5140,Salaatti (Lactuca-suku),Lettuce,salads_lettuce_leaf_vegetables,3301310000
+5141,Salaattisikurit (Cichorium-suku),Radicchio,chicory_chicories,3301310200
+5142,Salaattifenkoli,Fennel,fennel,3301170000
+5143,Kesäkurpitsa,Zucchini,zucchini_courgette,3301140600
+5148,Lehtikaali,Kale,kale,3301210208
+5149,Tilli,Dill,anethum_dill,3301061203
+5150,Persilja,Parsley,parsly,3301061227
+5157,Valkosipuli,Garlic,garlic,3301220200
+5158,Piparjuuri,Horseradish,horseradish,3301210400
+5165,Maa-artisokka,Jerusalem artichoke,topinambur_jerusalem_artichoke,3301180000
+5173,Meloni,Melon,melon,3301140300
+5175,Lehtimangoldi,Swiss chard,chard,3301310100
+5176,Latva-artisokka,Artichoke,artichoke,3301270000
+5198,Muut vihannekset,Other vegetables,fresh_vegetables,3301070000
+5210,Omena,Apple,apples,3303010200
+5212,Pihlaja (marjantuotanto),Rowan (berry production),rowan_rowanberries,3303021300
+5213,Päärynä,Pear,pears,3303011200
+5220,Muut hedelmät,Other fruits,orchards_fruits,3303010000
+5221,Luumu,Plum,plums,3303011300
+5222,Viinirypäle,Grapevine,vineyards_wine_vine_rebland_grapes,3303060000
+5301,Mustaherukka,Blackcurrant,blackcurrant_cassis,3303020300
+5302,Punaherukka,Redcurrants,redcurrant,3303021100
+5303,Valkoherukka,White currant,currants,3303020600
+5305,Karviainen,Gooseberry,gooseberry_gooseberries_cranberries,3303020700
+5310,Vadelma ja mesivadelma,Raspberries and field raspberries,raspberry_raspberries,3303021000
+5311,Mansikka,Strawberry,strawberries,3301130000
+5312,Mesimarja,Arctic raspberries,raspberry_raspberries,3303021000
+5313,Pensasmustikka,Bush blueberry,blueberry,3303020400
+5314,Marja-aronia,Aronia berry,aronia_chokeberries,3303020100
+5318,Saskatoon (Marjatuomipihlaja),Serviceberry,amelanchier_serviceberry,3303010100
+5319,Muut marjakasvit,Other berry plants,unspecified_berries_berry_species,3303029800
+5410,"Koristekasvit, alle 5 v.","Ornamental plants, under 5 years",flowers_ornamental_plants,3301080000
+5420,"Koristekasvit, 5 v. ja yli, jatkuva sato avomaalta","Ornamentals, 5 years -, continuous outdoor harvest",flowers_ornamental_plants,3301080000
+5440,"Leikkovihreä ja leikkohavu, alle 5 v. kasveista","Ornamental leaves and conifers, under 5 years old",not_known_and_other,3399000000
+5441,"Leikkovihreä ja leikkohavu, väh. 5 v. kasveista","Cut greens and conifers for decoration, at least 5 years old",not_known_and_other,3399000000
+5442,"Koristepaju punontatarkoitukseen, alle 5 v.","Ornamental willow for braiding, under 5 years",willows_osiers,3306080000
+5443,"Koristepaju punontatarkoitukseen, 5 - 20 v.","Ornamental willow for braiding, 5 - 20 years",willows_osiers,3306080000
+5451,Tyrni,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800
+5452,Kirsikka,Cherry,cherry_cherries,3303010400
+5512,"Taimitarhat, alle 5 v. marja-, hedelmä-, koristek.","Nursery (berries, fruits, ornamental plants under 5 years)",nurseries_nursery,3303070000
+5534,Metsäpuiden taimitarhat pellolla,Nursery for forest trees in fields,nurseries_nursery,3303070000
+5537,"Taimitarhat, väh. 5 v. marja-, hedelmä-, koristek.","Nursery (berries, fruits, ornamental plants at least 5 years old)",nurseries_nursery,3303070000
+5806,Kumina,Caraway,caraway,3301061211
+5816,Parsa,Asparagus,asparagus,3301200000
+5824,Sinappi,Mustard,mustard,3301210100
+5831,Korianteri,Coriander,coriander,3301061215
+5845,Ratamot,Plantaginaceae,flowers_ornamental_plants,3301080000
+5846,Yrttikasvit alle 5 v. (ei tilli eikä persilja),Herbs less than 5 years old (no dill or parsley),aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+5847,Yrttikasvit väh. 5 v.,Herbs at least 5 years,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+5850,Saneerauskasvi (valkosinappi),white mustard,mustard,3301210100
+5851,Saneerauskasvi (öljyretikka),oil radish,radish,3301290600
+5852,Saneerauskasvi (samettikukka),Tagetes,tagetes,3301084700
+5853,Saneerauskasviseos,Remediation crop (mixture),not_known_and_other,3399000000
+5860,Pienet vierekkäiset alat,Small adjacent fields,not_known_and_other,3399000000
+6050,Viherlannoitusnurmi,Green manure lawn,pasture_meadow_grassland_grass,3302000000
+6051,Viherlannoitusnurmi (ei ympäristösitoumusta),Green manure  (no environmental commitment),pasture_meadow_grassland_grass,3302000000
+6060,Siirtonurmi,Turf,sod_turf,3301090207
+6111,"1-vuot. kuivaheinä-, säilörehu-, tuorerehunurmet","1 years. dry hay, silage, fresh fodder grasses",pasture_meadow_grassland_grass,3302000000
+6112,1-vuotiset laidunnurmet,Annual pasture,pasture_meadow_grassland_grass,3302000000
+6113,1-vuotiset siemennurmet,1-year seed grasses,pasture_meadow_grassland_grass,3302000000
+6115,"1-vuotinen siemennurmi, yksilajinen","1-year seed grass, single species",pasture_meadow_grassland_grass,3302000000
+6121,"Moniv. kuivaheinä-, säilörehu- ja tuorerehunurmet","Perennial dry hay, silage and fresh fodder crops",pasture_meadow_grassland_grass,3302000000
+6122,Monivuotiset laidunnurmet,Perennial pasture,pasture_meadow_grassland_grass,3302000000
+6123,Monivuotiset siemennurmet,Perennial seed grasses,pasture_meadow_grassland_grass,3302000000
+6125,"Monivuotinen siemennurmi, yksilajinen","Perennial seed grasses, single species",pasture_meadow_grassland_grass,3302000000
+6210,"Pysyvä kuivah.,säilör., tuorer. (väh 5, alle10 v)","Perm. dry hay, silage, fresh forage (5-10 years)",pasture_meadow_grassland_grass,3302000000
+6220,"Pysyvä laidunnurmi (väh 5, alle 10 v)","Permanent pasture (at least 5, less than 10 years)",pasture_meadow_grassland_grass,3302000000
+6300,Luonnonlaidun ja -niitty,Natural pasture and meadow,pasture_meadow_grassland_grass,3302000000
+6303,Luonnonlaidun jolla korkea luontoarvo (Ahvenanmaa),Natural pasture with high nature values (Åland),pasture_meadow_grassland_grass,3302000000
+6304,Luonnonlaidun jolla kohd. toim.pit. (Ahvenanmaa),Natural pasture with targeted interventions (Åland),pasture_meadow_grassland_grass,3302000000
+6305,Luonnonlaidun kulttuurialueella (Ahvenanmaa),Cultivated Pasture,pasture_meadow_grassland_grass,3302000000
+6307,Muu luonnonlaidun (Ahvenanmaa),Other natural pasture (Åland),pasture_meadow_grassland_grass,3302000000
+6401,Muut rehukasvit,Other fodder plants,not_known_and_other,3399000000
+6402,Rehurapsi,Fodder rape,rapeseed_rape,3301060400
+6545,"Englannin raiheinän siemen, valvottu tuotanto",English ryegrass  seed,lolium_ryegrass,3301090205
+6546,"Italianraiheinän (westerw.) siemen, valv. tuotanto",Ryegrass,lolium_ryegrass,3301090205
+6550,"Ruokonadan siemen, valvottu tuotanto",Tall fescue seed,festuca_fescue,3301090202
+6561,"Apilan siemen, valvottu tuotanto","Clover seed, controlled production",clover,3301090303
+6562,"Timotein siemen, valvottu tuotanto","Timothy seed, controlled production",timothy,3301090209
+6565,"Nurminadan siemen, valvottu tuotanto",Meadow fescue seed,festuca_fescue,3301090202
+6600,Metsälaidun,Silvopasture,tree_wood_forest,3306000000
+6710,"Hakamaa, avoin",Grazing land open,pasture_meadow_grassland_grass,3302000000
+6720,"Hakamaa, puustoinen",Grazing land wooded,pasture_meadow_grassland_grass,3302000000
+9060,Hunajantuotantoon tarkoitettu kasvusto,Plants for honey production,not_known_and_other,3399000000
+9061,Aitohunajakukka,Lacy phacelia,phacelia,3301061400
+9101,"20 v. erityistukisopimus, pelto","20-year special support agreement, field",not_known_and_other,3399000000
+9102,"20 v. erityistukisopimus, muu ala","20-year special support agreement, other sector",not_known_and_other,3399000000
+9403,Sänkikesanto,Stump fallow,fallow_land_not_crop,3301110000
+9404,Avokesanto,Open fallow,fallow_land_not_crop,3301110000
+9405,"Luonnonhoitopelto (nurmikasvit, väh. 2 v.)","Natural management field (grasses and legumes, min. 2 yrs)",pasture_meadow_grassland_grass,3302000000
+9412,Viherkesanto (nurmi ja niitty),Grassland (grassland and meadow),pasture_meadow_grassland_grass,3302000000
+9413,Viherkesanto (riista ja maisema),Green cover (wildlife and landscape),pasture_meadow_grassland_grass,3302000000
+9414,Viherkesanto (mesikasvit),honey plants,not_known_and_other,3399000000
+9422,"Monimuotoisuuspelto, riista",Diversity field for wild animals,not_known_and_other,3399000000
+9423,"Monimuotoisuuspelto, maisema","Diversity field, landscape",not_known_and_other,3399000000
+9424,"Monimuotoisuuspelto, niitty 1. ja 2. vuosi","Diversity field, meadow 1st and 2nd year",pasture_meadow_grassland_grass,3302000000
+9620,Tilapäisesti viljelemätön ala,Temporarily uncultivated area,not_known_and_other,3399000000
+9621,Tilapäisesti viljelemätön luonnonlaidun ja -niitty,Temporary uncultivated natural pastures and meadows,temporary_grass,3301090100
+9630,Kasvimaa,Garden plot,kitchen_gardens,3301120000
+9700,Pysyvästi viljelemätön,Permanently uncultivated,not_known_and_other,3399000000
+9801,"Erityistukisopimusala, pysyvä laidun","Contract area for special aid, permanent pasture",pasture_meadow_grassland_grass,3302000000
+9802,"Erityistukisopimusala, muu ala","Contract area for special aid, other area",not_known_and_other,3399000000
+9803,"Erityistukisopimusala, pelto","Contract area for special payments, arable land",not_known_and_other,3399000000
+9804,"Erityistukisopimusala, metsämaa","Contract area for special aid, woodland",tree_wood_forest,3306000000
+9805,"Ympäristösopimusala, pysyvä nurmi","Environmental agreement area, permanent grassland",pasture_meadow_grassland_grass,3302000000
+9806,"Kurki-, hanhi- ja joutsenpelto (sopimus)","Fields for cranes, geese and swans (agreement)",not_known_and_other,3399000000
+9807,"Ympäristösopimusala, muu ala","Environmental agreement area, other area",not_known_and_other,3399000000
+9808,"Ympäristösopimusala, metsämaa","Environmental agreement area, woodland",tree_wood_forest,3306000000
+9810,Suojavyöhykenurmi (sopimukset ennen 2015),Protection zone embankment (agreement before 2015),not_known_and_other,3399000000
+9811,Suojavyöhyke (sitoumus alkaen 2015),Protection zone (commitment from 2015),not_known_and_other,3399000000
+9812,Monivuotinen ympäristönurmi,Perennial environmental grass,pasture_meadow_grassland_grass,3302000000
+9820,Suojakaista,Protective strip,not_known_and_other,3399000000
+9830,Maisemapiirre,Landscape feature,not_known_and_other,3399000000
