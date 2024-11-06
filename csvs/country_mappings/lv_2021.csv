@@ -1,139 +1,139 @@
 original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
-710,Ilggadīgie zālāji,Permanent grasslands,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-112,"Kvieši, ziemas",Wheat winter,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
-720,Aramzemē sētu stiebrzāļu vai lopbarības zālaugu maisījums,Mixture of grasses or fodder grasses sown on arable land,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 111,"Kvieši, vasaras",Wheat summer,spring_common_soft_wheat,3301010102,summer_common_soft_wheat,3301010103
-140,Auzas,Oats,oats,3301010500,oats,3301010500
-811,"Dažādi kultūraugi nelielā aramzemes platībā vai vairāki kultūraugi, audzēti vienlaidu laukā, ja katrs no kultūraugiem attiecīgajā laukā aizņem mazāk par 0,3 ha, vai platības, ko izmanto ziedu audzēšanai","Different crops on a small area of arable land or several crops grown in a continuous field, where each of the crops occupies less than 0.3 ha in the field concerned, or areas used for the production of flowers",other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
-610,Papuve,Idle land,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
-131,"Mieži, vasaras",Barley summer,spring_barley,3301010402,summer_barley,3301010403
-212,"Rapsis, ziemas",Rape winter,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
-820,"Kartupeļi, kas citur nav minēti",Potatoes not elsewhere specified or included,potatoes,3301030000,potatoes,3301030000
-121,Rudzi,Rye,rye,3301010300,rye,3301010300
-723,Sarkanais āboliņš,Red clover,clover,3301090303,clover,3301090303
-160,Griķi,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
-141,Auzas ar stiebrzāļu vai tauriņziežu pasēju,Oats with grass or legume paste,oats,3301010500,oats,3301010500
-410,Lauka pupas,Field beans,beans,3301020100,beans,3301020100
-950,"Augļu koki un ogulāji (izņemot zemenes), ja vienlaidus platībā augošas BSA sugas katra <0,3 ha",Fruit trees and berry bushes (excluding strawberries) if BSA species growing in a continuous area each <0.3 ha,berries_berry_species,3303020000,berries_berry_species,3303020000
-420,Zirņi,Peas,peas,3301020600,peas,3301020600
-760,"Aramzemē sētu stiebrzāļu vai tauriņziežu maisījums, kur tauriņzieži >50%",Mixture of grasses or legumes sown on arable land with legumes> 50%,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-911,Ābeles,Apples,apples,3303010200,apples,3303010200
-211,"Rapsis, vasaras",Rape summer,summer_rapeseed_rape,3301060403,summer_rapeseed_rape,3301060403
-741,Citur neminēta kukurūza,Maize not elsewhere specified,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
-726,Lucerna,Lucerne,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
-132,"Mieži, ziemas",Barley winter,winter_barley,3301010401,winter_barley,3301010401
-151,"Tritikāle, ziemas",Triticale winter,winter_triticale,3301010801,winter_triticale,3301010801
-445,"Graudaugu un zirņu vai vīķu maisījums, kur proteīnaugi >50%",Mixture of cereals and peas or vetches with protein crops> 50%,unspecified_cereals,3301011500,unspecified_cereals,3301011500
-729,Amoliņš,Sweet clover,clover,3301090303,clover,3301090303
-871,"Dārzeņi, ja vienlaidu platībā augošas BSA atbalsttiesīgās dārzeņu kultūraugu sugas katra aizņem mazāk par 0,3 ha un kopējā saimniecības aramzemes platība nav lielāka par 10 ha",Vegetables if the BSA eligible vegetable crop species growing in a continuous area each occupy less than 0.3 ha and the total arable land area of ??the holding does not exceed 10 ha,fresh_vegetables,3301070000,fresh_vegetables,3301070000
-715,Facēlija,Phacelia,phacelia,3301061400,phacelia,3301061400
+112,"Kvieši, ziemas",Wheat winter,winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
 113,Kvieši vasaras ar stiebrzāļu vai tauriņziežu pasēju,Wheat in summer with grass or legume sowing,spring_common_soft_wheat,3301010102,summer_common_soft_wheat,3301010103
-926,Zemenes,Strawberry,strawberries,3301130000,strawberries,3301130000
-133,Mieži vasaras ar stiebrzāļu vai tauriņziežu pasēju,Barley summer with grass or legume sowing,spring_barley,3301010402,summer_barley,3301010403
-620,"LIZ, par kuru kārtējā gadā nevar saņemt atbalstu",UAA for which no support is available in the current year,currants,3303020600,currants,3303020600
-919,Smiltsērkšķis,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800,hippophae_sea_buckthorns_seaberry,3303020800
-922,Upenes,Blackcurrant,blackcurrant_cassis,3303020300,blackcurrant_cassis,3303020300
-930,"Citi kultivēti nektāraugi (ežziede, biškrēsliņš, pūķgalve, melisa, daglītis, dedestiņa, kaķumētra, rudzupuķe)",Other cultivated nectar plants (hedgehog periwinkle dragon's head lemon balm buttercup blackthorn catnip cornflower),aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
-446,"Graudaugu un zirņu vai vīķu maisījums ar stiebrzāļu vai tauriņziežu pasēju, kur proteīnaugi >50%",Mixture of cereals and peas or vetches with grass or legume sowing where protein crops> 50%,unspecified_cereals,3301011500,unspecified_cereals,3301011500
-928,Krūmcidonijas,Quince,quinces,3303011500,quinces,3303011500
-122,"Rudzi, Kaupo šķirnes",Rye Kaupo varieties,rye,3301010300,rye,3301010300
-952,Citur neminēti ilggadīgie stādījumi,Perennial crops not mentioned elsewhere,permanent_crops_perennial,3303000000,permanent_crops_perennial,3303000000
-847,Ķiploki,Garlic,garlic,3301220200,garlic,3301220200
-724,Baltais āboliņš,White clover,clover,3301090303,clover,3301090303
-921,Avenes,Raspberries,raspberry_raspberries,3303021000,raspberry_raspberries,3303021000
-716,Facēlija ar tauriņziežu pasēju,Phacelia with legume sowing,phacelia,3301061400,phacelia,3301061400
-725,Bastarda āboliņš,Bastard clover,clover,3301090303,clover,3301090303
-731,"Pļavas timotiņš, sēklas ieguvei",Meadow timothy for seed production,timothy,3301090209,timothy,3301090209
-791,Kukurūza biogāzes ieguvei,Maize for biogas production,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
-214,"Ripsis, ziemas",Rapeseed winter,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
-713,Citur neminētas stiebrzāles,Grasses not elsewhere specified or included,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-873,"Pārējie citur neminētie kultūraugi, sēti kā kultūraugu maisījums aramzemē",Other crops not elsewhere specified sown as a mixture of crops on arable land,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
-825,Cietes kartupeļi,Starch potatoes,potatoes,3301030000,potatoes,3301030000
-846,"Sīpoli, šalotes sīpoli, maurloki, lielloku sīpoli un batūni",Onions shallots chives shallots and trampolines,alliums,3301220000,alliums,3301220000
-872,"Pārējie kultūraugi, sēti tīrsējā aramzemē",Other crops sown on pure arable land,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
-857,"Dārza ķirbji, cukīni, kabači, patisoni",Garden pumpkins zucchini courgettes squash,cucurbits,3301140000,cucurbits,3301140000
-924,Krūmmellenes (zilenes),Blueberries (blueberries),blueberry,3303020400,blueberry,3303020400
-870,"Citur neminēti kāposti (baltie vai sarkanie galviņkāposti, rožu jeb Briseles kāposti, galda kolrābji, sparģeļkāposti, virziņkāposti jeb Savojas kāposti, lapu kāposti, brokoļi, Pekinas kāposti), izņemot lopbarības kāpostus",Cabbages not elsewhere specified or included (white or red headed cabbages Brussels sprouts kohlrabi kale savoy cabbages kale broccoli Beijing cabbages) other than fodder cabbages,brassica_oleracea_cabbage,3301210200,brassica_oleracea_cabbage,3301210200
-215,Sinepe,Mustard,mustard,3301210100,mustard,3301210100
-161,Griķi ar tauriņziežu pasēju,Buckwheat with legume seed,buckwheat,3301150200,buckwheat,3301150200
-645,Kārkls,Willow,willows_osiers,3306080000,willows_osiers,3306080000
-843,Burkāni,Carrots,carrots_daucus,3301290300,carrots_daucus,3301290300
-170,Kaņepes,Cannabis,hemp_cannabis,3301061000,hemp_cannabis,3301061000
-727,Austrumu galega,Eastern galega,galega,3301081900,galega,3301081900
-640,Kokaugu stādaudzētavas lauksaimniecības zemē,Tree nurseries on agricultural land,nurseries_nursery,3303070000,nurseries_nursery,3303070000
-821,Sēklas kartupeļi,Seed potatoes,potatoes,3301030000,potatoes,3301030000
-912,Bumbieres,Pears,pears,3303011200,pears,3303011200
-932,Saldie un skābie ķirši,Sweet and sour cherries,cherry_cherries,3303010400,cherry_cherries,3303010400
+115,"Speltas kvieši, vasaras",Spelt summer,spring_spelt,3301011002,summer_spelt,3301011003
 116,"Speltas kvieši, ziemas","Spelt wheat, winter",winter_spelt,3301011001,winter_spelt,3301011001
-831,"Lopbarības bietes, cukurbietes",Fodder beet sugar beet,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
-150,"Tritikāle, vasaras",Triticale summer,spring_triticale,3301010802,summer_triticale,3301010803
-213,"Ripsis, vasaras","Rapeseed, summer",summer_rapeseed_rape,3301060403,summer_rapeseed_rape,3301060403
-874,Parastās dilles,Common dill,anethum_dill,3301061203,anethum_dill,3301061203
-844,"Galda bietes, mangolds (lapu bietes)",Table beets chard (leaf beets),beetroot_beets,3301290200,beetroot_beets,3301290200
-736,"Ganību airene, sēklas ieguvei",Pasture ryegrass for seed production,lolium_ryegrass,3301090205,lolium_ryegrass,3301090205
-934,Lielogu dzērvenes,Large cranberries,cranberry,3303020500,cranberry,3303020500
-914,Plūmes,Plums,plums,3303011300,plums,3303011300
-443,Soja,Soybeans,soy_soybeans,3301160000,soy_soybeans,3301160000
-878,Ķimene,Cumin,caraway,3301061211,caraway,3301061211
-861,Rabarberi,Rhubarb,rhubarb,3301230000,rhubarb,3301230000
-644,Apse,Apsen,aspen,3306020000,aspen,3306020000
-735,"Sarkanā auzene, sēklas ieguvei",Red fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
-732,"Pļavas auzene, sēklas ieguvei",Meadow fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
-918,Aronijas,Chokeberry,aronia_chokeberries,3303020100,aronia_chokeberries,3303020100
-853,Redīsi un melnie rutki,Radish and black radish,radish,3301290600,radish,3301290600
-933,Sarkanās un baltās jāņogas,Red and white currants,currants,3303020600,currants,3303020600
-848,"Garšaugi un kultivēti ārstniecības augi (fenhelis, baziliks, timiāns, estragons, anīss, majorāns, oregano, salvija, izops, piparmētra, pupumētra, vērmele, lofants, naktssvece, deviņvīru spēks, ābolmētra, citronmelisa, tauksakne, ehinācija",Herbs and cultivated medicinal plants (fennel basil thyme tarragon anise marjoram oregano sage hyssop mint peppermint wormwood lofant night candle nine-man force apple mint lemon balm fatty root echinacea,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+121,Rudzi,Rye,rye,3301010300,rye,3301010300
+122,"Rudzi, Kaupo šķirnes",Rye Kaupo varieties,rye,3301010300,rye,3301010300
 123,"Rudzu populācijas šķirnes, izņemot ‘Kaupo’",Rye population varieties other than ,rye,3301010300,rye,3301010300
+131,"Mieži, vasaras",Barley summer,spring_barley,3301010402,summer_barley,3301010403
+132,"Mieži, ziemas",Barley winter,winter_barley,3301010401,winter_barley,3301010401
+133,Mieži vasaras ar stiebrzāļu vai tauriņziežu pasēju,Barley summer with grass or legume sowing,spring_barley,3301010402,summer_barley,3301010403
+140,Auzas,Oats,oats,3301010500,oats,3301010500
+141,Auzas ar stiebrzāļu vai tauriņziežu pasēju,Oats with grass or legume paste,oats,3301010500,oats,3301010500
+150,"Tritikāle, vasaras",Triticale summer,spring_triticale,3301010802,summer_triticale,3301010803
+151,"Tritikāle, ziemas",Triticale winter,winter_triticale,3301010801,winter_triticale,3301010801
+152,Tritikāle vasaras ar stiebrzāļu vai tauriņziežu pasēju,Summer triticale with grass or legume paste,spring_triticale,3301010802,summer_triticale,3301010803
+160,Griķi,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
+161,Griķi ar tauriņziežu pasēju,Buckwheat with legume seed,buckwheat,3301150200,buckwheat,3301150200
+170,Kaņepes,Cannabis,hemp_cannabis,3301061000,hemp_cannabis,3301061000
+211,"Rapsis, vasaras",Rape summer,summer_rapeseed_rape,3301060403,summer_rapeseed_rape,3301060403
+212,"Rapsis, ziemas",Rape winter,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+213,"Ripsis, vasaras","Rapeseed, summer",summer_rapeseed_rape,3301060403,summer_rapeseed_rape,3301060403
+214,"Ripsis, ziemas",Rapeseed winter,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+215,Sinepe,Mustard,mustard,3301210100,mustard,3301210100
 216,Sinepes ar tauriņziežu pasēju,Mustard with legume paste,mustard,3301210100,mustard,3301210100
-881,Kumelīte,Chamomile,chamomile,3301061213,chamomile,3301061213
-734,Daudzziedu viengadīgā airene sēklas ieguvei,Perennial ryegrass for seed production,lolium_ryegrass,3301090205,lolium_ryegrass,3301090205
-935,Vīnogas,Grapes,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+310,"Lini, šķiedras",Linen fibers,flax_linen,3301060701,flax_linen,3301060701
+330,"Lini, eļļas",Flax oils,flax_linseed_oil,3301060702,flax_linseed_oil,3301060702
+410,Lauka pupas,Field beans,beans,3301020100,beans,3301020100
+420,Zirņi,Peas,peas,3301020600,peas,3301020600
 430,"Lupīna (saldā jeb dzeltenā, baltā, šaurlapu)",Lupine (sweet or yellow white narrow leaf),sweet_lupins,3301020700,sweet_lupins,3301020700
 441,"Vīķi, vasaras",Vetches summer,vetches,3301090305,vetches,3301090305
-856,Galda kāļi,Table turnips,swede_rutabaga,3301210500,swede_rutabaga,3301210500
-714,Esparsete,Esparsete,esparsette_onobrychis,3301020300,esparsette_onobrychis,3301020300
-859,Parastās jeb dārza pupiņas,Ordinary or garden beans,beans,3301020100,beans,3301020100
-854,Pētersīļi,Parsley,parsly,3301061227,parsly,3301061227
-641,Miežabrālis,Reed canary grass,canary_seed_canaryseed,3301011400,canary_seed_canaryseed,3301011400
-845,Gurķi un kornišoni,Cucumbers and gherkins,cucumber_pickle,3301140100,cucumber_pickle,3301140100
-842,Ziedkāposti,Cauliflower,cauliflower,3301210204,cauliflower,3301210204
-858,"Vīģlapu, lielaugļu, muskata ķirbji",Fig leaves large fruits nutmeg,fig,3303010600,fig,3303010600
-860,Skābenes,Sorrel,sorrel,3301310700,sorrel,3301310700
-938,Sausserdis,Honeysuckle,honeysuckle,3303080500,honeysuckle,3303080500
 442,"Vīķi, ziemas",Vetches winter,vetches,3301090305,vetches,3301090305
-761,Auzeņairene sēklas ieguvei,Fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
-865,Topinambūri,Jerusalem artichokes,topinambur_jerusalem_artichoke,3301180000,topinambur_jerusalem_artichoke,3301180000
-728,Ragainais vanagnadziņš,Horned Hawk,lotus,3301082600,lotus,3301082600
-931,Dārza pīlādži,Garden rowans or garden mountain-ashes,rowan_rowanberries,3303021300,rowan_rowanberries,3303021300
-733,"Hibrīdā airene, sēklas ieguvei",Hybrid rye for seed production,rye,3301010300,rye,3301010300
-330,"Lini, eļļas",Flax oils,flax_linseed_oil,3301060702,flax_linseed_oil,3301060702
-869,Sparģeļi,Asparagus,asparagus,3301200000,aspargus,3301200000
-152,Tritikāle vasaras ar stiebrzāļu vai tauriņziežu pasēju,Summer triticale with grass or legume paste,spring_triticale,3301010802,summer_triticale,3301010803
-115,"Speltas kvieši, vasaras",Spelt summer,spring_spelt,3301011002,summer_spelt,3301011003
-927,Ērkšķogas,Gooseberries,gooseberry_gooseberries_cranberries,3303020700,gooseberry_gooseberries_cranberries,3303020700
-884,Ārstniecības gurķene,Borage,borage,3301061209,borage,3301061209
-929,Kazenes,Blackberries,blackberry,3303020200,blackberry,3303020200
-879,Mārdadzis,Marian Thistles,marian_thistles,3301061300,marian_thistles,3301061300
-885,Lavanda,Lavender,lavender_lavandula,3301061219,lavender_lavandula,3301061219
-737,"Niedru auzene, sēklas ieguvei",Reed fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
-863,Mārrutki,Horseradish,horseradish,3301210400,horseradish,3301210400
-939,Irbene,Irbene,not_known_and_other,3399000000,not_known_and_other,3399000000
+443,Soja,Soybeans,soy_soybeans,3301160000,soy_soybeans,3301160000
+445,"Graudaugu un zirņu vai vīķu maisījums, kur proteīnaugi >50%",Mixture of cereals and peas or vetches with protein crops> 50%,legumes_dried_pulses_protein_crops,3301020000,unspecified_cereals,3301011500
+446,"Graudaugu un zirņu vai vīķu maisījums ar stiebrzāļu vai tauriņziežu pasēju, kur proteīnaugi >50%",Mixture of cereals and peas or vetches with grass or legume sowing where protein crops> 50%,legumes_dried_pulses_protein_crops,3301020000,unspecified_cereals,3301011500
+610,Papuve,Idle land,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+620,"LIZ, par kuru kārtējā gadā nevar saņemt atbalstu",UAA for which no support is available in the current year,not_known_and_other,3399000000,currants,3303020600
+640,Kokaugu stādaudzētavas lauksaimniecības zemē,Tree nurseries on agricultural land,nurseries_nursery,3303070000,nurseries_nursery,3303070000
+641,Miežabrālis,Reed canary grass,poaceae_grasses,3301090200,canary_seed_canaryseed,3301011400
+642,Klūdziņprosa,Switch grass,switchgrass,3301090208,switchgrass,3301090208
+644,Apse,Apsen,aspen,3306020000,aspen,3306020000
+645,Kārkls,Willow,willows_osiers,3306080000,willows_osiers,3306080000
+646,Baltalksnis,White alder,other_tree_wood_forest,3306990000,tree_wood_forest,3306000000
+710,Ilggadīgie zālāji,Permanent grasslands,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+713,Citur neminētas stiebrzāles,Grasses not elsewhere specified or included,poaceae_grasses,3301090200,pasture_meadow_grassland_grass,3302000000
+714,Esparsete,Esparsete,esparsette_onobrychis,3301020300,esparsette_onobrychis,3301020300
+715,Facēlija,Phacelia,phacelia,3301061400,phacelia,3301061400
+716,Facēlija ar tauriņziežu pasēju,Phacelia with legume sowing,phacelia,3301061400,phacelia,3301061400
+720,Aramzemē sētu stiebrzāļu vai lopbarības zālaugu maisījums,Mixture of grasses or fodder grasses sown on arable land,poaceae_grasses,3301090200,pasture_meadow_grassland_grass,3302000000
+723,Sarkanais āboliņš,Red clover,clover,3301090303,clover,3301090303
+724,Baltais āboliņš,White clover,clover,3301090303,clover,3301090303
+725,Bastarda āboliņš,Bastard clover,clover,3301090303,clover,3301090303
+726,Lucerna,Lucerne,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
+727,Austrumu galega,Eastern galega,galega,3301081900,galega,3301081900
+728,Ragainais vanagnadziņš,Birds foot trefoil,legumes_harvested_green,3301090300,lotus,3301082600
+729,Amoliņš,Sweet clover,melilot,3301090304,clover,3301090303
+731,"Pļavas timotiņš, sēklas ieguvei",Meadow timothy for seed production,timothy,3301090209,timothy,3301090209
+732,"Pļavas auzene, sēklas ieguvei",Meadow fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
+733,"Hibrīdā airene, sēklas ieguvei",Hybrid ryegrass Folium boucheanum for seed production,lolium_ryegrass,3301090205,rye,3301010300
+734,Daudzziedu viengadīgā airene sēklas ieguvei,Italian ryegrass for seed production,lolium_ryegrass,3301090205,lolium_ryegrass,3301090205
+735,"Sarkanā auzene, sēklas ieguvei",Red fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
+736,"Ganību airene, sēklas ieguvei",Perennial ryegrass for seed production,lolium_ryegrass,3301090205,lolium_ryegrass,3301090205
+737,"Niedru auzene, sēklas ieguvei",Tall fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
+738,"Pļavas skarene, sēklas ieguvei",Kentucky bluegrass for seed production,poaceae_grasses,3301090200,festuca_fescue,3301090202
+739,"Kamolzāle, sēklas ieguvei",Cocksfoot for seed production,cocksfoot_catgrass,3301090203,chamomile,3301061213
+741,Citur neminēta kukurūza,Maize not elsewhere specified,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+760,"Aramzemē sētu stiebrzāļu vai tauriņziežu maisījums, kur tauriņzieži >50%",Mixture of grasses or legumes sown on arable land with legumes> 50%,plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
+761,Auzeņairene sēklas ieguvei,Festulolium for seed production,festulolium,3301090204,festuca_fescue,3301090202
+791,Kukurūza biogāzes ieguvei,Maize for biogas production,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
+792,"Platība, kurā dabiski iesējušos augu īpatsvars pārsniedz 40%, dārzeņu kultūraugu skaits vienā kvadrātmetrā ir mazāks par šo noteikumu 2.2 pielikumā noteikto skaitu un nav īstenoti nezāļu ierobežošanas agrotehniskie pasākumi vismaz t",Area where the proportion of naturally sown plants exceeds 40% the number of vegetable crops per square meter is less than the number specified in Annex 2.2 to these Regulations and no weed control agronomic measures have been implemented for at least t,not_known_and_other,3399000000,not_known_and_other,3399000000
+811,"Dažādi kultūraugi nelielā aramzemes platībā vai vairāki kultūraugi, audzēti vienlaidu laukā, ja katrs no kultūraugiem attiecīgajā laukā aizņem mazāk par 0,3 ha, vai platības, ko izmanto ziedu audzēšanai","Different crops on a small area of arable land or several crops grown in a continuous field, where each of the crops occupies less than 0.3 ha in the field concerned, or areas used for the production of flowers",arable_crops,3301000000,other_arable_land_crops,3301990000
+820,"Kartupeļi, kas citur nav minēti",Potatoes not elsewhere specified or included,potatoes,3301030000,potatoes,3301030000
+821,Sēklas kartupeļi,Seed potatoes,potatoes,3301030000,potatoes,3301030000
+825,Cietes kartupeļi,Starch potatoes,potatoes,3301030000,potatoes,3301030000
 826,Tomāti,Tomatoes,tomato,3301280000,tomato,3301280000
-937,Arbūzi un melones,Watermelons and melons,melon,3301140300,melon,3301140300
-877,Sējas koriandrs jeb kinza,Sowing coriander or kinza,coriander,3301061215,coriander,3301061215
-915,Plūškoks,Elderberry,elder_elderberry,3303080400,elder_elderberry,3303080400
+831,"Lopbarības bietes, cukurbietes",Fodder beet sugar beet,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
+842,Ziedkāposti,Cauliflower,cauliflower,3301210204,cauliflower,3301210204
+843,Burkāni,Carrots,carrots_daucus,3301290300,carrots_daucus,3301290300
+844,"Galda bietes, mangolds (lapu bietes)",Table beets chard (leaf beets),beetroot_beets,3301290200,beetroot_beets,3301290200
+845,Gurķi un kornišoni,Cucumbers and gherkins,cucumber_pickle,3301140100,cucumber_pickle,3301140100
+846,"Sīpoli, šalotes sīpoli, maurloki, lielloku sīpoli un batūni",Onions shallots chives shallots and trampolines,alliums,3301220000,alliums,3301220000
+847,Ķiploki,Garlic,garlic,3301220200,garlic,3301220200
+848,"Garšaugi un kultivēti ārstniecības augi (fenhelis, baziliks, timiāns, estragons, anīss, majorāns, oregano, salvija, izops, piparmētra, pupumētra, vērmele, lofants, naktssvece, deviņvīru spēks, ābolmētra, citronmelisa, tauksakne, ehinācija",Herbs and cultivated medicinal plants (fennel basil thyme tarragon anise marjoram oregano sage hyssop mint peppermint wormwood lofant night candle nine-man force apple mint lemon balm fatty root echinacea,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 849,Puravi,leek,leek,3301220300,leek,3301220300
 851,"Galda rāceņi, turnepši",Turnips,turnips,3301290800,turnips,3301290800
-310,"Lini, šķiedras",Linen fibers,flax_linen,3301060701,flax_linen,3301060701
-882,Kliņģerīte,Marigold,calendula_marigold,3301061210,calendula_marigold,3301061210
-855,Pastinaks,Parsnips,parsnips,3301290500,parsnips,3301290500
-862,Spināti,Spinach,spinach,3301310800,spinach,3301310800
-739,"Kamolzāle, sēklas ieguvei",Cocksfoot for seed production,chamomile,3301061213,chamomile,3301061213
-864,Salāti,Salads,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
 852,Selerijas,Celery,celery,3301250000,celery,3301250000
-646,Baltalksnis,White alder,tree_wood_forest,3306000000,tree_wood_forest,3306000000
-642,Klūdziņprosa,Switch grass,switchgrass,3301090208,switchgrass,3301090208
-792,"Platība, kurā dabiski iesējušos augu īpatsvars pārsniedz 40%, dārzeņu kultūraugu skaits vienā kvadrātmetrā ir mazāks par šo noteikumu 2.2 pielikumā noteikto skaitu un nav īstenoti nezāļu ierobežošanas agrotehniskie pasākumi vismaz t",Area where the proportion of naturally sown plants exceeds 40% the number of vegetable crops per square meter is less than the number specified in Annex 2.2 to these Regulations and no weed control agronomic measures have been implemented for at least t,not_known_and_other,3399000000,not_known_and_other,3399000000
-883,Cigoriņš,Chicory,chicory_chicories,3301310200,chicory_chicories,3301310200
+853,Redīsi un melnie rutki,Radish and black radish,radish,3301290600,radish,3301290600
+854,Pētersīļi,Parsley,parsly,3301061227,parsly,3301061227
+855,Pastinaks,Parsnips,parsnips,3301290500,parsnips,3301290500
+856,Galda kāļi,rutabaga,swede_rutabaga,3301210500,swede_rutabaga,3301210500
+857,"Dārza ķirbji, cukīni, kabači, patisoni",Garden pumpkins zucchini courgettes squash,cucurbits,3301140000,cucurbits,3301140000
+858,"Vīģlapu, lielaugļu, muskata ķirbji","Fig-leaf, large-fruit, and nutmeg pumpkins",pumpkin_squash_gourd,3301140400,fig,3303010600
+859,Parastās jeb dārza pupiņas,Ordinary or garden beans,beans,3301020100,beans,3301020100
+860,Skābenes,Sorrel,sorrel,3301310700,sorrel,3301310700
+861,Rabarberi,Rhubarb,rhubarb,3301230000,rhubarb,3301230000
+862,Spināti,Spinach,spinach,3301310800,spinach,3301310800
+863,Mārrutki,Horseradish,horseradish,3301210400,horseradish,3301210400
+864,Salāti,Salads,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
+865,Topinambūri,Jerusalem artichokes,topinambur_jerusalem_artichoke,3301180000,topinambur_jerusalem_artichoke,3301180000
 867,Paprika,Paprika,bell_pepper_paprika,3301300100,bell_pepper_paprika,3301300100
-738,"Pļavas skarene, sēklas ieguvei",Meadow fescue for seed production,festuca_fescue,3301090202,festuca_fescue,3301090202
+869,Sparģeļi,Asparagus,asparagus,3301200000,aspargus,3301200000
+870,"Citur neminēti kāposti (baltie vai sarkanie galviņkāposti, rožu jeb Briseles kāposti, galda kolrābji, sparģeļkāposti, virziņkāposti jeb Savojas kāposti, lapu kāposti, brokoļi, Pekinas kāposti), izņemot lopbarības kāpostus",Cabbages not elsewhere specified or included (white or red headed cabbages Brussels sprouts kohlrabi kale savoy cabbages kale broccoli Beijing cabbages) other than fodder cabbages,brassica_oleracea_cabbage,3301210200,brassica_oleracea_cabbage,3301210200
+871,"Dārzeņi, ja vienlaidu platībā augošas BSA atbalsttiesīgās dārzeņu kultūraugu sugas katra aizņem mazāk par 0,3 ha un kopējā saimniecības aramzemes platība nav lielāka par 10 ha",Vegetables if the BSA eligible vegetable crop species growing in a continuous area each occupy less than 0.3 ha and the total arable land area of ??the holding does not exceed 10 ha,fresh_vegetables,3301070000,fresh_vegetables,3301070000
+872,"Pārējie kultūraugi, sēti tīrsējā aramzemē",Other crops sown on pure arable land,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
+873,"Pārējie citur neminētie kultūraugi, sēti kā kultūraugu maisījums aramzemē",Other crops not elsewhere specified sown as a mixture of crops on arable land,arable_crops,3301000000,other_arable_land_crops,3301990000
+874,Parastās dilles,Common dill,anethum_dill,3301061203,anethum_dill,3301061203
+877,Sējas koriandrs jeb kinza,Sowing coriander or kinza,coriander,3301061215,coriander,3301061215
+878,Ķimene,Cumin,caraway,3301061211,caraway,3301061211
+879,Mārdadzis,Marian Thistles,marian_thistles,3301061300,marian_thistles,3301061300
+881,Kumelīte,Chamomile,chamomile,3301061213,chamomile,3301061213
+882,Kliņģerīte,Marigold,calendula_marigold,3301061210,calendula_marigold,3301061210
+883,Cigoriņš,Chicory,chicory_chicories,3301310200,chicory_chicories,3301310200
+884,Ārstniecības gurķene,Borage,borage,3301061209,borage,3301061209
+885,Lavanda,Lavender,lavender_lavandula,3301061219,lavender_lavandula,3301061219
+911,Ābeles,Apples,apples,3303010200,apples,3303010200
+912,Bumbieres,Pears,pears,3303011200,pears,3303011200
+914,Plūmes,Plums,plums,3303011300,plums,3303011300
+915,Plūškoks,Elderberry,elder_elderberry,3303080400,elder_elderberry,3303080400
+918,Aronijas,Chokeberry,aronia_chokeberries,3303020100,aronia_chokeberries,3303020100
+919,Smiltsērkšķis,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800,hippophae_sea_buckthorns_seaberry,3303020800
+921,Avenes,Raspberries,raspberry_raspberries,3303021000,raspberry_raspberries,3303021000
+922,Upenes,Blackcurrant,blackcurrant_cassis,3303020300,blackcurrant_cassis,3303020300
+924,Krūmmellenes (zilenes),Blueberries (blueberries),blueberry,3303020400,blueberry,3303020400
+926,Zemenes,Strawberry,strawberries,3301130000,strawberries,3301130000
+927,Ērkšķogas,Gooseberries,gooseberry_gooseberries_cranberries,3303020700,gooseberry_gooseberries_cranberries,3303020700
+928,Krūmcidonijas,Quince,chaenomeles_cathayensis,3303080200,quinces,3303011500
+929,Kazenes,Blackberries,blackberry,3303020200,blackberry,3303020200
+930,"Citi kultivēti nektāraugi (ežziede, biškrēsliņš, pūķgalve, melisa, daglītis, dedestiņa, kaķumētra, rudzupuķe)",Other cultivated nectar plants (hedgehog periwinkle dragon's head lemon balm buttercup blackthorn catnip cornflower),aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+931,Dārza pīlādži,Garden rowans or garden mountain-ashes,rowan_rowanberries,3303021300,rowan_rowanberries,3303021300
+932,Saldie un skābie ķirši,Sweet and sour cherries,cherry_cherries,3303010400,cherry_cherries,3303010400
+933,Sarkanās un baltās jāņogas,Red and white currants,currants,3303020600,currants,3303020600
+934,Lielogu dzērvenes,Large cranberries,cranberry,3303020500,cranberry,3303020500
+935,Vīnogas,Grapes,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
+937,Arbūzi un melones,Watermelons and melons,cucurbits,3301140000,melon,3301140300
+938,Sausserdis,Honeysuckle,honeysuckle,3303080500,honeysuckle,3303080500
+939,Irbene,Guilder rose,shrubberries_shrubs,3303080000,not_known_and_other,3399000000
+950,"Augļu koki un ogulāji (izņemot zemenes), ja vienlaidus platībā augošas BSA sugas katra <0,3 ha",Fruit trees and berry bushes (excluding strawberries) if BSA species growing in a continuous area each <0.3 ha,orchards_fruits,3303010000,berries_berry_species,3303020000
+952,Citur neminēti ilggadīgie stādījumi,Perennial crops not mentioned elsewhere,permanent_crops_perennial,3303000000,permanent_crops_perennial,3303000000

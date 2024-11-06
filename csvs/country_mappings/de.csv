@@ -1,9 +1,9 @@
 original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 48,Mischung Mais/Bohne,Corn / bean mixture,grain_maize_corn_popcorn,3301010600
-49,Blühmischung für Biogas,Flowering mixture for biogas,other_arable_land_crops,3301990000
+49,Blühmischung für Biogas,Flowering mixture for biogas,flowers_ornamental_plants,3301080000
 50,Mischkulturen mit Saatgutmischung,Mixed cultures with seed mix,arable_land_seed_seedlings,3301100000
 51,Mischkulturen in Reihenanbau,Mixed crops in rows,other_arable_land_crops,3301990000
-52,Zwischenfrucht / Gründecke ÖVF,Intercrop / groundcover,not_known_and_other,3399000000
+52,Zwischenfrucht / Gründecke ÖVF,Intercrop / groundcover,other_arable_land_crops,3301990000
 53,Untersaat ÖVF,Undersowing ÖVF,arable_land_seed_seedlings,3301100000
 54,Streifen am Waldrand (Ohne Produktion) ÖVF,Strip at the edge of the forest (Without production) ÖVF,tree_wood_forest,3306000000
 55,Ufervegetation ÖVF,Riparian vegetation,not_known_and_other,3399000000
@@ -11,18 +11,18 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 57,Feldrand / Pufferstreifen ÖVF DGL,Buffer strips ecological preference zones permanent grassland,pasture_meadow_grassland_grass,3302000000
 58,Feldrand / Puferstreifen ÖVF AL,Buffer strips ecological preference zones permanent grassland,pasture_meadow_grassland_grass,3302000000
 59,KuP ÖVF,Priority ecological areas short rotation plants,not_known_and_other,3399000000
-60,Leguminosen ÖVF,Legumes ÖVF,unspecified_legumes_dried_pulses_protein_crops,3301029800
+60,Leguminosen ÖVF,Legumes ÖVF,legumes_dried_pulses_protein_crops,3301020000
 61,Aufforstungsflächen ÖVF,Afforestation areas ÖVF,afforestation_reforestation,3306010000
 62,Brachen Ohne Erzeugung ÖVF,Fallow land Without production ÖVF,fallow_land_not_crop,3301110000
 63,Miscanthus,silvergrass,miscanthus_silvergrass,3301083000
-64,Durchwachsene Silphie,cup plant,other_flowers_ornamental_plants,3301089900
+64,Durchwachsene Silphie,cup plant,silphium_rosinweeds,3301084400
 65,brachliegende Flächen öVF Honigpflanzen (pollen- und nektarreiche Arten) -einjährig,fallow land öVF honey plants (species rich in pollen and nectar) -annual,fallow_land_not_crop,3301110000
 66,brachliegende Flächen öVF Honigpflanzen (pollen- und nektarreiche Arten) -mehrjährig,fallow land öVF honey plants (species rich in pollen and nectar) -perennial,fallow_land_not_crop,3301110000
 70,Hecken Oder Knicks > 10m CC,Hedges Or Knicks > 10m CC,not_known_and_other,3399000000
-71,Baumreihe >50m CC,Tree row >50m CC,other_tree_wood_forest,3306990000
-72,Feldgehölze 50-2.000 rn2 CC,"Field groves 50-2,000 rn2 CC",not_known_and_other,3399000000
+71,Baumreihe >50m CC,Tree row >50m CC,tree_wood_forest,3306000000
+72,Feldgehölze 50-2.000 rn2 CC,"Field groves 50-2,000 rn2 CC",tree_wood_forest,3306000000
 73,Feuchtgebiete < 2.000 m2 CC,"Wetlands < 2,000 m2 CC",not_known_and_other,3399000000
-74,Einzelbäume CC,Single trees CC,other_tree_wood_forest,3306990000
+74,Einzelbäume CC,Single trees CC,tree_wood_forest,3306000000
 75,Tümpel Sölle und Doline CC,Ponds sinkholes and doline CC,not_known_and_other,3399000000
 76,"Natur-, Stein- Oder Trockenmauer CC","Natural, stone or dry stone wall CC",not_known_and_other,3399000000
 77,"Fels- und Steinriegel, naturversteinte Fläche CC","Rock and stone bar, natural petrified area CC",not_known_and_other,3399000000
@@ -39,13 +39,13 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 120,Sommer-Dinkel,Summer spelt,spring_spelt,3301011002
 121,"Winterroggen, Winter-Waldstaudenroggen",Winter rye,winter_rye,3301010301
 122,"Sommerroggen, Sommer-Waldstaudenroggen",Summer rye,spring_rye,3301010302
-125,Wintermenggetreide,Winter mixed grain,winter_unspecified_cereals,3301011501
+125,Wintermenggetreide,Winter mixed grain,winter_meslin,3301011101
 126,Wintermenggetreide ohne Weizen,Winter mixed grain without wheat,winter_meslin,3301011101
 131,Wintergerste,Winter barley,winter_barley,3301010401
 132,Sommergerste,Summer barley,spring_barley,3301010402
 142,Winterhafer,Winter oats,winter_oats,3301010501
 143,Sommerhafer,Summer oats,spring_oats,3301010502
-144,Sommermenggetreide,Summer mixed grain,spring_unspecified_cereals,3301011502
+144,Sommermenggetreide,Summer mixed grain,spring_meslin,3301011102
 145,Sommermenggetreide ohne Weizen,Summer mixed grain without wheat,spring_meslin,3301011102
 156,Wintertriticale,Winter triticale,winter_triticale,3301010801
 157,Sommertriticale,Summer triticale,spring_triticale,3301010802
@@ -76,12 +76,12 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 320,Sonnenblumen,sunflowers,sunflower,3301060500
 330,Sojabohnen,Soybeans,soy_soybeans,3301160000
 341,"Lein, Flachs",Flax/Flax (flax linseed),flax_linseed,3301060700
-390,"Ölfrucht einer Gattung/Art, die in der aktuellen Liste nicht aufgeführt ist",Oil fruit of a genus/species not included in the current list,oilseed_crops,"3301060800	"
+390,"Ölfrucht einer Gattung/Art, die in der aktuellen Liste nicht aufgeführt ist",Oil fruit of a genus/species not included in the current list,oilseed_crops,3301060800
 392,Meerkohl/Krambe,Sea Kale/Crambe,other_brassica_oleracea_cabbage,3301210299
 393,Leindotter,Camelina,camelina,3301061500
 411,Silomais (als Hauptfutter),Silage maize (as staple feed),green_silo_maize,3301090400
 413,Futterrübe/Runkelrübe,Fodder beet / beetroot,mangelwurzel_fodder_beet,3301290400
-414,"Kohlrübe, Steckrübe",Turnip/Turnips (winter),swede_rutabaga,3301210500
+414,"Kohlrübe, Steckrübe",Rutabaga,swede_rutabaga,3301210500
 421,Rot-/Weiß-/Alexandriner-/lnkarnat-/Erd-/Schweden-/Persischer Klee,Clover (nitrogen-fixing plant VF)/different types of clover,clover,3301090303
 422,Kleegras,Clover grass,clover,3301090303
 423,"Luzerne, Hopfenklee/Gelbklee, Bastardluzerne/Sandluzerne",alfalfa,alfalfa_lucerne,3301090301
@@ -92,7 +92,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 428,Wechselgrünland,Alternating grassland,pasture_meadow_grassland_grass,3302000000
 429,Esparsette,Esparsette,esparsette_onobrychis,3301020300
 430,Serradella,serradella,serradella,3301084200
-431,Steinklee,Sweet clover,clover,3301090303
+431,Steinklee,Sweet clover,melilot,3301090304
 432,"Kleemischung aus NC 421, 427, 431 (stickstoffbindend)",Clover mixture from NC 421/Clover mixture (or box horn clover),clover,3301090303
 433,Luzerne-Gras,Alfalfa grass/Alfalfa-grass mixture,alfalfa_lucerne,3301090301
 441,Wiesen (Grünlandneueinsaat im Rahmen von AUKM),Meadows (grassland reseeding under AUKM),pasture_meadow_grassland_grass,3302000000
@@ -107,24 +107,24 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 458,Streuwiesen,Scattered meadows,pasture_meadow_grassland_grass,3302000000
 459,Grünland,Grassland (permanent grassland),pasture_meadow_grassland_grass,3302000000
 460,Sommerweiden für Wanderschafe,Summer pastures for wandering sheep,pasture_meadow_grassland_grass,3302000000
-462,Beweidete Sandheiden,Grazed sandy heaths,not_known_and_other,3399000000
-463,Beweidete Moorheiden,Grazed bog heaths,unmaintained,3308000000
+462,Beweidete Sandheiden,Grazed sandy heaths,pasture_meadow_grassland_grass,3302000000
+463,Beweidete Moorheiden,Grazed bog heaths,pasture_meadow_grassland_grass,3302000000
 464,Beweidete Magerrasen,Grazed grasslands,pasture_meadow_grassland_grass,3302000000
 465,Beweidete montane Wiesen,Grazed montane meadows,pasture_meadow_grassland_grass,3302000000
 466,Gemähte Magerrasen,Mowed grasslands,pasture_meadow_grassland_grass,3302000000
 467,Gemähte montane Wiesen,Mown montane meadows,pasture_meadow_grassland_grass,3302000000
 480,Streuobstfläche mit Grünlandnutzung,Orchards with grassland use/Orchards with Permanent grassland use,orchards_fruits,3303010000
 481,Streuobstfläche ohne Grünlandnutzung,Orchards without grassland use/Orchards without Permanent grassland use,orchards_fruits,3303010000
-490,Nicht DZ-beihilfefähige Hutungen,Hute forest not eligible for DZ aid.,other_tree_wood_forest,3306990000
+490,Nicht DZ-beihilfefähige Hutungen,Hute forest not eligible for DZ aid.,tree_wood_forest,3306000000
 491,Anteil an Gemeinschaftsweiden,Proportion of common pastures,pasture_meadow_grassland_grass,3302000000
 492,Dauergrünland unter etablierten lokalen Praktiken (z.B. Heide),Permanent grassland under established local practices (e.g. heather)/established local practices,pasture_meadow_grassland_grass,3302000000
 510,Goldrute (Solidago),Goldenrod (Solidago),goldenrod,3301082200
 511,Streptocarpus/Drehfrucht,Streptocarpus/Twist fruit,other_flowers_ornamental_plants,3301089900
 512,Iberischer Drachenkopf,dragonhead,other_flowers_ornamental_plants,3301089900
 513,Braunellen,prunella vulgaris,other_flowers_ornamental_plants,3301089900
-514,Hauswurz (Sempervivum),houseleeks,not_known_and_other,3399000000
+514,Hauswurz (Sempervivum),houseleeks,other_flowers_ornamental_plants,3301089900
 515,Mühlenbeckia/Drahtsträucher,wire bushes,wire_bush,3303080700
-516,Knöterich (Persicaria),Knotweed (Persicaria),not_known_and_other,3399000000
+516,Knöterich (Persicaria),Knotweed (Persicaria),other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
 517,Garten-Petunie,Garden petunias,other_flowers_ornamental_plants,3301089900
 518,Polygonum,Polygonum,polygonum,3301061229
 519,Köcherblümchen (Cuphea),Caddis flower (Cuphea),other_flowers_ornamental_plants,3301089900
@@ -148,7 +148,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 582,Grünbrache 2-jährig,Green fallow 2-year,fallow_land_not_crop,3301110000
 583,"Nicht landwirtschaftliche, aber nach Art. 32(2b (i)) der VO (EG) Nr.1307/2013 beihilfefähige Fläche Naturschutzfiächen die 2008",Not agricultural/Nature conservation (1307 / 2013-32-2bi),not_known_and_other,3399000000
 584,"Nicht landwirtschaftliche, aber nach Art. 32(2b (i)) der VO (EG) Nr. 1307/2013 beihilfefähige Fläche Maßnahmen aus Natura2000",Non-agricultural area eligible for aid under Article 32(2b (i)) of Regulation (EC) No 1307/2013 Natura2000 measures,not_known_and_other,3399000000
-585,"Nicht landwirtschaftliche, aber nach Art. 32(2b (i)) der VO (EG) Nr. 1307/2013 beihilfefähige Fläche Maßnahmen aus der",Non-agricultural area eligible for aid under Article 32(2b (i)) of Regulation (EC) No 1307/2013 ,not_known_and_other,3399000000
+585,"Nicht landwirtschaftliche, aber nach Art. 32(2b (i)) der VO (EG) Nr. 1307/2013 beihilfefähige Fläche Maßnahmen aus der",Non-agricultural area eligible for aid under Article 32(2b (i)) of Regulation (EC) No 1307/2013,not_known_and_other,3399000000
 586,Heckenpflanzung Erosionsschutz,Hedge planting erosion control,not_known_and_other,3399000000
 587,Heckenpflanzung Vogelschutz,Hedge planting bird protection,not_known_and_other,3399000000
 590,Brache mit Einsaat von einjährigen Blühmischungen,Fallow with annual sowing of flower mix/Fallow (Flowering Mix),fallow_land_not_crop,3301110000
@@ -165,7 +165,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 605,Süßkartoffel,sweet potato,sweet_potatoes,3301040000
 606,Pflanzkartoffeln,Seed potatoes,potatoes,3301030000
 610,Gemüse,vegetables,fresh_vegetables,3301070000
-611,Gemüse-Kreuzblütler,Vegetable cruciferous vegetables,fresh_vegetables,3301070000
+611,Gemüse-Kreuzblütler,Vegetable cruciferous vegetables,brassicaceae_cruciferae,3301210000
 613,"Gemüsekohl (Kopfkohl, Wirsing, Rot-/Weißkohl, Spitzkohl, Grünkohl, Kohlrabi, Markstammkohl, Blumenkohl, Romanesco, Brokkoli, Rosenkohl, Zierkohl)",Vegetable cabbage (head cabbage/Vegetable cabbage (also ornamental cabbage),brassica_oleracea_cabbage,3301210200
 614,Brauner Senf/Sareptasenf,Brown mustard / Sareptasenf/Brown mustard (Sareptasenf),mustard,3301210100
 615,Echte Brunnenkresse,True watercress,cress,3301210300
@@ -173,12 +173,12 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 617,Gartenkresse,Garden cress,cress,3301210300
 618,"Gartenrettiche (Weiße/rote Rettiche, schwarzer Winterrettich, Ölrettich, Radieschen",Garden radishes (white / red radishes/Garden radishes,radish,3301290600
 619,"Weißer Senf, Gelber Senf",White mustard,mustard,3301210100
-620,"Steckrübe, Kohlrübe (Gemüseanbau)","Turnip, rutabaga (vegetable cultivation)",swede_rutabaga,3301210500
+620,"Steckrübe, Kohlrübe (Gemüseanbau)",rutabaga (vegetable cultivation),swede_rutabaga,3301210500
 621,Gemüse-Nachtschattengewächse,Vegetable nightshade family,fresh_vegetables,3301070000
 622,Tomaten,tomatoes,tomato,3301280000
 623,Auberginen,Eggplant,aubergine_eggplant,3301260000
 624,"Paprika, Chilli, Peperoni",Spanish pepper (paprika/Paprika chilli hot peppers,capsicum,3301300000
-625,Schwarze Tollkirsche,Black belladonna,not_known_and_other,3399000000
+625,Schwarze Tollkirsche,Black belladonna,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
 626,Gemüse-Kürbisgewächse,Vegetable cucurbits,cucurbits,3301140000
 627,"Gurke (Salatgurke, Einlegegurke)",Cucumber (cucumber/Cucumber (also pickled cucumber),cucumber_pickle,3301140100
 628,Zuckermelone,Sugar melon (cucumis melo),melon,3301140300
@@ -193,7 +193,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 637,"Lattich (Garten-Salat/Lattich, Lollo Rosso, Romana-Salat/Römischer Salat",Lattich (garden lettuce / lettuce/Lettuce (garden,salads_lettuce_leaf_vegetables,3301310000
 638,Spinat,spinach,spinach,3301310800
 639,"Mangold, Rote Beete/Rote Rübe","Swiss chard, beetroot",beetroot_beets,3301290200
-640,Melde (Garten-Melde),Report (garden report),kitchen_gardens,3301120000
+640,Melde (Garten-Melde),Garden orache,other_salads_lettuce_leaf_vegetables,3301319900
 641,"Sellerie (Knollen-Sellerie, Bleich-Sellerie, Stangen-Sellerie)",Celery (celery root/Celery (tuber / pale / stick),celery,3301250000
 642,Ampfer (Wiesen-Sauerampfer),Dock (meadow sorrel),sorrel,3301310700
 643,Pastinaken,Parsnips,parsnips,3301290500
@@ -202,7 +202,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 646,Meerettich,horseradish,horseradish,3301210400
 647,Schwarzwurzeln,Salsify,salsify,3301084000
 648,"Fenchel (Gemüsefenchel, Körnerfenchel)",Fennel (vegetable fennel/Fennel (vegetables / grains),fennel,3301170000
-649,"Gemüserübsen (Stoppelrübe, Weiße Rübe, Bayerische Rübe, Mairübe, Chinakohl, Pak-Choi, Teltower Rübchen, Stielmus, Herbstrübe)",Vegetable turnip (stubble turnip/Vegetable turnips,turnips,3301290800
+649,"Gemüserübsen (Stoppelrübe, Weiße Rübe, Bayerische Rübe, Mairübe, Chinakohl, Pak-Choi, Teltower Rübchen, Stielmus, Herbstrübe)",Vegetable turnip (stubble turnip/Vegetable turnips,brassicaceae_cruciferae,3301210000
 650,Küchenkräuter/Heil-und Gewürzpflanzen,Kitchen herbs / medicinal and aromatic plants,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 651,"Dill, Gurkenkraut",Dill/Anethum (dill,anethum_dill,3301061203
 652,"Kerbel (Kerbel/echter Kerbel, Wiesenkerbel)",Chervil (real chervil)/Chervil (also meadow chervil),chervil,3301061214
@@ -244,14 +244,14 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 701,Hanf,Industrial hemp/hemp,hemp_cannabis,3301061000
 702,"Rollrasen, Vegetationsmappen für Dachbegrünung",rolled turf/Turf,sod_turf,3301090207
 703,Färber-Waid,Dyer's woad,isatis_tinctoria_woad,3301082400
-704,Kanariensaat/Echtes Glanzgras,Glossy grass,pasture_meadow_grassland_grass,3302000000
+704,Kanariensaat/Echtes Glanzgras,Glossy grass,canary_seed_canaryseed,3301011400
 705,Virginischer Tabak,Virginian tobacco,tobacco,3301060100
 706,"Mohn (Schlafmohn, Backmohn)",Poppy seeds,poppy,3301060600
 707,Erdbeeren,Strawberries,strawberries,3301130000
 708,Färberdisteln,Safflower,safflower,3301083900
 709,Brennnesseln (Große Brennnessel),Nettles (great nettle)/Nettles (large nettles),nettles,3301061225
 710,Färberkrapp (Rubia tinctorum),Common madder (Rubia tinctorum),rubia_tinctorum_common_madder,3301061231
-720,Zierpflanzen,Ornamental plants (including flowers to pick yourself),unspecified_flowers_ornamental_plants,3301089800
+720,Zierpflanzen,Ornamental plants (including flowers to pick yourself),flowers_ornamental_plants,3301080000
 721,Goldlack,wallflower,other_flowers_ornamental_plants,3301089900
 722,Einjähriges Silberblatt,Annual silver leaf,lunaria_honesty_silver,3301082700
 723,Garten-/Sommerlevkoje,hoary stock,other_flowers_ornamental_plants,3301089900
@@ -291,7 +291,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 757,Montbretien,Garden Montbretie,other_flowers_ornamental_plants,3301089900
 758,Halskräuter (Blaues Halskraut),blue throatwort,other_flowers_ornamental_plants,3301089900
 759,Gipskräuter (Schleierkraut),Gypsophila,other_flowers_ornamental_plants,3301089900
-760,Pampasgräser (Amerikanisches Pampasgras),pampas grass,other_flowers_ornamental_plants,3301089900
+760,Pampasgräser (Amerikanisches Pampasgras),pampas grass,poaceae_grasses,3301090200
 761,Kosmeen (Gemeines Schmuckkörbchen),cosmos,other_flowers_ornamental_plants,3301089900
 762,Nachtkerzen (Diptam),evening primroses,primrose,3301083500
 763,Nachtkerzen (Oenothera),evening primroses,primrose,3301083500
@@ -309,7 +309,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 775,Kornblumen,Cornflowers,cornflowers,3301081000
 776,"Veilchen (Horn-Veilchen, Garten-Stiefmütterchen, Wildes Stiefmütterchen",Violets and pansies,violets_pansies,3301085100
 777,Phacelia (als Hauptkultur z.B. Saatgutvermehrung),Phacelia (as main culture e.g. seed propagation)/Phacelia,phacelia,3301061400
-778,Alpendistel,Alpine thistle,marian_thistles,3301061300
+778,Alpendistel,Alpine thistle,other_aromatic_medicinal_culinary_plants_spices_herbs,3301061299
 779,Amacrinum,Amarcrinum,other_flowers_ornamental_plants,3301089900
 780,Begonien,Begonias,begonias,3301080400
 781,Calla/Drachenwurz,calla,other_flowers_ornamental_plants,3301089900
@@ -333,9 +333,9 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 799,Husarenknopf (Sanvitalia),Hussar button (Sanvitalia),sanvitalia_procumbens,3301084100
 801,"Energiepflanze einer Gattung/Art, die in der aktuellen Liste nicht aufgeführt ist",Energy crop of a genus/species not included in the current list,energy_crops,3304010000
 802,"Silphium (Durchwachsene Silphie, Becherpflanze)",Silphium (streaky Silphie/Silphium (through-growth,silphium_rosinweeds,3301084400
-803,Sudangras,Sudan grass,poaceae_grasses,3301090200
+803,Sudangras,Sudan grass,millet_sorghum,3301010900
 804,Virginiamalve,Sida (Virginia Mallow),sida_virginia_mallow,3304030000
-805,"Staudenknöterich, Igniscum",Knotweed,other_permanent_crops_plantations,3303990000
+805,"Staudenknöterich, Igniscum",Knotweed,igniscum_candy,3304020100
 806,Rutenhirse/Switchgras,Switchgrass / switchgrass,switchgrass,3301090208
 821,Kern- und Steinobst,Pome and stone fruit,orchards_fruits,3303010000
 822,Streuobst (Ohne Wiesennutzung),Orchards as crop cultivation (without meadow use)/Orchards (without meadow use),orchards_fruits,3303010000
@@ -346,7 +346,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 827,"Beerenobst, z.B. Johannis-, Stachel-, Himbeeren",Berries,berries_berry_species,3303020000
 828,Sanddom,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800
 829,"Sonstige Obstanlagen z.B. Holunder, Aronia, Maulbeeren",Other orchards e.g. elderberries/Other orchards,orchards_fruits,3303010000
-830,Pfirsiche in Vollanbau,Peaches in full cultivation,orchards_fruits,3303010000
+830,Pfirsiche in Vollanbau,Peaches in full cultivation,peach,3303011100
 831,Kirschen (Ertragsanlagen),Cherries (crop plants),cherry_cherries,3303010400
 832,Pflaumen (Ertragsanlagen),Plums (crop plants),plums,3303011300
 833,Haselnüsse,Hazelnuts,hazelnuts_hazel,3303030200
@@ -384,9 +384,9 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 865,Trüffel,truffle,truffle,3304040000
 866,Pflanzenmischung mit Hanf,Plant mixture with hemp,hemp_cannabis,3301061000
 907,Höhere Gewalt (Zuweisung),Force majeure (assignment),not_known_and_other,3399000000
-910,Wildäsungsfläche,Deforestation area/Wild field on agricultural area,not_known_and_other,3399000000
+910,Wildäsungsfläche,Deforestation area/Wild field on agricultural area,fallow_land_not_crop,3301110000
 911,(Beta-)Rübensamenvermehrung,(Beta) beet seed multiplication,beetroot_beets,3301290200
-912,Grassamenvermehrung,Grass seed propagation,pasture_meadow_grassland_grass,3302000000
+912,Grassamenvermehrung,Grass seed propagation,temporary_grass,3301090100
 914,Versuchsflächen mit mehreren beihilfefähigen Kulturarten,Trial plots with several eligible crops/Trial areas (only direct payment possible),other_arable_land_crops,3301990000
 915,Ackerrandstreifen und Blühflächen,other flower strips or flower areas,flowers_ornamental_plants,3301080000
 918,Mehrjährige Blühstreifen und Blühflächen,Perennial flower strips or flower areas (only to be used for areas with AUM-BS 2),flowers_ornamental_plants,3301080000
@@ -398,7 +398,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 928,Gewässer- und Erosionsschutzstreifen,Water and erosion protection strips,not_known_and_other,3399000000
 930,Bewirtschaftete Gewässer/Teichflächen,Managed water bodies/pond areas,not_known_and_other,3399000000
 940,Unbewirtschaftes Gewässer,Unmanaged water,not_known_and_other,3399000000
-941,Gründüngung im Hauptfruchtanbau,Green manure in main crop cultivation,not_known_and_other,3399000000
+941,Gründüngung im Hauptfruchtanbau,Green manure in main crop cultivation,fallow_land_not_crop,3301110000
 952,Aufforstung n. d. Aufforstungsprämie '91 bis '92,Reforestation n. d. Reforestation premium '91 to '92,afforestation_reforestation,3306010000
 955,Erstaufforstung ldw. Flächen gem. VO (EG) Nr. 1257/1999 (Ödland),Initial afforestation of agricultural land according to Regulation (EC) No. 1257/1999 (wasteland),afforestation_reforestation,3306010000
 956,Aufforstung nach der Einkommensverlustprämie ab 2007,Afforestation,afforestation_reforestation,3306010000
@@ -408,10 +408,10 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 965,Unkultivierte Moorfläche,Uncultivated peatland,unmaintained,3308000000
 966,Unkultivierte Heidefläche,Uncultivated heath,unmaintained,3308000000
 972,Grünland (nicht DZ fähig),Run for livestock keeping (not DZ capable)/NFF: permanent grassland use,pasture_meadow_grassland_grass,3302000000
-980,Pilzbeet- und Gemüseflächen in Gebäuden (nicht im Gewächshaus),Mushroom beds and vegetable plots indoors (not in greenhouses).,mushrooms_energy_genetically_modified_crops,3304000000
+980,Pilzbeet- und Gemüseflächen in Gebäuden (nicht im Gewächshaus),Mushroom beds and vegetable plots indoors (not in greenhouses).,other_mushrooms_energy_crops_genetically_modified_crops,3304990000
 981,Pilze unter Glas,Mushrooms under glass,greenhouse_foil_film,3305000000
 982,Sonstige KUP,Other short rotation plantations (rotation time over 20 years),other_permanent_crops_plantations,3303990000
-983,Weihnachtsbäume,Christmas trees,tree_wood_forest,3306000000
+983,Weihnachtsbäume,Christmas trees,other_tree_wood_forest,3306990000
 990,Alle anderen Flächen (keine LF),All other surfaces (no LF),not_known_and_other,3399000000
 991,"Nicht landwirt. Flächen in der Verfügungsgewalt des Antragstellers, die gemäß § 15 Absatz 1 des Direktzahlungen-",Not farmer. Areas within the control of the applicant that have been designated as environmentally sensitive permanent grassland in accordance with Section 15 (1) of the Direct Payments Implementation Act,not_known_and_other,3399000000
 992,Nicht landwirt. Flächen in folge Genehmigung DGL Umwandlung,Not farmer. Areas following approval DGL conversion,not_known_and_other,3399000000

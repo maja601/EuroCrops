@@ -1,80 +1,80 @@
 original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCAT2_code
-50,Slåtter och betesvall på åkermark,Mowing and grazing on arable land,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-52,Betesmark (ej åker),Pasture (not arable),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-49,Slåtter och betesvall på åkermark med en vallgröda som ej är godkänd för miljöersättning och ersättningar för ekologisk produktion,Mowing and grazing on arable land with a hay crop that is not approved for environmental compensation and compensation for organic production,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-60,Träda,Fallow,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
-2,Korn (vår),Cereal (spring),spring_unspecified_cereals,3301011502,spring_unspecified_cereals,3301011502
-4,Vete (höst),Wheat (autumn),winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
-3,Havre,Oats,oats,3301010500,oats,3301010500
-77,Skyddszon mot vattendrag,Protection zone against watercourses,not_known_and_other,3399000000,not_known_and_other,3399000000
-80,Grönfoder,Green fodder,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-20,Raps (höst),Rapeseed (autumn),winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
-5,Vete (vår),Wheat (spring),spring_common_soft_wheat,3301010102,spring_common_soft_wheat,3301010102
-53,Slåtteräng (ej åker),Mowing meadow (does not go),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-7,Rågvete (höst),Rye wheat (autumn),winter_rye,3301010301,winter_rye,3301010301
-13,"Blandsäd (spannmåls-/baljväxtblandning), mer än 50% spannmål","Mixed grain (cereal / legume mixture), more than 50% cereals",unspecified_cereals,3301011500,unspecified_cereals,3301011500
-8,Råg,Rye,rye,3301010300,rye,3301010300
-45,Matpotatis,Food potatoes,potatoes,3301030000,potatoes,3301030000
-9,Majs,Maize,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
-12,Blandsäd (stråsädesblandningar),Mixed grain (cereal mixtures),unspecified_cereals,3301011500,unspecified_cereals,3301011500
 1,Korn (höst),Barley (autumn),winter_barley,3301010401,winter_barley,3301010401
-82,Våtmark,Wetland,not_known_and_other,3399000000,not_known_and_other,3399000000
-30,Ärter (ej konservärter),Peas (not canned),peas,3301020600,peas,3301020600
-74,Grönsaksodling (köksväxter),Vegetable growing (vegetables),fresh_vegetables,3301070000,fresh_vegetables,3301070000
-16,Stråsäd till grönfoder/ensilage,Cereals for green fodder / silage,unspecified_cereals,3301011500,unspecified_cereals,3301011500
-32,Åkerbönor,Field beans,beans,3301020100,beans,3301020100
-47,Sockerbetor,Sugar beet,sugar_beet,3301290700,sugar_beet,3301290700
-54,Skogsbete,Forest grazing,tree_wood_forest,3306000000,tree_wood_forest,3306000000
-34,Proteingrödsblandningar (baljväxter/spannmål)*,Protein crop mixtures (legumes / cereals) *,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
-95,Betesmark och slåtteräng under restaurering,Pasture and hay meadow during restoration,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-59,Gräsfrövall (flerårig),Grass seed grass (perennial),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-65,Salix,Salix,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-46,Stärkelsepotatis,Starch potatoes,potatoes,3301030000,potatoes,3301030000
-81,Gröngödsling,Green manure,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-88,Övrig odling på åkermark***,Other cultivation on arable land ***,arable_crops,3301000000,arable_crops,3301000000
-56,"Alvarbete (Öland, Gotland)",Alvar,unmaintained,3308000000,unmaintained,3308000000
-89,Mosaikbetesmark,Mosaic pasture,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-72,Fruktodling,Fruit growing,orchards_fruits,3303010000,orchards_fruits,3303010000
-21,Raps (vår),Rapeseed (spring),spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
-67,Poppel,Poplar,aspen,3306020000,aspen,3306020000
-70,Jordgubbsodling,Strawberry cultivation,strawberries,3301130000,strawberries,3301130000
-90,Gräsfattiga marker,Grass-poor lands,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-62,Klöverfrövall,Clover seed embankment,clover,3301090303,clover,3301090303
-71,Övrig bärodling,Other berry cultivation,berries_berry_species,3303020000,berries_berry_species,3303020000
+2,Korn (vår),Barley (spring),spring_barley,3301010402,spring_unspecified_cereals,3301011502
+3,Havre,Oats,oats,3301010500,oats,3301010500
+4,Vete (höst),Wheat (autumn),winter_common_soft_wheat,3301010101,winter_common_soft_wheat,3301010101
+5,Vete (vår),Wheat (spring),spring_common_soft_wheat,3301010102,spring_common_soft_wheat,3301010102
 6,Blandningar av baljväxter eller klöver till grovfoder/ensilage,Mixtures of legumes or clover for roughage / silage,legumes_harvested_green,3301090300,legumes_harvested_green,3301090300
-29,Rågvete (vår),Rye (spring),spring_rye,3301010302,spring_rye,3301010302
-31,Konservärter,Preservatives,not_known_and_other,3399000000,not_known_and_other,3399000000
-23,Rybs (vår),Rybs (spring),spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
-40,Oljelin,Flax,flax_linen,3301060701,flax_linen,3301060701
-58,Gräsfrövall (ettårig),Grass seed embankment (annual),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-61,Fäbodbete som ger rätt till gårdsstöd och kompensationsstöd,Shelter grazing that gives the right to farm support and compensation support,not_known_and_other,3399000000,not_known_and_other,3399000000
-66,Anpassade skyddszoner,Custom protection zones,not_known_and_other,3399000000,not_known_and_other,3399000000
-68,Hybridasp,Hybridasp,aspen,3306020000,aspen,3306020000
-83,Julgransodling,Christmas tree cultivation,tree_wood_forest,3306000000,tree_wood_forest,3306000000
-86,Ej stödberättigande gröda (bara för ersättningarna inom ekologisk produktion),Ineligible crop (only for compensation in organic production),not_known_and_other,3399000000,not_known_and_other,3399000000
-22,Rybs (höst),Rybs (autumn),winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
-24,Solros,Sunflower,sunflower,3301060500,sunflower,3301060500
-42,Hampa,Hemp,hemp_cannabis,3301061000,hemp_cannabis,3301061000
-55,Fäbodbete som inte ger rätt till gårdsstöd och kompensationsstöd,Shelter grazing that does not entitle to farm support and compensation support,not_known_and_other,3399000000,not_known_and_other,3399000000
-57,Slåttervall på åker (kontrakt med vallfodertork),Haymaking in the field (contract with forage dryer),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-63,Energigräs,Energy grass,temporary_grass,3301090100,temporary_grass,3301090100
-78,Plantskolor med odling av permanenta grödor,Nurseries with cultivation of permanent crops,nurseries_nursery,3303070000,nurseries_nursery,3303070000
+7,Rågvete (höst),Rye wheat (autumn),winter_rye,3301010301,winter_rye,3301010301
+8,Råg,Rye,rye,3301010300,rye,3301010300
+9,Majs,Maize,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
 10,Bovete,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
 11,Spannmålsförsök,Cereal experiments,unspecified_cereals,3301011500,unspecified_cereals,3301011500
-28,Oljerättika,Oil radish,radish,3301290600,radish,3301290600
-33,Sötlupiner,Sweet lupines,sweet_lupins,3301020700,sweet_lupins,3301020700
-35,Bruna bönor,Brown beans,beans,3301020100,beans,3301020100
-85,"Trädgårdsodling (ej köksväxter, frukt eller bär)","Horticulture (excluding vegetables, fruit or berries)",kitchen_gardens,3301120000,kitchen_gardens,3301120000
-87,Annan stödberättigande gröda (bara för ersättningarna inom ekologisk produktion),Other eligible crops (only for compensation in organic production),not_known_and_other,3399000000,not_known_and_other,3399000000
+12,Blandsäd (stråsädesblandningar),Mixed grain (cereal mixtures),cereal,3301010000,unspecified_cereals,3301011500
+13,"Blandsäd (spannmåls-/baljväxtblandning), mer än 50% spannmål","Mixed grain (cereal / legume mixture), more than 50% cereals",cereal,3301010000,unspecified_cereals,3301011500
 14,Kanariefrö,Canary seeds,canary_seed_canaryseed,3301011400,canary_seed_canaryseed,3301011400
 15,Hirs,Millet,millet_sorghum,3301010900,millet_sorghum,3301010900
+16,Stråsäd till grönfoder/ensilage,Cereals for green fodder / silage,cereal,3301010000,unspecified_cereals,3301011500
+20,Raps (höst),Rapeseed (autumn),winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+21,Raps (vår),Rapeseed (spring),spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
+22,Rybs (höst),Rybs (autumn),winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
+23,Rybs (vår),Rybs (spring),spring_rapeseed_rape,3301060402,spring_rapeseed_rape,3301060402
+24,Solros,Sunflower,sunflower,3301060500,sunflower,3301060500
 25,Oljeväxtförsök,Oil plant experiments,oilseed_crops,3301060800,oilseed_crops,3301060800
 27,Vitsenap,Vitsenap,mustard,3301210100,mustard,3301210100
+28,Oljerättika,Oil radish,radish,3301290600,radish,3301290600
+29,Rågvete (vår),Triticale (spring),spring_triticale,3301010802,spring_rye,3301010302
+30,Ärter (ej konservärter),Peas (not canned),peas,3301020600,peas,3301020600
+31,Konservärter,Pea for preserving,peas,3301020600,not_known_and_other,3399000000
+32,Åkerbönor,Field beans,beans,3301020100,beans,3301020100
+33,Sötlupiner,Sweet lupines,sweet_lupins,3301020700,sweet_lupins,3301020700
+34,Proteingrödsblandningar (baljväxter/spannmål)*,Protein crop mixtures (legumes / cereals) *,legumes_dried_pulses_protein_crops,3301020000,legumes_dried_pulses_protein_crops,3301020000
+35,Bruna bönor,Brown beans,beans,3301020100,beans,3301020100
 36,Vicker,Vetch,vetches,3301090305,vetches,3301090305
 37,Kikärter,Chickpeas,chickpeas,3301020200,chickpeas,3301020200
 38,Sojabönor (oljeväxt),Soybeans (oil plant),soy_soybeans,3301160000,soy_soybeans,3301160000
 39,Sojabönor (foderväxt),Soybeans (fodder plant),soy_soybeans,3301160000,soy_soybeans,3301160000
-41,Spånadslin,Chip linen,flax_linen,3301060701,flax_linen,3301060701
+40,Oljelin,Flax oil,flax_linseed_oil,3301060702,flax_linen,3301060701
+41,Spånadslin,Flax linen,flax_linen,3301060701,flax_linen,3301060701
+42,Hampa,Hemp,hemp_cannabis,3301061000,hemp_cannabis,3301061000
 43,Bönor övriga,Other beans,beans,3301020100,beans,3301020100
+45,Matpotatis,Food potatoes,potatoes,3301030000,potatoes,3301030000
+46,Stärkelsepotatis,Starch potatoes,potatoes,3301030000,potatoes,3301030000
+47,Sockerbetor,Sugar beet,sugar_beet,3301290700,sugar_beet,3301290700
 48,Foderbetor,Feed beets,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
+49,Slåtter och betesvall på åkermark med en vallgröda som ej är godkänd för miljöersättning och ersättningar för ekologisk produktion,Mowing and grazing on arable land with a hay crop that is not approved for environmental compensation and compensation for organic production,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+50,Slåtter och betesvall på åkermark,Mowing and grazing on arable land,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+52,Betesmark (ej åker),Pasture (not arable),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+53,Slåtteräng (ej åker),Mowing meadow (does not go),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+54,Skogsbete,Forest grazing,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+55,Fäbodbete som inte ger rätt till gårdsstöd och kompensationsstöd,Mountain pasture that does not entitle to farm support and compensation suppor,pasture_meadow_grassland_grass,3302000000,not_known_and_other,3399000000
+56,"Alvarbete (Öland, Gotland)",Alvar,not_known_and_other,3399000000,unmaintained,3308000000
+57,Slåttervall på åker (kontrakt med vallfodertork),Haymaking in the field (contract with forage dryer),temporary_grass,3301090100,pasture_meadow_grassland_grass,3302000000
+58,Gräsfrövall (ettårig),Grass seed embankment (annual),temporary_grass,3301090100,pasture_meadow_grassland_grass,3302000000
+59,Gräsfrövall (flerårig),Grass seed grass (perennial),temporary_grass,3301090100,pasture_meadow_grassland_grass,3302000000
+60,Träda,Fallow,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
+61,Fäbodbete som ger rätt till gårdsstöd och kompensationsstöd,Mountain pasture that entitles to farm support and compensation support,pasture_meadow_grassland_grass,3302000000,not_known_and_other,3399000000
+62,Klöverfrövall,Clover seed embankment,clover,3301090303,clover,3301090303
+63,Energigräs,Energy grass,temporary_grass,3301090100,temporary_grass,3301090100
+65,Salix,Salix willow,willows_osiers,3306080000,pasture_meadow_grassland_grass,3302000000
+66,Anpassade skyddszoner,Custom protection zones,not_known_and_other,3399000000,not_known_and_other,3399000000
+67,Poppel,Poplar,populus,3306070000,aspen,3306020000
+68,Hybridasp,Hybrid poplar,populus,3306070000,aspen,3306020000
+70,Jordgubbsodling,Strawberry cultivation,strawberries,3301130000,strawberries,3301130000
+71,Övrig bärodling,Other berry cultivation,berries_berry_species,3303020000,berries_berry_species,3303020000
+72,Fruktodling,Fruit growing,orchards_fruits,3303010000,orchards_fruits,3303010000
+74,Grönsaksodling (köksväxter),Vegetable growing (vegetables),fresh_vegetables,3301070000,fresh_vegetables,3301070000
+77,Skyddszon mot vattendrag,Protection zone against watercourses,not_known_and_other,3399000000,not_known_and_other,3399000000
+78,Plantskolor med odling av permanenta grödor,Nurseries with cultivation of permanent crops,nurseries_nursery,3303070000,nurseries_nursery,3303070000
 79,Kryddväxter och utsäde grönsaker,Herbs and seed vegetables,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+80,Grönfoder,Green fodder,plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
+81,Gröngödsling,Green manure,plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
+82,Våtmark,Wetland,not_known_and_other,3399000000,not_known_and_other,3399000000
+83,Julgransodling,Christmas tree cultivation,other_tree_wood_forest,3306990000,tree_wood_forest,3306000000
+85,"Trädgårdsodling (ej köksväxter, frukt eller bär)","Horticulture (excluding vegetables, fruit or berries)",kitchen_gardens,3301120000,kitchen_gardens,3301120000
+86,Ej stödberättigande gröda (bara för ersättningarna inom ekologisk produktion),Ineligible crop (only for compensation in organic production),other_arable_land_crops,3301990000,not_known_and_other,3399000000
+87,Annan stödberättigande gröda (bara för ersättningarna inom ekologisk produktion),Other eligible crops (only for compensation in organic production),other_arable_land_crops,3301990000,not_known_and_other,3399000000
+88,Övrig odling på åkermark***,Other cultivation on arable land ***,other_arable_land_crops,3301990000,arable_crops,3301000000
+89,Mosaikbetesmark,Mosaic pasture,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+90,Gräsfattiga marker,Grass-poor lands,not_known_and_other,3399000000,pasture_meadow_grassland_grass,3302000000
+95,Betesmark och slåtteräng under restaurering,Pasture and hay meadow during restoration,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000

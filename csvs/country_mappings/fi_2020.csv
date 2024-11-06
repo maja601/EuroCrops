@@ -37,7 +37,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 2200,Härkäpapu,Broad bean,beans,3301020100
 2300,Soijapapu,Soybean,soy_soybeans,3301160000
 2400,Virna,Vetch,vetches,3301090305
-2410,Mesikkä,sweet yellow clover,clover,3301090303
+2410,Mesikkä,sweet yellow clover,melilot,3301090304
 2420,Mailanen,Lucerne,alfalfa_lucerne,3301090301
 2430,Apila,Clover,clover,3301090303
 2440,Vuohenherne,galega,galega,3301081900
@@ -132,8 +132,8 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 5319,Muut marjakasvit,Other berry plants,unspecified_berries_berry_species,3303029800
 5410,"Koristekasvit, alle 5 v.","Ornamental plants, under 5 years",flowers_ornamental_plants,3301080000
 5420,"Koristekasvit, 5 v. ja yli, jatkuva sato avomaalta","Ornamentals, 5 years -, continuous outdoor harvest",flowers_ornamental_plants,3301080000
-5440,"Leikkovihreä ja leikkohavu, alle 5 v. kasveista","Ornamental leaves and conifers, under 5 years old",not_known_and_other,3399000000
-5441,"Leikkovihreä ja leikkohavu, väh. 5 v. kasveista","Cut greens and conifers for decoration, at least 5 years old",not_known_and_other,3399000000
+5440,"Leikkovihreä ja leikkohavu, alle 5 v. kasveista","Ornamental leaves and conifers, under 5 years old",other_tree_wood_forest,3306990000
+5441,"Leikkovihreä ja leikkohavu, väh. 5 v. kasveista","Cut greens and conifers for decoration, at least 5 years old",other_tree_wood_forest,3306990000
 5442,"Koristepaju punontatarkoitukseen, alle 5 v.","Ornamental willow for braiding, under 5 years",willows_osiers,3306080000
 5443,"Koristepaju punontatarkoitukseen, 5 - 20 v.","Ornamental willow for braiding, 5 - 20 years",willows_osiers,3306080000
 5451,Tyrni,Sea buckthorn,hippophae_sea_buckthorns_seaberry,3303020800
@@ -151,15 +151,15 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 5850,Saneerauskasvi (valkosinappi),white mustard,mustard,3301210100
 5851,Saneerauskasvi (öljyretikka),oil radish,radish,3301290600
 5852,Saneerauskasvi (samettikukka),Tagetes,tagetes,3301084700
-5853,Saneerauskasviseos,Remediation crop (mixture),not_known_and_other,3399000000
+5853,Saneerauskasviseos,Remediation crop (mixture),fallow_land_not_crop,3301110000
 5860,Pienet vierekkäiset alat,Small adjacent fields,not_known_and_other,3399000000
-6050,Viherlannoitusnurmi,Green manure lawn,pasture_meadow_grassland_grass,3302000000
-6051,Viherlannoitusnurmi (ei ympäristösitoumusta),Green manure  (no environmental commitment),pasture_meadow_grassland_grass,3302000000
+6050,Viherlannoitusnurmi,Green manure lawn,fallow_land_not_crop,3301110000
+6051,Viherlannoitusnurmi (ei ympäristösitoumusta),Green manure  (no environmental commitment),fallow_land_not_crop,3301110000
 6060,Siirtonurmi,Turf,sod_turf,3301090207
-6111,"1-vuot. kuivaheinä-, säilörehu-, tuorerehunurmet","1 years. dry hay, silage, fresh fodder grasses",pasture_meadow_grassland_grass,3302000000
-6112,1-vuotiset laidunnurmet,Annual pasture,pasture_meadow_grassland_grass,3302000000
-6113,1-vuotiset siemennurmet,1-year seed grasses,pasture_meadow_grassland_grass,3302000000
-6115,"1-vuotinen siemennurmi, yksilajinen","1-year seed grass, single species",pasture_meadow_grassland_grass,3302000000
+6111,"1-vuot. kuivaheinä-, säilörehu-, tuorerehunurmet","1 years. dry hay, silage, fresh fodder grasses",temporary_grass,3301090100
+6112,1-vuotiset laidunnurmet,Annual pasture,temporary_grass,3301090100
+6113,1-vuotiset siemennurmet,1-year seed grasses,temporary_grass,3301090100
+6115,"1-vuotinen siemennurmi, yksilajinen","1-year seed grass, single species",temporary_grass,3301090100
 6121,"Moniv. kuivaheinä-, säilörehu- ja tuorerehunurmet","Perennial dry hay, silage and fresh fodder crops",pasture_meadow_grassland_grass,3302000000
 6122,Monivuotiset laidunnurmet,Perennial pasture,pasture_meadow_grassland_grass,3302000000
 6123,Monivuotiset siemennurmet,Perennial seed grasses,pasture_meadow_grassland_grass,3302000000
@@ -171,7 +171,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 6304,Luonnonlaidun jolla kohd. toim.pit. (Ahvenanmaa),Natural pasture with targeted interventions (Åland),pasture_meadow_grassland_grass,3302000000
 6305,Luonnonlaidun kulttuurialueella (Ahvenanmaa),Cultivated Pasture,pasture_meadow_grassland_grass,3302000000
 6307,Muu luonnonlaidun (Ahvenanmaa),Other natural pasture (Åland),pasture_meadow_grassland_grass,3302000000
-6401,Muut rehukasvit,Other fodder plants,not_known_and_other,3399000000
+6401,Muut rehukasvit,Other fodder plants,other_arable_land_crops,3301990000
 6402,Rehurapsi,Fodder rape,rapeseed_rape,3301060400
 6545,"Englannin raiheinän siemen, valvottu tuotanto",English ryegrass  seed,lolium_ryegrass,3301090205
 6546,"Italianraiheinän (westerw.) siemen, valv. tuotanto",Ryegrass,lolium_ryegrass,3301090205
@@ -182,26 +182,26 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code
 6600,Metsälaidun,Silvopasture,tree_wood_forest,3306000000
 6710,"Hakamaa, avoin",Grazing land open,pasture_meadow_grassland_grass,3302000000
 6720,"Hakamaa, puustoinen",Grazing land wooded,pasture_meadow_grassland_grass,3302000000
-9060,Hunajantuotantoon tarkoitettu kasvusto,Plants for honey production,not_known_and_other,3399000000
+9060,Hunajantuotantoon tarkoitettu kasvusto,Plants for honey production,fallow_land_not_crop,3301110000
 9061,Aitohunajakukka,Lacy phacelia,phacelia,3301061400
 9101,"20 v. erityistukisopimus, pelto","20-year special support agreement, field",not_known_and_other,3399000000
 9102,"20 v. erityistukisopimus, muu ala","20-year special support agreement, other sector",not_known_and_other,3399000000
 9403,Sänkikesanto,Stump fallow,fallow_land_not_crop,3301110000
 9404,Avokesanto,Open fallow,fallow_land_not_crop,3301110000
-9405,"Luonnonhoitopelto (nurmikasvit, väh. 2 v.)","Natural management field (grasses and legumes, min. 2 yrs)",pasture_meadow_grassland_grass,3302000000
+9405,"Luonnonhoitopelto (nurmikasvit, väh. 2 v.)","Natural management field (grasses and legumes, min. 2 yrs)",temporary_grass,3301090100
 9412,Viherkesanto (nurmi ja niitty),Grassland (grassland and meadow),pasture_meadow_grassland_grass,3302000000
 9413,Viherkesanto (riista ja maisema),Green cover (wildlife and landscape),pasture_meadow_grassland_grass,3302000000
-9414,Viherkesanto (mesikasvit),honey plants,not_known_and_other,3399000000
+9414,Viherkesanto (mesikasvit),honey plants,fallow_land_not_crop,3301110000
 9422,"Monimuotoisuuspelto, riista",Diversity field for wild animals,not_known_and_other,3399000000
 9423,"Monimuotoisuuspelto, maisema","Diversity field, landscape",not_known_and_other,3399000000
 9424,"Monimuotoisuuspelto, niitty 1. ja 2. vuosi","Diversity field, meadow 1st and 2nd year",pasture_meadow_grassland_grass,3302000000
-9620,Tilapäisesti viljelemätön ala,Temporarily uncultivated area,not_known_and_other,3399000000
-9621,Tilapäisesti viljelemätön luonnonlaidun ja -niitty,Temporary uncultivated natural pastures and meadows,temporary_grass,3301090100
+9620,Tilapäisesti viljelemätön ala,Temporarily uncultivated area,fallow_land_not_crop,3301110000
+9621,Tilapäisesti viljelemätön luonnonlaidun ja -niitty,Temporary uncultivated natural pastures and meadows,pasture_meadow_grassland_grass,3302000000
 9630,Kasvimaa,Garden plot,kitchen_gardens,3301120000
-9700,Pysyvästi viljelemätön,Permanently uncultivated,not_known_and_other,3399000000
+9700,Pysyvästi viljelemätön,Permanently uncultivated,unmaintained,3308000000
 9801,"Erityistukisopimusala, pysyvä laidun","Contract area for special aid, permanent pasture",pasture_meadow_grassland_grass,3302000000
 9802,"Erityistukisopimusala, muu ala","Contract area for special aid, other area",not_known_and_other,3399000000
-9803,"Erityistukisopimusala, pelto","Contract area for special payments, arable land",not_known_and_other,3399000000
+9803,"Erityistukisopimusala, pelto","Contract area for special payments, arable land",other_arable_land_crops,3301990000
 9804,"Erityistukisopimusala, metsämaa","Contract area for special aid, woodland",tree_wood_forest,3306000000
 9805,"Ympäristösopimusala, pysyvä nurmi","Environmental agreement area, permanent grassland",pasture_meadow_grassland_grass,3302000000
 9806,"Kurki-, hanhi- ja joutsenpelto (sopimus)","Fields for cranes, geese and swans (agreement)",not_known_and_other,3399000000

@@ -2,9 +2,9 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 201,Silomais,Silage maize,green_silo_maize,3301090400,green_silo_maize,3301090400
 321,Wintergerst,winter barley,winter_barley,3301010401,winter_barley,3301010401
 13,Niet nader omschreven gebouw,Building not specified,not_known_and_other,3399000000,not_known_and_other,3399000000
-9711,Meerjarige fruitteelten (peer),Perennial fruit crops (pear),orchards_fruits,3303010000,orchards_fruits,3303010000
+9711,Meerjarige fruitteelten (peer),Perennial fruit crops (pear),pears,3303011200,orchards_fruits,3303010000
 91,Suikerbieten,sugar beets,sugar_beet,3301290700,sugar_beet,3301290700
-999,Niet nader omschreven gewas - kleine landbouwer,Unspecified crop - small farmer,not_known_and_other,3399000000,not_known_and_other,3399000000
+999,Niet nader omschreven gewas - kleine landbouwer,Unspecified crop - small farmer,other_arable_land_crops,3301990000,not_known_and_other,3399000000
 11,Stal,stable,not_known_and_other,3399000000,not_known_and_other,3399000000
 16,Ander gebouw,Other building,not_known_and_other,3399000000,not_known_and_other,3399000000
 202,Korrelmais,grain corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
@@ -12,7 +12,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 9828,Natuurlijk grasland met minimumactiviteit,Natural grassland with minimum activity,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 71,Voederbieten,fodder beets,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
 904,Aardappelen (geplande oogst voor 1/9),Potatoes (planned harvest for 1/9),potatoes,3301030000,potatoes,3301030000
-63,Graskruiden mengsel,Grass herb mixture,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+63,Graskruiden mengsel,Grass herb mixture,plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
 9710,Meerjarige fruitteelten (appel),Perennial fruit crops (apple),apples,3303010200,apples,3303010200
 98,Faunamengsel,Fauna mixture,not_known_and_other,3399000000,not_known_and_other,3399000000
 4,Houtkanten en houtwallen <= 10 m breed,Wooded edges and wooded banks <= 10 m wide,tree_wood_forest,3306000000,tree_wood_forest,3306000000
@@ -48,7 +48,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 89,Braakliggend land met minimale activiteit met EAG,Derelict land with minimal activity with EAG,unmaintained,3308000000,unmaintained,3308000000
 9581,Laanbomen,avenue trees,tree_wood_forest,3306000000,tree_wood_forest,3306000000
 832,Tuin- en veldbonen (Vicia faba) - industrie,Broad and field beans (Vicia faba) - industry,beans,3301020100,beans,3301020100
-831,Erwten (andere dan droog geoogst) - industrie,Peas (other than dry harvested) - industry,legumes_harvested_green,3301090300,legumes_harvested_green,3301090300
+831,Erwten (andere dan droog geoogst) - industrie,Peas (other than dry harvested) - industry,peas,3301020600,legumes_harvested_green,3301090300
 312,Zomertarwe,summer wheat,spring_common_soft_wheat,3301010102,summer_common_soft_wheat,3301010103
 8519,Spinazie - industrie,Spinach - industry,spinach,3301310800,spinach,3301310800
 9561,Witloofwortel,Chicory root,chicory_chicories,3301310200,chicory_chicories,3301310200
@@ -64,10 +64,10 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 895,Bomen in groep,Group trees,tree_wood_forest,3306000000,tree_wood_forest,3306000000
 331,Winterrogge,winter rye,winter_rye,3301010301,winter_rye,3301010301
 9511,Asperges - vers,Asparagus - fresh,asparagus,3301200000,aspargus,3301200000
-745,Mengsel van gras en vlinderbloemigen (andere dan grasklaver of grasluzerne),Mixture of grass and leguminous plants (other than grass clover or grass alfalfa),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+745,Mengsel van gras en vlinderbloemigen (andere dan grasklaver of grasluzerne),Mixture of grass and leguminous plants (other than grass clover or grass alfalfa),plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
 9825,Heide in natuurbeheer,Heath in nature management,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 9570,Azalea,Azalea,azaleas,3303080100,azaleas,3303080100
-962,Kerstbomen,Christmas trees,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+962,Kerstbomen,Christmas trees,other_tree_wood_forest,3306990000,tree_wood_forest,3306000000
 9716,Wijnstokken,Vines,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
 9556,Pompoenen - vers,Pumpkins - fresh,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
 9547,Potchrysanten,pot chrysanthemums,chrysanthemum,3301080900,chrysanthemum,3301080900
@@ -98,8 +98,8 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 9512,Spruitkool - vers,Brussels sprouts - fresh,brussels_sprouts,3301210203,brussels_sprouts,3301210203
 9546,Savooikool - vers,Savoy cabbage - fresh,savoy_cabbage,3301210211,savoy_cabbage,3301210211
 9540,Witte kool - vers,White cabbage - fresh,white_cabbage,3301210212,white_cabbage,3301210212
-647,Andere niet-vlinderbloemige groenbedekker,Other non-flowery green cover plants,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
-96,Niet-eetbare tuinbouwgewassen,Non-edible horticultural crops,industrial_nonfood_crops,3301060000,industrial_nonfood_crops,3301060000
+647,Andere niet-vlinderbloemige groenbedekker,Other non-flowery green cover plants,temporary_grass,3301090100,flowers_ornamental_plants,3301080000
+96,Niet-eetbare tuinbouwgewassen,Non-edible horticultural crops,other_industrial_crops,3301069900,industrial_nonfood_crops,3301060000
 9832,Bloemenmengsel voor EAG Braak,Flower mixture for EAG Braak,flowers_ornamental_plants,3301080000,flowers_ornamental_plants,3301080000
 9410,Stamslabonen/sperziebonen - vers,Green beans/green beans - fresh,beans,3301020100,beans,3301020100
 956,Andere kruiden - vers,Other herbs - fresh,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
@@ -125,9 +125,9 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 39,Andere granen (bv. Mengkoren),Other grains (e.g. mixed wheat),unspecified_cereals,3301011500,unspecified_cereals,3301011500
 9548,Groene selder - vers,Green celery - fresh,celery,3301250000,celery,3301250000
 9590,Solitaire bomen,Solitary Trees,tree_wood_forest,3306000000,tree_wood_forest,3306000000
-9713,Meerjarige fruitteelten (pruim),Perennial fruit crops (plum),orchards_fruits,3303010000,orchards_fruits,3303010000
+9713,Meerjarige fruitteelten (pruim),Perennial fruit crops (plum),plums,3303011300,orchards_fruits,3303010000
 34,Japanse haver,Japanese oats,oats,3301010500,oats,3301010500
-856,Andere kruiden - industrie,Other herbs - industry,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
+856,Andere kruiden - industrie,Other herbs - industry,unspecified_aromatic_medicinal_culinary_plants_spices_herbs,3301061298,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 8564,Wortel (vroege) (consumptie) - industrie,Carrot (early) (consumption) - industry,carrots_daucus,3301290300,carrots_daucus,3301290300
 731,Eenjarige luzerne,Annual Alfalfa,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
 9534,(Knol)venkel - vers,(tuber) fennel - fresh,fennel,3301170000,fennel,3301170000
@@ -162,9 +162,9 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 9554,Cucumbers - fresh,Cucumbers - fresh,cucumber_pickle,3301140100,cucumber_pickle,3301140100
 894,Bebossing met contract voor 2008,Afforestation with contract for 2008,afforestation_reforestation,3306010000,afforestation_reforestation,3306010000
 639,Snijrogge,cutting rye,rye,3301010300,rye,3301010300
-743,Andere voedergewassen,Other fodder crops,fodder_roots,3301050000,fodder_roots,3301050000
+743,Andere voedergewassen,Other fodder crops,other_arable_land_crops,3301990000,fodder_roots,3301050000
 9553,Paprika - vers,Bell pepper - fresh,bell_pepper_paprika,3301300100,bell_pepper_paprika,3301300100
-542,Mengteelt andere granen en vlinderbloemige (bv. erwten en gerst),Mixed cultivation of other cereals and leguminous plants (e.g. peas and barley),other_cereals,3301019900,other_cereals,3301019900
+542,Mengteelt andere granen en vlinderbloemige (bv. erwten en gerst),Mixed cultivation of other cereals and leguminous plants (e.g. peas and barley),unspecified_cereals,3301011500,other_cereals,3301019900
 8548,Groene selder - industrie,Green celery - industry,celery,3301250000,celery,3301250000
 9532,Rode biet - vers,Beetroot - fresh,beetroot_beets,3301290200,beetroot_beets,3301290200
 9519,Spinazie - vers,Spinach - fresh,spinach,3301310800,spinach,3301310800
@@ -172,7 +172,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 9456,Butternutpompoenen - vers,Butternut Squashes - Fresh,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
 957,Geneeskrachtige en aromatische planten en kruiden,Medicinal and aromatic plants and herbs,aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 8911,Bebossing loofbomen-economisch,Afforestation of deciduous trees-economical,afforestation_reforestation,3306010000,afforestation_reforestation,3306010000
-653,Soedangras,Sudan grass,poaceae_grasses,3301090200,poaceae_grasses,3301090200
+653,Soedangras,Sudan grass,millet_sorghum,3301010900,poaceae_grasses,3301090200
 8527,Rode kool - industrie,Red cabbage - industry,red_cabbage,3301210210,red_cabbage,3301210210
 9719,Stekelbessen,gooseberries,gooseberry_gooseberries_cranberries,3303020700,gooseberry_gooseberries_cranberries,3303020700
 94,Snijbonen - vers,String beans - fresh,beans,3301020100,beans,3301020100
@@ -185,7 +185,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 723,Rode klaver,red clover,clover,3301090303,clover,3301090303
 9409,Pastinaak - vers,Parsnip - fresh,parsnips,3301290500,parsnips,3301290500
 963,Wijmenaanplantingen,vine plantations,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
-9536,Champignons (loods),Mushrooms (shed),mushrooms_energy_genetically_modified_crops,3304000000,mushrooms_energy_genetically_modified_crops,3304000000
+9536,Champignons (loods),Mushrooms (shed),other_mushrooms_energy_crops_genetically_modified_crops,3304990000,mushrooms_energy_genetically_modified_crops,3304000000
 37,Boekweit,Buckwheat,buckwheat,3301150200,buckwheat,3301150200
 656,Bladrammenas,fodder radish,radish,3301290600,radish,3301290600
 9201,Hazelnoten,hazelnuts,hazelnuts_hazel,3303030200,hazelnuts_hazel,3303030200
@@ -219,7 +219,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 922,Vezelhennep (bestemd voor vezelproductie),Fiber hemp (intended for fiber production),hemp_cannabis,3301061000,hemp_cannabis,3301061000
 85,Andere bedekking,Other cover,not_known_and_other,3399000000,not_known_and_other,3399000000
 8557,Andere alternatieve slasoorten - industrie,Other alternative lettuce varieties - industry,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
-746,Voederrapen,Fodder Turnips,fodder_roots,3301050000,fodder_roots,3301050000
+746,Voederrapen,Fodder Turnips,turnips,3301290800,fodder_roots,3301050000
 8515,Witloof (forcerie) - industrie,Chicory (force) - industry,chicory_chicories,3301310200,chicory_chicories,3301310200
 8544,Ijsbergsla - industrie,Iceberg lettuce - industry,iceberg,3301310400,iceberg,3301310400
 9412,Flageolets (voor de boon) - vers,Flageolets (for the bean) - fresh,beans,3301020100,beans,3301020100
@@ -230,7 +230,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 8518,Kropsla - industrie,lettuce - industry,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
 8530,Raap - industrie,Turnip - industry,turnips,3301290800,turnips,3301290800
 8534,(Knol)venkel - industrie,Fennel (tuber) - industry,fennel,3301170000,fennel,3301170000
-8620,Andere kolen - industrie,Other coal - industry,brassica_oleracea_cabbage,3301210200,brassica_oleracea_cabbage,3301210200
+8620,Andere kolen - industrie,Other cabbages - industry,brassica_oleracea_cabbage,3301210200,brassica_oleracea_cabbage,3301210200
 8912,Bebossing naaldbomen,Afforestation of conifers,afforestation_reforestation,3306010000,afforestation_reforestation,3306010000
 44,Andere oliehoudende zaden,Other oilseeds,oilseed_crops,3301060800,oilseed_crops,3301060800
 323,Brouwgerst,brewing barley,barley,3301010400,barley,3301010400
@@ -242,7 +242,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 9544,Ijsbergsla - vers,Iceberg lettuce - fresh,iceberg,3301310400,iceberg,3301310400
 9550,Rammenas - vers,Black radish - fresh,radish,3301290600,radish,3301290600
 9720,Zwarte bessen,Blackcurrants,blackcurrant_cassis,3303020300,blackcurrant_cassis,3303020300
-9731,Meerjarige fruitteelten hoogstam (peer),Perennial fruit crops standard (pear),orchards_fruits,3303010000,orchards_fruits,3303010000
+9731,Meerjarige fruitteelten hoogstam (peer),Perennial fruit crops standard (pear),pears,3303011200,orchards_fruits,3303010000
 8456,Butternutpompoenen - industrie,Butternut Squashes - Industry,pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
 9576,Snijbloemen - rozen,Cut flowers - roses,roses,3301083700,roses,3301083700
 8537,Andijvie - industrie,Endive - industry,endive,3301310300,endive,3301310300
@@ -259,7 +259,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 961,Wortelpeterselie - vers verbruik,Carrot parsley - fresh consumption,parsly,3301061227,parsly,3301061227
 965,Bieslook - vers verbruik,Chives - fresh consumption,chives,3301220100,chives,3301220100
 9545,Raketsla - Rucola - vers,Rocket salad - Arugula - fresh,rocket_arugula,3301310600,rocket_arugula,3301310600
-9566,Zaden voor de sierteelt,Seeds for floriculture,arable_land_seed_seedlings,3301100000,arable_land_seed_seedlings,3301100000
+9566,Zaden voor de sierteelt,Seeds for floriculture,flowers_ornamental_plants,3301080000,arable_land_seed_seedlings,3301100000
 602,Teeltmateriaal wijnstokken,Cultivation material vines,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
 606,Zaaizaad voedergewassen,Seeds for fodder plants,arable_land_seed_seedlings,3301100000,arable_land_seed_seedlings,3301100000
 638,Festulolium,Festulolium,festulolium,3301090204,festulolium,3301090204
