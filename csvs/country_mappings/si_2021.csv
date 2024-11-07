@@ -1,44 +1,44 @@
 original_code,original_code,latin_name,translated_name,HCAT3_name,HCAT3_code
-0,ni v uporabi,Not known,Not known,not_known_and_other,3399000000
-1,p?enica (jara),Triticum aestivum L.,Common wheat spring,spring_common_soft_wheat,3301010102
-2,r? (jara),Secale cereale L.,Rye (spring),spring_rye,3301010302
-3,pira (jara),Triticum spelta L.,Spring Spelt,spring_spelt,3301011002
-4,ajda,Fagopyrum esculentum Moench,Buckwheat,buckwheat,3301150200
-5,koruza za zrnje,Zea mays L.,Grain maize,grain_maize_corn_popcorn,3301010600
-6,koruza za sila?o,Zea mays L.,Silo Maize,green_silo_maize,3301090400
-7,tritikala (jara),X Triticosecale Wittmack (Triticum x Secale),Spring Triticale,spring_triticale,3301010802
-8,oves (jari),Avena sativa L.,Oats (spring),spring_oats,3301010502
-9,je?men (jari),"Hordeum vulgare L., spring barley",spring barley,spring_barley,3301010402
-10,proso,Panicum miliaceum L.,Proso millet,millet_sorghum,3301010900
-11,me?anice ?it (jara),Mixture of cereals (spring),Mixture of cereals (spring),spring_unspecified_cereals,3301011502
-12,son?nice,Helianthus annus L.,Common Sunflower,sunflower,3301060500
-13,oljna bu?a,Cucurbita pepo var.pepo,Winter squash pumkin,pumpkin_squash_gourd,3301140400
-14,oljna ogr??ica (jara),Brassica napus var.napus,Rapeseed spring,spring_rapeseed_rape,3301060402
-17,krmni bob,Vicia faba L. var. minor Harz,Field bean,beans,3301020100
-19,sladkorna pesa,Beta vulgaris L. subsp. vulgaris var. Altissima,Sugar beet,sugar_beet,3301290700
-20,krompir (pozni),Solanum tuberosum L.,potatoes (late),potatoes,3301030000
-22,krompir (zgodnji),Solanum tuberosum L.,potatoes (early),potatoes,3301030000
-24,sirek,Sorghum bicolor (L.) Moench,sorghum,millet_sorghum,3301010900
-25,trda p?enica (jara),Triticum durum Desf.,Durum wheat spring,spring_durum_hard_wheat,3301010202
-26,praha,Fallow land,Fallow land,fallow_land_not_crop,3301110000
-27,konoplja,Canabis sativa var.sativa,Cannabis,hemp_cannabis,3301061000
-28,lan,Linum usitatissimum L.,Flax,flax_linen,3301060701
-29,ukoreni??e hmeljnih sadik,The rooting of hop seedlings,The rooting of hop seedlings,hops,3301060200
-30,soja,Glycine max (L.) Merr.,Soybean,soy_soybeans,3301160000
-31,vrtni mak (jari),Papaver somniferum L. subsp. somniferum,Spring Poppy,summer_poppy,3301060602
-33,krmni grah (jari),Pisum sativum L.,Pea spring,peas,3301020600
-35,p?enica horasan (jara),Triticum turanicum Jakubz.,Khorasan wheat spring,other_cereals,3301019900
-36,ri?ek,Camelina sativa L. Crantz,Camelina,camelina,3301061500
-37,amarant,Amaranthus caudatus L.,Pendant amaranth,amaranth,3301150100
-38,repa,Brassica rapa L.  var. rapa (L.) Thell.,Turnip,turnips,3301290800
-49,sladka koruza,Zea mays L. convar. saccharata Koerm.,Sweet corn,grain_maize_corn_popcorn,3301010600
-52,me?anica medonosnih rastlin,A mixture of honey plants,A mixture of honey plants,fallow_land_not_crop,3301110000
-53,me?anica medonosnih rastlin z drugimi kmetijskimi rastlinami,A mixture of honey plants with other agricultural plants,A mixture of honey plants with other agricultural plants,fallow_land_not_crop,3301110000
-54,bela gorju?ica - medonosna praha,Sinapis alba L.,White mustard ,mustard,3301210100
-55,oljna redkev - medonosna praha,Raphanus sativus L. var. oleiformis Pers.,Oilseed radish,radish,3301290600
-56,facelija - medonosna praha,Phacelia tanacetifolia,Phacelia,phacelia,3301061400
-57,ajda - medonosna praha,Fagopyrum esculentum Moench,Buckwheat,buckwheat,3301150200
-58,son?nice - medonosna praha,Helianthus annus L.,Sunflower,sunflower,3301060500
+000,ni v uporabi,Not known,Not known,not_known_and_other,3399000000
+001,p?enica (jara),Triticum aestivum L.,Common wheat spring,spring_common_soft_wheat,3301010102
+002,r? (jara),Secale cereale L.,Rye (spring),spring_rye,3301010302
+003,pira (jara),Triticum spelta L.,Spring Spelt,spring_spelt,3301011002
+004,ajda,Fagopyrum esculentum Moench,Buckwheat,buckwheat,3301150200
+005,koruza za zrnje,Zea mays L.,Grain maize,grain_maize_corn_popcorn,3301010600
+006,koruza za sila?o,Zea mays L.,Silo Maize,green_silo_maize,3301090400
+007,tritikala (jara),X Triticosecale Wittmack (Triticum x Secale),Spring Triticale,spring_triticale,3301010802
+008,oves (jari),Avena sativa L.,Oats (spring),spring_oats,3301010502
+009,je?men (jari),"Hordeum vulgare L., spring barley",spring barley,spring_barley,3301010402
+010,proso,Panicum miliaceum L.,Proso millet,millet_sorghum,3301010900
+011,me?anice ?it (jara),Mixture of cereals (spring),Mixture of cereals (spring),spring_unspecified_cereals,3301011502
+012,son?nice,Helianthus annus L.,Common Sunflower,sunflower,3301060500
+013,oljna bu?a,Cucurbita pepo var.pepo,Winter squash pumkin,pumpkin_squash_gourd,3301140400
+014,oljna ogr??ica (jara),Brassica napus var.napus,Rapeseed spring,spring_rapeseed_rape,3301060402
+017,krmni bob,Vicia faba L. var. minor Harz,Field bean,beans,3301020100
+019,sladkorna pesa,Beta vulgaris L. subsp. vulgaris var. Altissima,Sugar beet,sugar_beet,3301290700
+020,krompir (pozni),Solanum tuberosum L.,potatoes (late),potatoes,3301030000
+022,krompir (zgodnji),Solanum tuberosum L.,potatoes (early),potatoes,3301030000
+024,sirek,Sorghum bicolor (L.) Moench,sorghum,millet_sorghum,3301010900
+025,trda p?enica (jara),Triticum durum Desf.,Durum wheat spring,spring_durum_hard_wheat,3301010202
+026,praha,Fallow land,Fallow land,fallow_land_not_crop,3301110000
+027,konoplja,Canabis sativa var.sativa,Cannabis,hemp_cannabis,3301061000
+028,lan,Linum usitatissimum L.,Flax,flax_linen,3301060701
+029,ukoreni??e hmeljnih sadik,The rooting of hop seedlings,The rooting of hop seedlings,hops,3301060200
+030,soja,Glycine max (L.) Merr.,Soybean,soy_soybeans,3301160000
+031,vrtni mak (jari),Papaver somniferum L. subsp. somniferum,Spring Poppy,summer_poppy,3301060602
+033,krmni grah (jari),Pisum sativum L.,Pea spring,peas,3301020600
+035,p?enica horasan (jara),Triticum turanicum Jakubz.,Khorasan wheat spring,other_cereals,3301019900
+036,ri?ek,Camelina sativa L. Crantz,Camelina,camelina,3301061500
+037,amarant,Amaranthus caudatus L.,Pendant amaranth,amaranth,3301150100
+038,repa,Brassica rapa L.  var. rapa (L.) Thell.,Turnip,turnips,3301290800
+049,sladka koruza,Zea mays L. convar. saccharata Koerm.,Sweet corn,grain_maize_corn_popcorn,3301010600
+052,me?anica medonosnih rastlin,A mixture of honey plants,A mixture of honey plants,fallow_land_not_crop,3301110000
+053,me?anica medonosnih rastlin z drugimi kmetijskimi rastlinami,A mixture of honey plants with other agricultural plants,A mixture of honey plants with other agricultural plants,fallow_land_not_crop,3301110000
+054,bela gorju?ica - medonosna praha,Sinapis alba L.,White mustard ,mustard,3301210100
+055,oljna redkev - medonosna praha,Raphanus sativus L. var. oleiformis Pers.,Oilseed radish,radish,3301290600
+056,facelija - medonosna praha,Phacelia tanacetifolia,Phacelia,phacelia,3301061400
+057,ajda - medonosna praha,Fagopyrum esculentum Moench,Buckwheat,buckwheat,3301150200
+058,son?nice - medonosna praha,Helianthus annus L.,Sunflower,sunflower,3301060500
 100,vinska trta,Vitis vinifera L.,Common grape vine,vineyards_wine_vine_rebland_grapes,3303060000
 101,krmna pesa,Beta vulgaris spp.vulgaris,Beet fodder,mangelwurzel_fodder_beet,3301290400
 102,krmna repa,Brassica rapa L. var. rapa (L.) Thell,Turnip,turnips,3301290800
