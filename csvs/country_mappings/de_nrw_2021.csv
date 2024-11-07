@@ -109,7 +109,7 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 637,"Salat (Garten, Lollo Rosso.)",Lettuce (garden,salads_lettuce_leaf_vegetables,3301310000,salads_lettuce_leaf_vegetables,3301310000
 638,Spinat,spinach,spinach,3301310800,spinach,3301310800
 639,"Mangold, Rote Beete/Rote Rübe",Swiss chard,beetroot_beets,3301290200,beetroot_beets,3301290200
-640,Melde (Garten-Melde),Report (garden report),kitchen_gardens,3301120000,kitchen_gardens,3301120000
+640,Melde (Garten-Melde),Garden orache,other_salads_lettuce_leaf_vegetables,3301319900,kitchen_gardens,3301120000
 641,Sellerie (Knoll/Bleich/Stang),Celery (tuber / pale / stick),celery,3301250000,celery,3301250000
 642,Ampfer (Wiesen-Sauerampfer),Dock (meadow sorrel),sorrel,3301310700,sorrel,3301310700
 643,Pastinaken,Parsnips,parsnips,3301290500,parsnips,3301290500
