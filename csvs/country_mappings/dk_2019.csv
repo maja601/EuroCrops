@@ -94,22 +94,22 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 250,"Permanent græs, meget lavt udbytte",Permanent grass very low yield,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 251,"Permanent græs, lavt udbytte",Permanent grass low yield,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 252,"Permanent græs, normalt udbytte",Permanent grass standard yield,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-253,"Miljøgræs MVJ-tilsagn (80 N), omdrift",Environmental grass MVJ commitment (80 N) rotation,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+253,"Miljøgræs MVJ-tilsagn (80 N), omdrift",Environmental grass MVJ commitment (80 N) rotation,temporary_grass,3301090100,pasture_meadow_grassland_grass,3302000000
 254,"Miljøgræs MVJ-tilsagn (0 N), permanent",Environmental grass MVJ commitment (0 N) permanent,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 255,"Permanent græs, under 50% kløver/lucerne",Permanent grass less than 50% clover / alfalfa,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 256,"Permanent kløvergræs, over 50 % kløver/lucerne",Permanent clover grass over 50% clover / alfalfa0,clover,3301090303,clover,3301090303
 257,"Permanent græs, uden kløver",Permanent grass without clover,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 259,"Permanent græs, fabrik, over 6 tons",Permanent grass factory over 6 tons,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-260,"Græs med kløver/lucerne, under 50 % bælgpl. (omdrift)",Grass with clover / alfalfa less than 50% legumes rotation,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+260,"Græs med kløver/lucerne, under 50 % bælgpl. (omdrift)",Grass with clover / alfalfa less than 50% legumes rotation,plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
 261,"Kløvergræs, over 50% kløver (omdrift)",Clover grass over 50% clover (rotation),clover,3301090303,clover,3301090303
 262,"Lucernegræs, over 50% lucerne (omdrift)",Lucerne grass over 50% alfalfa (rotation),alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
-263,Græs uden kløvergræs (omdrift),Grass without clover grass (rotation),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-264,"Græs og kløvergræs uden norm, under 50 % kløver (omdrift)",Grass and clover grass without norm below 50% clover (rotation),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-266,"Græs under 50% kløver/lucerne, ekstremt lavt udbytte (omdrift)",Grass below 50% clover / alfalfa extremely low yield (rotation),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-267,"Græs  under 50% kløver/lucerne, meget lavt udbytte (omdrift)",Grass below 50% clover / alfalfa very low yield (rotation),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-268,"Græs under 50% kløver/lucerne, lavt udbytte (omdrift)",Grass below 50% clover / alfalfa low yield (rotation),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+263,Græs uden kløvergræs (omdrift),Grass without clover grass (rotation),temporary_grass,3301090100,pasture_meadow_grassland_grass,3302000000
+264,"Græs og kløvergræs uden norm, under 50 % kløver (omdrift)",Grass and clover grass without norm below 50% clover (rotation),plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
+266,"Græs under 50% kløver/lucerne, ekstremt lavt udbytte (omdrift)",Grass below 50% clover / alfalfa extremely low yield (rotation),plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
+267,"Græs  under 50% kløver/lucerne, meget lavt udbytte (omdrift)",Grass below 50% clover / alfalfa very low yield (rotation),plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
+268,"Græs under 50% kløver/lucerne, lavt udbytte (omdrift)",Grass below 50% clover / alfalfa low yield (rotation),plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
 269,"Græs, rullegræs",Grass rolled sod,sod_turf,3301090207,sod_turf,3301090207
-270,"Græs til udegrise, omdrift",Grass for freerange pigs rotation,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+270,"Græs til udegrise, omdrift",Grass for freerange pigs rotation,temporary_grass,3301090100,pasture_meadow_grassland_grass,3302000000
 271,Rekreative formål,Recreative purpose,not_known_and_other,3399000000,not_known_and_other,3399000000
 272,Permanent græs til fabrik,Permanent grass for factory,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 273,Lucerne til fabrik,Lucerne to factory,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
@@ -121,12 +121,12 @@ original_code,original_name,translated_name,HCAT3_name,HCAT3_code,HCAT2_name,HCA
 281,Kålroer,Swedes,swede_rutabaga,3301210500,swede_rutabaga,3301210500
 282,Fodermarvkål,Marrow stem kale,kale,3301210208,kale,3301210208
 283,Fodergulerødder,Fodder carrots,carrots_daucus,3301290300,carrots_daucus,3301290300
-284,"Græs med vikke og andre bælgplanter, under 50%bælgpl.",Grass with vetches and other legumes less than 50% legumes,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+284,"Græs med vikke og andre bælgplanter, under 50%bælgpl.",Grass with vetches and other legumes less than 50% legumes,plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
 285,"Græs og kløvergræs uden norm, over 50 % kløver (omdrift)",Grass and clover grass without norm over 50% clover (rotation),clover,3301090303,pasture_meadow_grassland_grass,3302000000
 286,"Permanent græs og kløvergræs uden norm, over 50 % kløver",Permanent grass and clover grass without norm over 50% clover,clover,3301090303,pasture_meadow_grassland_grass,3302000000
 287,"Græs til udegrise, permanent",Grass for outdoor pigs permanent,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 305,"Permanent græs, uden udbetaling af økologi-tilskud",Permanent grass without payment of ecological subsidies,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
-306,"Græs i omdrift, uden udbetaling af økologi-tilskud",Grass in rotation without payment of organic subsidies,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+306,"Græs i omdrift, uden udbetaling af økologi-tilskud",Grass in rotation without payment of organic subsidies,temporary_grass,3301090100,pasture_meadow_grassland_grass,3302000000
 308,"MFO-brak, sommerslåning",EFA-Fallow with summer mowing,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
 309,Udyrket areal ved vandboring,Uncultivated area next to water boreholes,not_known_and_other,3399000000,not_known_and_other,3399000000
 310,"Brak, sommerslåning",Fallow with summer mowing,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
