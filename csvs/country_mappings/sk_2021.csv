@@ -4,13 +4,13 @@ Pšenica ozimná,Winter wheat,winter_common_soft_wheat,3301010101,winter_common_
 Mezofilné  trvalé trávne porasty (typ B),Mesophilic permanent grassland (type B),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 Kukurica,Sweet corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
 Pôda ležiaca úhorom,Fallow land,fallow_land_not_crop,3301110000,fallow_land_not_crop,3301110000
-Trávy a iné rastlinné krmivá,Grasses and other vegetable fodder,pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
+Trávy a iné rastlinné krmivá,Grasses and other vegetable fodder,plants_harvested_green,3301090000,pasture_meadow_grassland_grass,3302000000
 Jačmeň jarný,Spring barley,spring_barley,3301010402,spring_barley,3301010402
 Lucerna siata,Lucerne seed,alfalfa_lucerne,3301090301,alfalfa_lucerne,3301090301
 Kapusta repková pravá - ozimná,Rapeseed - winter,winter_rapeseed_rape,3301060401,winter_rapeseed_rape,3301060401
 Sója fazuľová,Soy beans,soy_soybeans,3301160000,soy_soybeans,3301160000
 Slnečnica ročná,Annual sunflower,sunflower,3301060500,sunflower,3301060500
-Zmiešaná plodina,Mixed crop,other_arable_land_crops,3301990000,other_arable_land_crops,3301990000
+Zmiešaná plodina,Mixed crop,arable_crops,3301000000,other_arable_land_crops,3301990000
 Pšenica jarná,Spring wheat,spring_common_soft_wheat,3301010102,spring_common_soft_wheat,3301010102
 Jačmeň ozimný,Winter barley,winter_barley,3301010401,winter_barley,3301010401
 Vinohrady,Vineyard,vineyards_wine_vine_rebland_grapes,3303060000,vineyards_wine_vine_rebland_grapes,3303060000
@@ -57,7 +57,7 @@ Kukurica osivová,Seed corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn
 Tekvica obyčajná (pre produkciu na priamy konzum),Pumpkin (for production for direct consumption),pumpkin_squash_gourd,3301140400,pumpkin_squash_gourd,3301140400
 Ďatelina plazivá,Creeping clover,clover,3301090303,clover,3301090303
 Hrach siaty kŕmny,Feed peas,peas,3301020600,peas,3301020600
-Cibuľa (jarná),Onion (spring),onions,3301220400,onions,3301220400
+Cibuľa (jarná),Scallion (spring),scallion,3301220500,onions,3301220400
 Marhuľa obyčajná,Apricot,apricots,3303010300,apricots,3303010300
 Vysokohorské trávne porasty (typ G),Alpine grasslands (type G),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 Paprika ročná,Sweet pepper,bell_pepper_paprika,3301300100,piper_pepper,3301061228
@@ -67,7 +67,7 @@ Broskyňa obyčajná,Peach,peach,3303011100,peach,3303011100
 Mrkva obyčajná,Common carrots,carrots_daucus,3301290300,carrots_daucus,3301290300
 Nížinné aluviálne porasty (typ E),Lowland alluvial stands (type E),pasture_meadow_grassland_grass,3302000000,pasture_meadow_grassland_grass,3302000000
 Hruška obyčajná,Common pear,pears,3303011200,pears,3303011200
-Ľan siaty olejný,Oilseed flax,oilseed_crops,3301060800,oilseed_crops,3301060800
+Ľan siaty olejný,Oilseed flax,flax_linseed_oil,3301060702,oilseed_crops,3301060800
 Cesnak (zimný),Garlic (winter),garlic,3301220200,garlic,3301220200
 Škôlky s drevnatými rastlinami,Nurseries with woody plants,nurseries_nursery,3303070000,nurseries_nursery,3303070000
 Zemiaky sadbové,Seedling potatoes,potatoes,3301030000,potatoes,3301030000
@@ -78,7 +78,7 @@ Repa obyčajná cviklová (Cvikla),Beetroot (Beetroot),beetroot_beets,3301290200
 Rajčiak jedlý,Edible tomato,tomato,3301280000,tomato,3301280000
 Petržlen záhradný,Garden parsley,parsley,3301061227,parsley,3301061227
 Čerešňa vtáčia,Bird cherry,cherry_cherries,3303010400,cherry_cherries,3303010400
-Cibuľa (zimná),Onion (winter),onions,3301220400,onions,3301220400
+Cibuľa (zimná),Scallion,scallion,3301220500,onions,3301220400
 Repa kŕmna,Fodder beet,mangelwurzel_fodder_beet,3301290400,mangelwurzel_fodder_beet,3301290400
 Ríbezľa,Currants,currants,3303020600,currants,3303020600
 Vika siata,Common vetch,vetches,3301090305,vetches,3301090305
@@ -152,7 +152,7 @@ Nechtík lekársky,Marigold medical,calendula_marigold,3301061210,calendula_mari
 Koreninové rastliny (ostatné),Spices (other),aromatic_medicinal_culinary_plants_spices_herbs,3301061200,aromatic_medicinal_culinary_plants_spices_herbs,3301061200
 Ruža jabĺčková,Apple rose,rose_hip_rosehip,3303021200,rose_hip_rosehip,3303021200
 Nektárinka,Nectarine,nectarine,3303010900,nectarine,3303010900
-Jelša lepkavá,Sticky alder,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Jelša lepkavá,Sticky alder,other_tree_wood_forest,3306990000,tree_wood_forest,3306000000
 Bôb konský,broad beans,beans,3301020100,beans,3301020100
 Ďatelina perzská,Persian clover,clover,3301090303,clover,3301090303
 Breza previsnutá,Birch overhanging,birch,3306030000,birch,3306030000
@@ -165,11 +165,11 @@ Kôpor voňavý,Fragrant dill,anethum_dill,3301061203,anethum_dill,3301061203
 Brusnica pravá,Cranberry,cranberry,3303020500,cranberry,3303020500
 Paštrnák siaty pravý,Parsnip sown right,parsnips,3301290500,parsnips,3301290500
 Bazalka pravá,Basil,basil,3301061207,basil,3301061207
-Jaseň štíhly,Slender ash tree,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Jaseň štíhly,Slender ash tree,other_tree_wood_forest,3306990000,tree_wood_forest,3306000000
 Povojník batátový (batát),Sweet potato (sweet potato),sweet_potatoes,3301040000,sweet_potatoes,3301040000
 Jarabina vtáčia,rowan,rowan_rowanberries,3303021300,rowan_rowanberries,3303021300
 Kapusta sitinová,Brassica juncea,mustard,3301210100,mustard,3301210100
 Zeler voňavý stonkový,Celery fragrant stalk,celery,3301250000,celery,3301250000
 Drieň obyčajný,Common dogwood,dogwood_cornus,3306040000,dogwood_cornus,3306040000
 Mišpuľa,Loquat,medlar_loquat,3303010800,medlar_loquat,3303010800
-Jelša sivá,Gray alder,tree_wood_forest,3306000000,tree_wood_forest,3306000000
+Jelša sivá,Gray alder,other_tree_wood_forest,3306990000,tree_wood_forest,3306000000
