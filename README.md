@@ -78,7 +78,7 @@ Find detailed information for all countries of the European Union in our [Wiki](
 
 ## Vector data download via zenodo<a name="vectordata_zenodo"></a>
 
-The vector data is now available via [zenodo](https://zenodo.org/records/8229128), currently we are on Version 9!
+The vector data is now available via [zenodo](https://zenodo.org/records/8229128), currently we are on Version 11!
 
 ## Vector data download via Sync&Share (only [Version 1](https://zenodo.org/record/6866847))<a name="vectordata"></a>
 
