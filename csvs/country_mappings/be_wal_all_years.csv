@@ -7,8 +7,8 @@ Seigle d?'hiver,,Winter rye,winter_rye,3301010301,winter_rye,3301010301
 Seigle d'hiver,,Winter rye,winter_rye,3301010301,winter_rye,3301010301
 Seigle d’hiver,331,Winter rye,winter_rye,3301010301,winter_rye,3301010301
 Seigle de printemps,332,Spring rye,spring_rye,3301010302,spring_rye,3301010302
-Orge de brasserie,323,Malting barley,unspecified_season_barley,3301010499,unspecified_season_barley,3301010499
-Orge de brasserie ,,Malting barley,unspecified_season_barley,3301010499,unspecified_season_barley,3301010499
+Orge de brasserie,323,Malting barley,barley,3301010400,unspecified_season_barley,3301010499
+Orge de brasserie ,,Malting barley,barley,3301010400,unspecified_season_barley,3301010499
 Orge d?'hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
 Orge d'?hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
 Orge d'hiver,321,Winter barley,winter_barley,3301010401,winter_barley,3301010401
@@ -17,19 +17,19 @@ Orge d'hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
 Orge d’hiver ,,Winter barley,winter_barley,3301010401,winter_barley,3301010401
 Orge de printemps,322,Spring barley,spring_barley,3301010402,spring_barley,3301010402
 Orge de printemps ,,Spring barley,spring_barley,3301010402,spring_barley,3301010402
-Avoine,,Oats,unspecified_season_oats,3301010599,unspecified_season_oats,3301010599
+Avoine,,Oats,oats,3301010500,unspecified_season_oats,3301010599
 Avoine d'hiver,341,Winter oats,winter_oats,3301010501,winter_oats,3301010501
 Avoine de printemps,342,Spring oats,spring_oats,3301010502,spring_oats,3301010502
 Maïs grain,202,Grain corn,grain_maize_corn_popcorn,3301010600,grain_maize_corn_popcorn,3301010600
 Triticale d'hiver,,Winter triticale,winter_triticale,3301010801,winter_triticale,3301010801
 Triticale de printemps,,Spring triticale,spring_triticale,3301010802,spring_triticale,3301010802
 Sorgho,381,Sorghum,millet_sorghum,3301010900,millet_sorghum,3301010900
-Epeautre,,Spelt,unspecified_season_spelt,3301011099,unspecified_season_spelt,3301011099
+Epeautre,,Spelt,spelt,3301011000,unspecified_season_spelt,3301011099
 Epeautre d'hiver,36,Winter spelt,winter_spelt,3301011001,winter_spelt,3301011001
 Epeautre de printemps,,Spring spelt,spring_spelt,3301011002,spring_spelt,3301011002
 Petit épeautre,,Einkorn,einkorn,3301011300,einkorn,3301011300
-Céréales ET légumineuses,,Cereals AND pulses,unspecified_cereals,3301011500,unspecified_cereals,3301011500
-Céréales et légumineuses,39,Cereals and legumes,unspecified_cereals,3301011500,unspecified_cereals,3301011500
+Céréales ET légumineuses,,Cereals AND pulses,cereal,3301010000,unspecified_cereals,3301011500
+Céréales et légumineuses,39,Cereals and legumes,cereal,3301010000,unspecified_cereals,3301011500
 Mélange de céréales d'hiver ( plus de 50%) et de  légumineuses (plus de 20%),,Mixture of winter cereals (over 50%) and legumes (over 20%),winter_unspecified_cereals,3301011501,winter_unspecified_cereals,3301011501
 Mélange de céréales d'hiver uniquement,,Mixture of winter cereals only,winter_unspecified_cereals,3301011501,winter_unspecified_cereals,3301011501
 Mélange de céréales de printemps ( plus de 50%) et de  légumineuses (plus de 20%),,Mixture of spring cereals (over 50%) and legumes (over 20%),spring_unspecified_cereals,3301011502,spring_unspecified_cereals,3301011502
