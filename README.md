@@ -4,13 +4,13 @@ _Border Region Austria - Slovakia around Bratislava_
 # EuroCrops
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+MAKE SURE TO CHECK OUT **[EUROCROPS 2.0](https://data.jrc.ec.europa.eu/dataset/b9fb9e67-78a9-4327-9d59-39a928d812d3)**!
+
 EuroCrops is a dataset collection combining all publicly available self-declared crop reporting datasets from countries of the European Union.
 The project is funded by the German Space Agency at DLR on behalf of the Federal Ministry for Economic Affairs and Climate Action (BMWK).
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-
-Right now EuroCrops only includes vector data, but stay tuned for a version that includes satellite imagery!
 
 **For any questions, please refer to our [FAQs](https://github.com/maja601/EuroCrops/wiki/FAQs) or use the Discussions/Issues to reach out to us.**
 
